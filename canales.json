@@ -512,6 +512,16 @@
       "referer": ""
     },
     {
+      "name": "Claro Sports",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "clarosports",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "CM",
       "link": "http://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
       "web": "no",
@@ -746,7 +756,7 @@
     },
     {
       "name": "El Doce Córdoba",
-      "link": "http://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
+      "link": "https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8",
       "web": "no",
       "img": "eldoce",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
