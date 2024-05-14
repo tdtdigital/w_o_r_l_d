@@ -1155,7 +1155,17 @@
       "referer": ""
     },
     {
-      "name": "Golden 2",
+      "name": "Golden Op2",
+      "link": "https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8",
+      "web": "no",
+      "img": "golden",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Golden MX",
       "link": "https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8",
       "web": "no",
       "img": "golden",
@@ -2457,7 +2467,7 @@
     },
     {
       "name": "Vorterix",
-      "link": "http://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd",
+      "link": "http://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
       "web": "no",
       "img": "vorterix",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
