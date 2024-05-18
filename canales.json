@@ -203,7 +203,7 @@
     },
     {
       "name": "Band",
-      "link": "http://spo.corehostmorecore15.com:2082/live/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18.ts",
+      "link": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
       "web": "no",
       "img": "band",
       "license": "no",
@@ -756,10 +756,10 @@
     },
     {
       "name": "El Doce Córdoba",
-      "link": "https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8",
+      "link": "http://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
       "web": "no",
       "img": "eldoce",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NmJiMDI4MDgwNTA2ZGJhYmVkMzFlZGZlY2MwYTE5OWQ",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
