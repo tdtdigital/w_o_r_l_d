@@ -102,7 +102,7 @@
       },
       {
         "name": "EL TRECE INTERNACIONAL",
-        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
         "icono": "https://i.ibb.co/RT2dTYB/el-trece.png"
@@ -302,7 +302,7 @@
       },
       {
         "name": "MANIJOMIO",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Manijomio/SA_Live_dash_enc/Manijomio.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Manijomio/SA_Live_dash_enc/Manijomio.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/DbcPL2b/manijomio.png"
@@ -316,21 +316,21 @@
       },
       {
         "name": "EVENTOS 2",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
       },
       {
         "name": "EVENTOS 3",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/bQk5pCX/eventos-3.png"
       },
       {
         "name": "FLOW GAMING",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_Live_dash_cenc/Flow_GamingXP.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_Live_dash_cenc/Flow_GamingXP.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/PNxLHrh/flow-gaming.png"
@@ -398,7 +398,7 @@
       },
       {
         "name": "SOMOS EL VALLE",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_cenc/Somos_El_Valle.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_cenc/Somos_El_Valle.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png"
@@ -531,7 +531,7 @@
       },
       {
         "name": "CANAL U",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_cenc/CBA24.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_cenc/CBA24.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/K2sJwVC/canal-u.png"
@@ -1579,7 +1579,7 @@
       },
       {
         "name": "EVENTOS 2",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
@@ -1614,7 +1614,7 @@
       },
       {
         "name": "ESPN UY",
-        "uri": "http://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
         "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
@@ -1635,7 +1635,7 @@
       },
       {
         "name": "ESPN 2 UY",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
         "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png"
@@ -1656,7 +1656,7 @@
       },
       {
         "name": "ESPN 3 UY-PY",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
         "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
@@ -2973,7 +2973,7 @@
       },
       {
         "name": "NICKMUSIC",
-        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/c1h9ktm/Nick-Music.png"
@@ -3052,10 +3052,10 @@
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
       },
       {
-        "name": "ALLEGRO",
-        "uri": "http://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_EXTRA/AllegroHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+        "name": "ALLEGRO HD",
+        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_EXTRA/AllegroHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/ts85rN6/allegro.png"
       },
       {
@@ -3524,7 +3524,7 @@
       },
       {
         "name": "USA NETWORK LATAM",
-        "uri": "http://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/fN4bsYz/usa-network.png"
@@ -3545,7 +3545,7 @@
       },
       {
         "name": "GOLDEN",
-        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
@@ -4109,7 +4109,7 @@
       },
       {
         "name": "PLIM PLIM TV",
-        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/HgqtG9q/plim-plim.png"
@@ -5802,7 +5802,7 @@
       },
       {
         "name": "EVENTOS 3",
-        "uri": "http://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc/Eventos3_UY.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc/Eventos3_UY.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
         "icono": "https://i.ibb.co/bQk5pCX/eventos-3.png"
@@ -6358,14 +6358,14 @@
       },
       {
         "name": "NEW BRASIL",
-        "uri": "http://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/5vSfGjj/new-brasil.png"
       },
       {
         "name": "DNEWS",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_cenc/DNews.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_cenc/DNews.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
         "icono": "https://i.ibb.co/gJL91wN/DNews.png"
