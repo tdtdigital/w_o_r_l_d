@@ -873,6 +873,20 @@
         "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
       },
       {
+        "name": "LALIGA HYPERMOTION 2",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94",
+        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
+      },
+      {
+        "name": "LALIGA HYPERMOTION 3",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94",
+        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
+      },
+      {
         "name": "ELEVEN  1  PT",
         "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
@@ -2292,6 +2306,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/82QvHTH/ar-nba-tv.png"
       },
+            {
+                "name": "PREMIER LEAGUE",
+"drm_scheme": "clearkey",
+"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e",
+                "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
+                "icono": "https://peacocktv.com/dam/sports/pl/logo-pl-w.png"
+            },
        {
         "name": "USA NETWORK US",
         "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
@@ -2481,6 +2502,83 @@
         "name": "BELARUS 5 INTERNET",
         "uri": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/sgbg5Jh/Belarus-5-Internet.png"
+      },
+       {
+        "name": "ZIGGO SPORT",
+        "uri": "https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0be3d503dba13fc9a9c8ad4b89f599e6&key=578c2231c526c5e9eb415411e36871bf",
+        "icono": "https://i.ibb.co/cXj909k/ziggo-sport.png"
+      },
+       {
+        "name": "ZIGGO SPORT SELECT",
+        "uri": "https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/3TgdzTh/ziggo-sport-select.png"
+      },
+       {
+        "name": "ZIGGO SPORT DOCU",
+        "uri": "https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/TcP9pgg/ziggo-docu.png"
+      },
+       {
+        "name": "ZIGGO SPORT VOETBAL",
+        "uri": "https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/6Nd0wWj/ziggo-voetbal.png"
+      },
+       {
+        "name": "ZIGGO SPORT RACING",
+        "uri": "https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000097_019370/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/yY5m5FK/ziggo-sport-racing.png"
+      },
+       {
+        "name": "ZIGGO SPORT GOLF",
+        "uri": "https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/N1g6v6w/ziggo-golf.png"
+      },
+       {
+        "name": "ZIGGO SPORT TENNIS",
+        "uri": "https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16bf72dc22743d929c4318e193408373&key=eae51a1e3904124963074cbf432c7c8e",
+        "icono": "https://i.ibb.co/VmTByFX/ziggo-tennis.png"
+      },
+       {
+        "name": "ESPN NL",
+        "uri": "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e999e38253834baa63881ea451f2839&key=99b88d9cde1d8986decbc5985da87187",
+        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
+      },
+       {
+        "name": "ESPN 2 NL",
+        "uri": "https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e999e38253834baa63881ea451f2839&key=99b88d9cde1d8986decbc5985da87187",
+        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png"
+      },
+       {
+        "name": "ESPN 3 NL",
+        "uri": "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e999e38253834baa63881ea451f2839&key=99b88d9cde1d8986decbc5985da87187",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
+      },
+       {
+        "name": "ESPN 4 NL",
+        "uri": "https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e999e38253834baa63881ea451f2839&key=99b88d9cde1d8986decbc5985da87187",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png"
       },
       {
         "name": "FIFA+ ES",
@@ -3052,10 +3150,10 @@
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
       },
       {
-        "name": "ALLEGRO HD",
-        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_EXTRA/AllegroHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+        "name": "ALLEGRO",
+        "uri": "http://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
         "icono": "https://i.ibb.co/ts85rN6/allegro.png"
       },
       {
@@ -3752,7 +3850,7 @@
       },
       {
         "name": "CLOVER CHANNEL",
-        "uri": "https://archive.org/download/xw-i_20240326/clov.m3u8",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
       },
 {
@@ -4430,6 +4528,11 @@
         "icono": "https://i.ibb.co/KLMCwpk/syfy.png"
       },
       {
+        "name": "WARNER TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/xGcXKj5/warner-tv.png"
+      },
+      {
         "name": "A3SERIES",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/4R0WQfr/a3s.png"
@@ -4482,9 +4585,8 @@
       },
       {
         "name": "TCM",
-        "uri": "https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1ac0887faa9a185c93a2b989bff2e24b&key=22831d8c2d1133edf6b8db84087b5854",
         "icono": "https://i.ibb.co/GCG71nJ/tcm.png"
       },
       {
@@ -4664,6 +4766,11 @@
         "icono": "https://i.ibb.co/9hg4T9j/hqmKids.png"
       },
        {
+        "name": "HQM REMEMBER",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/Wt7g6DT/remember-hqm.png"
+      },
+       {
         "name": "HQM CHILL OUT",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:186_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/wcNKp9w/chill-out-hqm.png"
@@ -4694,6 +4801,11 @@
         "icono": "https://i.ibb.co/X4v9smt/rock-hqm.png"
       },
        {
+        "name": "HIT TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1024px-HIT_TV_logo.svg.png"
+      },
+       {
         "name": "SOL MÚSICA",
         "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/320px-SolMusica.png"
@@ -4712,6 +4824,11 @@
         "name": "D BIKE TV",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/CbdTGMT/d-bike.png"
+      },
+       {
+        "name": "D VIAJE TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:224_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/DVP49r4/dviaje.png"
       },
        {
         "name": "ESCAPA TV",
@@ -4814,6 +4931,11 @@
         "icono": "https://i.ibb.co/XZ7zGpB/laotra.png"
       },
       {
+        "name": "8 MADRID TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/4SjKbkr/8madridtv.png"
+      },
+      {
         "name": "DISTRITO TV",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/SKT8TrJ/distrito-tv.png"
@@ -4832,6 +4954,16 @@
         "name": "8 MEDITERRÁNEO",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/5LdmpYn/8-mediterr-neo.png"
+      },
+      {
+        "name": "TG7",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:240_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/NYrDMwX/tg7-granada.png"
+      },
+      {
+        "name": "PTV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:242_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/qsQdSrf/ptv-granada.png"
       },
       {
         "name": "LA CORRIENTE",
