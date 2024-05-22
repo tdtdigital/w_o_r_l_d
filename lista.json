@@ -859,6 +859,13 @@
         "icono": "https://i.ibb.co/TY7vtjy/dazn-laliga.png"
       },
       {
+        "name": "LALIGA TV",
+        "uri": "https://tvup-live.akamaized.net/laligatv/laligatv.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
         "name": "LA LIGA HYPERMOTION",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
         "drm_scheme": "clearkey",
@@ -870,21 +877,21 @@
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94",
-        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
+        "icono": "https://i.ibb.co/H2LzM11/La-Liga-Hypermotion.png"
       },
       {
         "name": "LALIGA HYPERMOTION 2",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94",
-        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b1fdeaee3ffc51e9a66cf1938d57aaf&key=28e3cb88ab7b476b81ab8aa0624c4d71",
+        "icono": "https://i.ibb.co/4WG35g4/Hypermotion2.png"
       },
       {
         "name": "LALIGA HYPERMOTION 3",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94",
-        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6",
+        "icono": "https://i.ibb.co/jzb678p/Hypermotion3.png"
       },
       {
         "name": "ELEVEN  1  PT",
@@ -1391,7 +1398,7 @@
       },
       {
         "name": "UNIMÁS OESTE",
-        "uri": "https://archive.org/download/1_20240221_20240221/unimas-w.m3u8",
+        "uri": "https://aCRrchive.org/download/1_20240221_20240221/unimas-w.m3u8",
         "icono": "https://i.ibb.co/HBnkMcS/unimas.png"
       },
       {
@@ -1403,6 +1410,13 @@
         "name": "GALAVISIÓN OESTE",
         "uri": "https://archive.org/download/xw-i_20240326/galavision-w.m3u8",
         "icono": "https://i.ibb.co/ZfcPSWV/GALAVISION.webp"
+      },
+      {
+        "name": "GLOBAL TELENOVELAS",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/globaltelenovelas/MPEG-DASH_Scrambled_High/globaltelenovelas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f657e4fb18a4f5caa48809cdba2fdee&key=f99135e82db486c7e485a13c1d9ce2c7",
+        "icono": "https://i.ibb.co/dmvFF50/global-tlnovelas.png"
       },
       {
         "name": "NOVELAS INOLVIDABLES",
@@ -2568,7 +2582,7 @@
       },
        {
         "name": "ESPN 3 NL",
-        "uri": "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd ",
+        "uri": "https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e999e38253834baa63881ea451f2839&key=99b88d9cde1d8986decbc5985da87187",
         "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
@@ -3155,6 +3169,20 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
         "icono": "https://i.ibb.co/ts85rN6/allegro.png"
+      },
+      {
+        "name": "MEZZO",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ecfce9c56a46a42e4aba2dcf8037fed&key=3085cadf11d93aa24b88ba938ad61ccd",
+        "icono": "https://i.ibb.co/MZvJxyF/mezzo.png"
+      },
+      {
+        "name": "MEZZO LIVE",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4708dc633793632adb2287ef37b2dc79&key=4d09e48cae8061ed7612c1c969804922",
+        "icono": "https://i.ibb.co/5WJBvVf/mezzo-live.png"
       },
       {
         "name": "VIVALDI TV",
@@ -3966,8 +3994,10 @@
       },
       {
         "name": "AMC CRIME",
-        "uri": "https://archive.org/download/2_20231125_202311/crimen.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/640px-AMC_Crime.svg.png"
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/amccrime/MPEG-DASH_Scrambled_High/amccrime.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48cb9a27ec01493eb77067054ade361c&key=8d9960273cf5133d719dd1820efdc234",
+        "icono": "https://i.ibb.co/TLnB7gg/AMC-Crime.png"
       },
       {
         "name": "DISCOVERY SCIENCE",
@@ -4014,7 +4044,7 @@
       {
         "name": "AMC BREAK",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/640px-AMC_Break.svg.png"
+        "icono": "https://i.ibb.co/XLkP0KL/AMC-Break.png"
       },
       {
         "name": "NATIONAL GEOGRAPHIC SUR",
@@ -4071,13 +4101,6 @@
        {
         "name": "CANAL COCINA",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd",
-        "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
-      },
-       {
-        "name": "CANAL COCINA 4K",
-        "uri": "https://cache1.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
         "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
       },
        {
@@ -4530,7 +4553,7 @@
       {
         "name": "WARNER TV",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/xGcXKj5/warner-tv.png"
+        "icono": "https://i.ibb.co/0J46kVz/warner-tv.png"
       },
       {
         "name": "A3SERIES",
@@ -4561,9 +4584,9 @@
       },
       {
         "name": "DARK",
-        "uri": "https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/dark/MPEG-DASH_Scrambled_High/dark.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee3899fcba09e6de20355394106ca745&key=d84b6489ff8e5aeecde84a659c0617b8",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=686ad327ccee4ffeb81a162dde0ba28d&key=11b8fbef536bd7b3593a42785022d197",
         "icono": "https://i.ibb.co/3zS2xrZ/dark.png"
       },
        {
@@ -4573,15 +4596,24 @@
       },
       {
         "name": "SOMOS",
-        "uri": "https://ott.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/somos/MPEG-DASH_Scrambled_High/somos.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8a8727d4973b18f61b29ac751b8a7522&key=10a11fe6ef837a5851cc6eeea7c08dc2",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9447044838ca4e54b9e0cdb2657b769c&key=60a6c3b61e6f4e106e2da0400eee6406",
         "icono": "https://i.ibb.co/cvY8pZZ/SOMOS.png"
       },
       {
         "name": "ENFAMILIA",
-        "uri": "https://archive.org/download/xw-i_20240326/enfamilia.m3u8",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/enfamilia/MPEG-DASH_Scrambled_High/enfamilia.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1001a18733bc4430ae709bae18850030&key=72da020cb3510605e2fa822ce9ffb6d0",
         "icono": "https://i.ibb.co/DYL6C4X/ENFAMILIA.webp"
+      },
+       {
+        "name": "CANAL COCINA 4K",
+        "uri": "https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
+        "icono": "https://i.ibb.co/Zg7kJcg/COCINA.png"
       },
       {
         "name": "TCM",
@@ -4591,21 +4623,23 @@
       },
       {
         "name": "AXN",
-        "uri": "https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/axn/MPEG-DASH_Scrambled_High/axn.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=17b4b5cdbb271e7f6d97e38a04a2d27f&key=75aef15c20e7a17c64b71d2f840a6f5d",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=27f4d3c149114a3693abb9c51023c7d4&key=9f6a2514e14c716a1973baa3327e1809",
         "icono": "https://i.ibb.co/N1nyvmH/axn.png"
       },
       {
         "name": "AXN MOVIES",
-        "uri": "https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/axnmovies/MPEG-DASH_Scrambled_High/axnmovies.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f9e4be09926c262effa2b5381ae3553d&key=d630e04e0c5e3f98dc38840be1c1dd4c",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0a6b52e3200d409db941741f95967109&key=0627805e9890a5b129f6238195f3840e",
         "icono": "https://i.ibb.co/Qc4ZpmZ/axn-movies.png"
       },
       {
         "name": "BOM CINE",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_premium.smil/manifest.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/bomcine/MPEG-DASH_Scrambled_High/bomcine.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c804ded3dc3441cfaca3644c84f9c530&key=6ffc1961b5688b9162952b569aa51975",
         "icono": "https://i.ibb.co/QcsBgzQ/bom-cine.png"
       },
       {
@@ -4803,7 +4837,7 @@
        {
         "name": "HIT TV",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1024px-HIT_TV_logo.svg.png"
+        "icono": "https://i.ibb.co/J3GHQmK/HIT-TV.png"
       },
        {
         "name": "SOL MÚSICA",
