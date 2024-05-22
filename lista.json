@@ -4584,9 +4584,9 @@
       },
       {
         "name": "DARK",
-        "uri": "http://mad02.cdn.avatel.tv/live/eds/dark/MPEG-DASH_Scrambled_High/dark.mpd",
+        "uri": "https://tvup-live.akamaized.net/darksolo/darksolo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=686ad327ccee4ffeb81a162dde0ba28d&key=11b8fbef536bd7b3593a42785022d197",
+        "drm_license_uri": "https://archive.org/download/xw-i_20240326/d%C3%A0%C2%B4rk.json",
         "icono": "https://i.ibb.co/3zS2xrZ/dark.png"
       },
        {
