@@ -1398,7 +1398,7 @@
       },
       {
         "name": "UNIMÁS OESTE",
-        "uri": "https://aCRrchive.org/download/1_20240221_20240221/unimas-w.m3u8",
+        "uri": "https://archive.org/download/1_20240221_20240221/unimas-w.m3u8",
         "icono": "https://i.ibb.co/HBnkMcS/unimas.png"
       },
       {
@@ -2826,7 +2826,7 @@
       },
        {
         "name": "FIGHT BOX",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/wNr5192/fight-box.png"
       },
        {
@@ -2881,12 +2881,12 @@
       },
        {
         "name": "EXTREME SPORTS CHANNEL",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/s2CY3mx/extreme.png"
       },
        {
         "name": "FUEL TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/fueltv.png"
       },
        {
@@ -2926,7 +2926,7 @@
       },
        {
         "name": "SURF CHANNEL",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/KhswtKR/Surf-Channel.png"
       },
        {
@@ -3878,7 +3878,7 @@
       },
       {
         "name": "CLOVER CHANNEL",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
       },
 {
@@ -3944,7 +3944,7 @@
     "samples": [
       {
         "name": "CANAL HISTORIA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/Ytx5jSX/historia.png"
       },
       {
@@ -3970,7 +3970,7 @@
       },
       {
         "name": "DISCOVERY CHANNEL ES",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/N2w45Cv/discovery.png"
       },
       {
@@ -3982,7 +3982,7 @@
       },
       {
         "name": "DKISS",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/dkiss.png"
       },
       {
@@ -4008,7 +4008,7 @@
       },
       {
         "name": "DMAX",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73e55164b719d1210351f86093bc3ec3&key=792ffb4e6ebbe2aae394061f01948e40",
         "icono": "http://78.47.174.211/logos/dmax.png"
@@ -4043,7 +4043,7 @@
       },
       {
         "name": "AMC BREAK",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/XLkP0KL/AMC-Break.png"
       },
       {
@@ -4069,7 +4069,7 @@
       },
       {
         "name": "ODISEA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/bBwXr6d/odisea.png"
       },
       {
@@ -4081,7 +4081,7 @@
       },
       {
         "name": "CANAL DECASA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/decasa.png"
       },
       {
@@ -4100,7 +4100,7 @@
       },
        {
         "name": "CANAL COCINA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd",
         "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
       },
        {
@@ -4110,7 +4110,7 @@
       },
        {
         "name": "BUEN  VIAJE",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/C5KRxTw/buen-viaje.png"
       },
       {
@@ -4254,7 +4254,7 @@
       },
        {
         "name": "KIDS TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/yNj7cS0/kidsTv.png"
       },
       {
@@ -4410,12 +4410,12 @@
       },
        {
         "name": "LA 2",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png"
       },
        {
         "name": "CLAN TVE",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.mpd",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png"
       },
       {
@@ -4437,7 +4437,7 @@
       },
        {
         "name": "CUATRO",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/cuatro.png"
       },
       {
@@ -4449,7 +4449,7 @@
       },
        {
         "name": "LA SEXTA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/lasexta.png"
       },
        {
@@ -4461,7 +4461,7 @@
       },
       {
         "name": "ENERGY",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/energy.png"
       },
       {
@@ -4473,7 +4473,7 @@
       },
        {
         "name": "GOL PLAY",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/gol.png"
       },
       {
@@ -4485,7 +4485,7 @@
       },
       {
         "name": "BE MAD",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/bemad.png"
       },
        {
@@ -4497,22 +4497,22 @@
       },
       {
         "name": "DIVINITY",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/vh25P8g/Divinity.png"
       },
       {
         "name": "TRECE",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/t8jd64y/trece-tv.png"
       },
       {
         "name": "CALLE 13",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/rfrbY7V/Calle13.png"
       },
       {
         "name": "TEN",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png"
       },
        {
@@ -4532,32 +4532,32 @@
       },
        {
         "name": "EL TORO TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/kJ7yxZf/eltorotv.png"
       },
        {
         "name": "COSMO",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/cosmo.png"
       },
        {
         "name": "PARAMOUNT NETWORK",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/kKhQh90/Paramount-Network-2024.png"
       },
        {
         "name": "SYFY",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/KLMCwpk/syfy.png"
       },
       {
         "name": "WARNER TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/0J46kVz/warner-tv.png"
       },
       {
         "name": "A3SERIES",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/4R0WQfr/a3s.png"
       },
       {
@@ -4569,17 +4569,17 @@
       },
        {
         "name": "AMC",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/1TGDyyn/amc.png"
       },
       {
         "name": "CANAL HOLLYWOOD",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/KxsBt3C/hollywood.png"
       },
        {
         "name": "SUNDANCE TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/HYcqZJT/sundance-tv.png"
       },
       {
@@ -4591,7 +4591,7 @@
       },
        {
         "name": "XTRM",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/tHzkr8Y/xtrm.png"
       },
       {
@@ -4617,7 +4617,7 @@
       },
       {
         "name": "TCM",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
         "icono": "https://i.ibb.co/GCG71nJ/tcm.png"
       },
@@ -4644,17 +4644,17 @@
       },
       {
         "name": "CINES VERDI TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/mTXvbjM/verditv.png"
       },
       {
         "name": "CINE FEEL GOOD",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/0MsDtN8/cine-feel-good.png"
       },
        {
         "name": "ACONTRA+ CINE",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/vPqtXXK/acontra.png"
       },
       {
@@ -4764,12 +4764,12 @@
       },
        {
         "name": "DISNEY CHANNEL",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/L88skJs/Disney-Channel.png"
       },
        {
         "name": "BOING",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/479px-Boing_2020.svg.png"
       },
       {
@@ -4796,47 +4796,47 @@
       },
        {
         "name": "HQM KIDS",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/9hg4T9j/hqmKids.png"
       },
        {
         "name": "HQM REMEMBER",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/Wt7g6DT/remember-hqm.png"
       },
        {
         "name": "HQM CHILL OUT",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:186_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:186_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/wcNKp9w/chill-out-hqm.png"
       },
        {
         "name": "HQM GYM",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/L9pDwqB/gym-hqm.png"
       },
        {
         "name": "HQM HITS",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/bKSJsCG/hits-hqm.png"
       },
        {
         "name": "HQM LATIN",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/vV4FvRB/latin-hqm.png"
       },
        {
         "name": "HQM POP",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/ZxjRp4M/pop-hqm.png"
       },
        {
         "name": "HQM ROCK",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/X4v9smt/rock-hqm.png"
       },
        {
         "name": "HIT TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/J3GHQmK/HIT-TV.png"
       },
        {
@@ -4846,7 +4846,7 @@
       },
        {
         "name": "ARQUIDECO",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:131_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:131_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/C2zsfbw/arquideco.png"
       },
       {
@@ -4856,17 +4856,17 @@
       },
        {
         "name": "D BIKE TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/CbdTGMT/d-bike.png"
       },
        {
         "name": "D VIAJE TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:224_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:224_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/DVP49r4/dviaje.png"
       },
        {
         "name": "ESCAPA TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/Tm7hmVT/escapatv.png"
       },
       {
@@ -4876,22 +4876,22 @@
       },
        {
         "name": "IBERALIA ORIGINAL",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/c3YBHQc/iberalia.png"
       },
       {
         "name": "IBERALIA 100% PESCA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/Fwzk9sH/iberalia-pesca.png"
       },
       {
         "name": "IBERALIA 100% CAZA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/SVW6s2V/iberalia-caza.png"
       },
       {
         "name": "CAZAVISIÓN",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/FqzFPq9/cazavisi-n.png"
       },
       {
@@ -4906,7 +4906,7 @@
       },
       {
         "name": "ETB 3",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/4Mq37P8/ETB-3.png"
       },
       {
@@ -4931,7 +4931,7 @@
       },
       {
         "name": "ESPORT3",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/640px-Esport3.svg.png"
       },
       {
@@ -4956,47 +4956,47 @@
       },
       {
         "name": "TELEMADRID INT",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/NW28jQb/telemadrid.png"
       },
       {
         "name": "LAOTRA",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/XZ7zGpB/laotra.png"
       },
       {
         "name": "8 MADRID TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/4SjKbkr/8madridtv.png"
       },
       {
         "name": "DISTRITO TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/SKT8TrJ/distrito-tv.png"
       },
       {
         "name": "CMM",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/552px-CMMedia.svg.png"
       },
       {
         "name": "LA 7",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/cYVGKfR/La-7.png"
       },
       {
         "name": "8 MEDITERRÁNEO",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/5LdmpYn/8-mediterr-neo.png"
       },
       {
         "name": "TG7",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:240_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:240_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/NYrDMwX/tg7-granada.png"
       },
       {
         "name": "PTV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:242_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:242_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/qsQdSrf/ptv-granada.png"
       },
       {
@@ -5036,17 +5036,17 @@
       },
       {
         "name": "SEVILLA FC TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/xFdqW6t/sevillatv.png"
       },
       {
         "name": "REAL BETIS TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/0Ch8FH8/betistv.jpg"
       },
       {
         "name": "REAL MADRID TV",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd",
         "icono": "https://i.postimg.cc/cLHVRCXJ/Real-Madrid-TV-English.jpg"
       }
     ]
@@ -6468,7 +6468,7 @@
       },
       {
         "name": "TRT WORLD",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:111_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:111_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/d7Q6SXr/trt.png"
       },
       {
