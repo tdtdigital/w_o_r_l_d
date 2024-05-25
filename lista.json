@@ -206,7 +206,7 @@
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
-        "icono": "https://i.ibb.co/BGxVB3t/bravo-tv.png"
+        "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
       },
       {
         "name": "CANAL E",
@@ -527,7 +527,7 @@
         "uri": "http://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-        "icono": "https://i.ibb.co/8g9Z6gr/next-multimedio.png"
+        "icono": "https://i.ibb.co/FKjY0B0/next-tv.png"
       },
       {
         "name": "EL DOCE CORDOBA",
@@ -563,7 +563,7 @@
       {
         "name": "TIERRAMIA TV",
         "uri": "https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8",
-        "icono": "https://i.ibb.co/891D38k/tierramia-tv.png"
+        "icono": "https://i.ibb.co/Cz15Y5G/tierramia-tv.png"
       },
       {
         "name": "NORTE GRANDE FEDERAL",
@@ -1476,7 +1476,7 @@
        {
         "name": "THE BOB ROSS CHANNEL EN ESPAÑOL",
         "uri": "https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8",
-        "icono": "https://i.ibb.co/7pXJ5Jm/The-Bob-Ross-Channel-en-Espanol.webp"
+        "icono": "https://i.ibb.co/qkTctkQ/The-Bob-Ross-Channel-en-Espanol.webp"
       },
        {
         "name": "ESTRELLA TV",
@@ -4567,7 +4567,7 @@
        {
         "name": "TODO NOVELAS",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-FNovelas/.m3u8",
-        "icono": "https://i.ibb.co/ZMFLCQc/Todo-novelas.png"
+        "icono": "https://i.ibb.co/dtTxKS1/Todo-novelas.png"
       },
        {
         "name": "STORMCAST NOVELAS",
@@ -4602,7 +4602,7 @@
       {
         "name": "WARNER TV",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/0J46kVz/warner-tv.png"
+        "icono": "https://i.ibb.co/r7MbWTQ/warner-tv.png"
       },
       {
         "name": "A3SERIES",
@@ -4901,7 +4901,7 @@
        {
         "name": "HIT TV",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/J3GHQmK/HIT-TV.png"
+        "icono": "https://i.ibb.co/gzngBsx/HIT-TV.png"
       },
        {
         "name": "SOL MÚSICA",
@@ -5008,7 +5008,7 @@
       {
         "name": "ETB 4",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/ncp3n84/ETB-4.png"
+        "icono": "https://i.ibb.co/hs8yTDq/ETB-4.png"
       },
       {
         "name": "ETB BASQUE",
