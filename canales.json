@@ -342,11 +342,11 @@
       "referer": ""
     },
     {
-      "name": "Canal 10 Córdoba",
+      "name": "Canal 10 de Córdoba",
       "link": "http://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
       "web": "no",
       "img": "canal10",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -386,7 +386,7 @@
       "link": "http://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd",
       "web": "no",
       "img": "canalc",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -412,6 +412,16 @@
       "referer": ""
     },
     {
+      "name": "Canal Local Carlos Paz",
+      "link": "http://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd",
+      "web": "no",
+      "img": "nextcba",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Canal LUZ",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
       "web": "no",
@@ -426,6 +436,16 @@
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
       "web": "no",
       "img": "rural",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal Universidad",
+      "link": "http://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd",
+      "web": "no",
+      "img": "tvucba",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
       "origin": "",
@@ -447,6 +467,16 @@
       "web": "no",
       "img": "cartoonito",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CBA 24N",
+      "link": "https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_cenc/CBA24.mpd",
+      "web": "no",
+      "img": "canalu",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -759,7 +789,7 @@
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
       "web": "no",
       "img": "eldoce",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=NmJiMDI4MDgwNTA2ZGJhYmVkMzFlZGZlY2MwYTE5OWQ",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -1299,7 +1329,7 @@
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
       "web": "no",
       "img": "hbox",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=Y2Y5YjdjYTllNjA4MzVkZDQ0ZTJlY2U2NTlkY2M2NjM",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=Y2Y5YjdjYTllNjA4MzVkZDQ0ZTJlY2U2NTlkY2M2NjM=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -1776,6 +1806,16 @@
       "referer": ""
     },
     {
+      "name": "Show Sports Cordoba",
+      "link": "http://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+      "web": "no",
+      "img": "shows",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Smithsonian Channel",
       "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "web": "no",
@@ -1956,7 +1996,7 @@
       "referer": ""
     },
     {
-      "name": "Telefé",
+      "name": "Telefe",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
       "web": "no",
       "img": "telefe",
@@ -1966,17 +2006,17 @@
       "referer": ""
     },
     {
-      "name": "Telefé Córdoba",
+      "name": "Telefe Córdoba",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Telefé Hits",
+      "name": "Telefe Hits",
       "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "web": "no",
       "img": "5de91cf02fc07c0009910465",
@@ -1986,7 +2026,7 @@
       "referer": ""
     },
     {
-      "name": "Telefé Internacional",
+      "name": "Telefe Internacional",
       "link": "http://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
       "web": "no",
       "img": "telefe",
