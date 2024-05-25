@@ -4939,7 +4939,7 @@
         "icono": "https://i.ibb.co/ssQy3yY/nautical-channel.png"
       },
       {
-        "name": "NÀUTICA TV",
+        "name": "NÁUTICA TV",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:94_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=497e8784e6184eeea3aa53422eb8e4fd&key=56573789a35b592cd49ebe5a78ad2c7a",
