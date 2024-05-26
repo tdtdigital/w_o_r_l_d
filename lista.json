@@ -865,7 +865,7 @@
       },
       {
         "name": "M LALIGA TV",
-        "uri": "http://live12-dash.cdns.cdn.orangetv.orange.es/EnQcX6psVXkbCScq9gMOZg/1716698460/99308995/49247681/76/cmaf/r12_mlaliga/dash_high.mpd",
+        "uri": "http://live12-dash.cdns.cdn.orangetv.orange.es/zSW3720CoZg8NsJxVGJizQ/1716786490/99308995/49247681/76/cmaf/r12_mlaliga/dash_high.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=850c1a430396ce4255f3902bf1f4e897&key=295b1db977f94dfbba012073901a019b",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
