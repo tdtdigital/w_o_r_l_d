@@ -1446,7 +1446,7 @@
     },
     {
       "name": "Love Nature",
-      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "link": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8",
       "web": "no",
       "img": "lovenature",
       "license": "no",
@@ -1464,7 +1464,16 @@
       "origin": "",
       "referer": ""
     },
-    
+    {
+      "name": "Metro",
+      "link": "http://chromecast.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
+      "web": "no",
+      "img": "metro",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
     {
       "name": "MTV",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
@@ -1522,6 +1531,16 @@
       "img": "net",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Naturaleza",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5dd85eac039bba0009e86d1d",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -1957,7 +1976,7 @@
     },
     {
       "name": "Syfy",
-      "link": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
       "web": "no",
       "img": "syfy",
       "license": "no",
@@ -2076,16 +2095,6 @@
       "referer": ""
     },
     {
-      "name": "Telemundo Internacional",
-      "link": "http://chromecast.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
-      "web": "no",
-      "img": "telemundo-int",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Telemundo",
       "link": "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8",
       "web": "no",
@@ -2096,10 +2105,40 @@
       "referer": ""
     },
     {
-      "name": "Telemundo al día",
+      "name": "Telemundo Acción",
+      "link": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748",
+      "web": "no",
+      "img": "telemundoacc",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Telemundo al Día",
       "link": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747",
       "web": "no",
-      "img": "telemundo",
+      "img": "telemundoald",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Telemundo Internacional",
+      "link": "http://chromecast.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+      "web": "no",
+      "img": "telemundo-int",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Telemundo Romance",
+      "link": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749",
+      "web": "no",
+      "img": "telemundorom",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
