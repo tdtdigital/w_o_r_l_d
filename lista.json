@@ -865,7 +865,7 @@
       },
       {
         "name": "M LALIGA TV",
-        "uri": "http://live12-dash.cdns.cdn.orangetv.orange.es/zSW3720CoZg8NsJxVGJizQ/1716786490/99308995/49247681/76/cmaf/r12_mlaliga/dash_high.mpd",
+        "uri": "http://live12-dash.cdns.cdn.orangetv.orange.es/8SXFGSbFYwWOKH2VZ_E4tw/1716872843/99308995/49247681/76/cmaf/r12_mlaliga/dash_high.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=850c1a430396ce4255f3902bf1f4e897&key=295b1db977f94dfbba012073901a019b",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
@@ -1789,6 +1789,34 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
         "icono": "https://i.ibb.co/SBkkDxq/fs3.png"
+      },
+      {
+        "name": "FOX SPORTS PREMIUM MX",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "icono": "https://i.ibb.co/MMQY54C/fsp.png"
+      },
+      {
+        "name": "FOX SPORTS MX",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+        "icono": "https://i.ibb.co/VVHtCwS/fs-mx.png"
+      },
+      {
+        "name": "FOX SPORTS 2 MX",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+        "icono": "https://i.ibb.co/LnFQ8mY/fs2-mx.png"
+      },
+      {
+        "name": "FOX SPORTS 3 MX",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+        "icono": "https://i.ibb.co/vw2L4Lr/fs3-mx.png"
       },
       {
         "name": "DEPORTV",
