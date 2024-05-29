@@ -4493,6 +4493,13 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
+        "name": "LALIGA TV",
+        "uri": "https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
         "name": "LALIGA+",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
         "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
