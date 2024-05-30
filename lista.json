@@ -836,6 +836,20 @@
         "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
       },
       {
+        "name": "DAZN 3 ES",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920",
+        "icono": "https://i.ibb.co/QN6xvRf/DAZN3.png"
+      },
+      {
+        "name": "DAZN 4 ES",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
+        "icono": "https://i.ibb.co/0Mh9Pt3/DAZN4.png"
+      },
+      {
         "name": "DAZN F1",
         "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
@@ -2950,11 +2964,6 @@
         "icono": "https://i.ibb.co/ZhxL3T3/mma-tv.png"
       },
        {
-        "name": "FIGHT BOX",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/wNr5192/fight-box.png"
-      },
-       {
         "name": "FIGHT NETWORK",
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132",
         "icono": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=color_onBlack"
@@ -3005,16 +3014,6 @@
         "icono": "https://i.ibb.co/k1KsQ05/extreme-plus.webp"
       },
        {
-        "name": "EXTREME SPORTS CHANNEL",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/s2CY3mx/extreme.png"
-      },
-       {
-        "name": "FUEL TV",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.mpd",
-        "icono": "http://78.47.174.211/logos/fueltv.png"
-      },
-       {
         "name": "MOTORTREND FAST TV",
         "uri": "https://dtqutq7lmcchv.cloudfront.net/10001/99951196/hls/playlist.m3u8?ads.xumo_channelId=99951196",
         "icono": "https://image.xumo.com/v1/channels/channel/99951196/600x337.webp?type=color_onBlack"
@@ -3048,11 +3047,6 @@
         "name": "BILLIARD TV",
         "uri": "https://dtqutq7lmcchv.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627",
         "icono": "https://image.xumo.com/v1/channels/channel/99991627/600x337.webp?type=color_onBlack"
-      },
-       {
-        "name": "SURF CHANNEL",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/KhswtKR/Surf-Channel.png"
       },
        {
         "name": "WORLD SURF LEAGUE",
@@ -3956,11 +3950,6 @@
         "uri": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8",
         "icono": "https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png"
       },
-      {
-        "name": "CLOVER CHANNEL",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
-      },
 {
     "name": "CINE EN FAMILIA",
     "icono": "https://i.ibb.co/gzRkDWX/Cine-en-familia.png",
@@ -4051,8 +4040,10 @@
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
       },
       {
-        "name": "DISCOVERY CHANNEL ES GEO",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
+        "name": "DISCOVERY CHANNEL ES",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/discovery/MPEG-DASH_Scrambled_High/discovery.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=501f70afc5fb453890c6c8019941ddbb&key=7746199d8bb1d5702f53d4e08758a298",
         "icono": "https://i.ibb.co/N2w45Cv/discovery.png"
       },
       {
@@ -4091,10 +4082,10 @@
         "icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
-        "name": "DMAX ES GEO",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd",
+        "name": "DMAX",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/dmax/MPEG-DASH_Scrambled_High/dmax.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73e55164b719d1210351f86093bc3ec3&key=792ffb4e6ebbe2aae394061f01948e40",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d40f14920f941c1bb4701e00fde3d7c&key=953a20537a3719be8516e2bf6515063a",
         "icono": "http://78.47.174.211/logos/dmax.png"
       },
       {
@@ -4201,12 +4192,14 @@
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png"
       },
        {
-        "name": "BUEN  VIAJE ES GEO",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd",
+        "name": "BUEN VIAJE",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/buenviaje/MPEG-DASH_Scrambled_High/buenviaje.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=493ff02e2baf4364b713c4d9eb9f7be9&key=8252d554c7b4e865dc8bbdc72c60550c",
         "icono": "https://i.ibb.co/C5KRxTw/buen-viaje.png"
       },
       {
-        "name": "INTI",
+        "name": "INTI ORIGIN",
         "uri": "https://baktilp-intipacha-1-mx.tcl.wurl.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/x8yfbT1/inti-network-tv.png"
       },
@@ -4339,7 +4332,6 @@
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687",
         "icono": "https://i.ibb.co/jkSyD5c/moji-tv.png"
       },
-
       {
         "name": "KIDS TV ESPAÑOL LATINO",
         "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
@@ -4817,6 +4809,11 @@
         "icono": "https://i.ibb.co/dtDJPqN/corto-films.png"
       },
       {
+        "name": "CLOVER CHANNEL",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
+      },
+      {
         "name": "MYTIME MOVIE NETWORK",
         "uri": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/pnQ4pkv/mytimemovienetworkspain.jpg"
@@ -5080,9 +5077,29 @@
         "icono": "https://i.ibb.co/hHMcKc3/agrotendencia.png"
       },
        {
+        "name": "EXTREME SPORTS CHANNEL",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/s2CY3mx/extreme.png"
+      },
+       {
+        "name": "FIGHT BOX",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/wNr5192/fight-box.png"
+      },
+       {
+        "name": "FUEL TV",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.mpd",
+        "icono": "http://78.47.174.211/logos/fueltv.png"
+      },
+       {
         "name": "MOTO ADV TV",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/BP6Zp00/moto-adv.jpg"
+      },
+       {
+        "name": "SURF CHANNEL",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/KhswtKR/Surf-Channel.png"
       },
        {
         "name": "ESCAPA TV",
@@ -5427,7 +5444,7 @@
       {
         "name": "VIVIR CON PERROS",
         "uri": "https://daiconnect.com/live/hls/tvup/tivify-vivirconperros/.m3u8",
-        "icono": "https://i.ibb.co/Zhjr7KV/vivir-con-perros"
+        "icono": "https://i.ibb.co/Zhjr7KV/vivir-con-perros.png"
       },
       {
         "name": "VIVIR CON GATOS",
