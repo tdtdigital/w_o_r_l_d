@@ -4051,7 +4051,7 @@
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
       },
       {
-        "name": "DISCOVERY CHANNEL ES",
+        "name": "DISCOVERY CHANNEL ES GEO",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/N2w45Cv/discovery.png"
       },
@@ -4091,7 +4091,7 @@
         "icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
-        "name": "DMAX",
+        "name": "DMAX ES GEO",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=73e55164b719d1210351f86093bc3ec3&key=792ffb4e6ebbe2aae394061f01948e40",
@@ -4201,7 +4201,7 @@
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png"
       },
        {
-        "name": "BUEN  VIAJE",
+        "name": "BUEN  VIAJE ES GEO",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/C5KRxTw/buen-viaje.png"
       },
@@ -4339,11 +4339,7 @@
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687",
         "icono": "https://i.ibb.co/jkSyD5c/moji-tv.png"
       },
-       {
-        "name": "KIDS TV",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd",
-        "icono": "https://i.ibb.co/yNj7cS0/kidsTv.png"
-      },
+
       {
         "name": "KIDS TV ESPAÑOL LATINO",
         "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
@@ -4493,7 +4489,7 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "LALIGA TV",
+        "name": "TV BAR",
         "uri": "https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
@@ -4985,6 +4981,11 @@
         "name": "POCOYÓ",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8",
         "icono": "https://i.ibb.co/5MqSp4M/pocoyo.png"
+      },
+       {
+        "name": "KIDS TV",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/yNj7cS0/kidsTv.png"
       },
        {
         "name": "HQM KIDS",
