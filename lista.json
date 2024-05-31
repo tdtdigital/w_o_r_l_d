@@ -38,7 +38,7 @@
       },
       {
         "name": "DIRECTV",
-        "uri": "https://gtechtecnologia.com/telelatino/play/21.m3u8",
+        "uri": "http://gtechtecnologia.com/telelatino/play/21.m3u8",
         "drm_scheme": "clearkey",
         "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
@@ -1880,21 +1880,21 @@
       },
 {
                 "name": "DIRECTV SPORTS",
-                "uri": "https://gtechtecnologia.com/telelatino/play/21.m3u8",
+                "uri": "http://gtechtecnologia.com/telelatino/play/21.m3u8",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
             },
 {
                 "name": "DIRECTV SPORTS 2",
-                "uri": "https://gtechtecnologia.com/telelatino/play/296.m3u8",
+                "uri": "http://gtechtecnologia.com/telelatino/play/296.m3u8",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c44d52b11dce3875ad2765c9d469075b&key=af4ba31c1324eb92ac88463f7bd941d5"
             },
 {
                 "name": "DIRECTV SPORTS PLUS",
-                "uri": "https://gtechtecnologia.com/telelatino/play/296.m3u8",
+                "uri": "http://gtechtecnologia.com/telelatino/play/296.m3u8",
                 "drm_scheme": "clearkey",
 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
                 "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png"
@@ -4583,7 +4583,9 @@
       },
        {
         "name": "GOL PLAY",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/gol/MPEG-DASH_Scrambled_High/gol.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d5da282a37541c5a970a95c3be40d18&key=e77adddf19af5436a7d9bc6ee90bde04",
         "icono": "http://78.47.174.211/logos/gol.png"
       },
       {
@@ -4616,7 +4618,9 @@
       },
       {
         "name": "TRECE",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/trecetv/MPEG-DASH_Scrambled_High/trecetv.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3821235e6f484f42b13fb06e25a28937&key=53070c6157161007c897d5b17d7c3db3",
         "icono": "https://i.ibb.co/t8jd64y/trece-tv.png"
       },
       {
@@ -4628,7 +4632,9 @@
       },
       {
         "name": "TEN",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/ten/MPEG-DASH_Scrambled_High/ten.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e46d298bf034ba4a49bde1331b15530&key=01b82ae40607726b73ec479504e31263",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png"
       },
        {
@@ -4666,11 +4672,25 @@
         "icono": "https://i.ibb.co/kKhQh90/Paramount-Network-2024.png"
       },
        {
+        "name": "COMEDY CENTRAL",
+        "uri": "https://tvup-live.akamaized.net/comedy-central6/comedy-central6.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350766",
+        "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
+      },
+       {
         "name": "SYFY",
         "uri": "https://tvup-live.akamaized.net/syfy6/syfy6.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350748",
         "icono": "https://i.ibb.co/KLMCwpk/syfy.png"
+      },
+      {
+        "name": "STAR CHANNEL",
+        "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13ff6a1cc570dc53f7ce42e70db1ad82&key=8d97281b0a59e66cc56f954cf738589c",
+        "icono": "https://i.ibb.co/VHFMnkP/star-channel.png"
       },
       {
         "name": "WARNER TV",
@@ -4940,6 +4960,13 @@
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350758",
         "icono": "https://i.ibb.co/L88skJs/Disney-Channel.png"
       },
+      {
+        "name": "DISNEY JUNIOR",
+        "uri": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aace26bb6d59be80480ab2c505ee7a2e&key=df94077e5d1eefef0695ecbc5b1db341",
+        "icono": "https://i.ibb.co/VgLTwhx/Disney-Junior.png"
+      },
        {
         "name": "BOING",
         "uri": "https://tvup-live.akamaized.net/boing/boing.mpd",
@@ -4988,6 +5015,25 @@
         "name": "HQM KIDS",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd",
         "icono": "https://i.ibb.co/9hg4T9j/hqmKids.png"
+      },
+      {
+        "name": "MTV ESPAÑA",
+        "uri": "https://tvup-live.akamaized.net/mtv-esp/mtv-esp.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350768",
+        "icono": "https://i.ibb.co/Gc7xTcB/MTV-2021.png"
+      },
+      {
+        "name": "MTV 00s",
+        "uri": "https://tvup-live.akamaized.net/mtv00s/mtv00s.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350767",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "http://ott.zapitv.com/live/eds_c2/mtv_hits/hls_ts_live_fta/mtv_hits.m3u8",
+        "icono": "https://i.ibb.co/RB2c6Xx/245px-MTV-Hits-2017-logo-svg.png"
       },
        {
         "name": "HQM REMEMBER",
@@ -5103,7 +5149,9 @@
       },
        {
         "name": "ESCAPA TV",
-        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:42_HD.smil/manifest.mpd",
+        "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/Escapa_TV_HD/__op/dash-wv/__f/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=592a9470ca8ebed314efe2493bba2ca3&key=121ded2124286b941a371a5c679d09ac",
         "icono": "https://i.ibb.co/Tm7hmVT/escapatv.png"
       },
       {
@@ -5212,7 +5260,9 @@
       },
       {
         "name": "À PUNT",
-        "uri": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/apunt/MPEG-DASH_Scrambled_High/apunt.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=522546aba7ac487186eb9cc96c9bb0ba&key=8b4eca2caddf5b568deed6b51c243b13",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/240px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
       },
       {
