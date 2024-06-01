@@ -3287,11 +3287,13 @@
         "uri": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
         "icono": "https://i.ibb.co/ySxjmnL/teleritmo.png"
       },
+      {
         "name": "HIT TV",
         "uri": "http://mad02.cdn.avatel.tv/live/eds/hittv/MPEG-DASH_Scrambled_High/hittv.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dcfbabc6b33443f6a77c96be773ed924&key=3b7ccd9a25d4bfa95ef43946a45c5a06",
         "icono": "https://i.ibb.co/gzngBsx/HIT-TV.png"
+      },
       {
         "name": "TELEHIT",
         "uri": "https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8",
