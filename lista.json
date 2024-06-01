@@ -418,6 +418,13 @@
         "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png"
       },
       {
+        "name": "SOMOS CORRIENTES",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_cenc/Somos_Corrientes.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
+        "icono": "https://i.ibb.co/bbxBznQ/somos-corrientes"
+      },
+      {
         "name": "CANAL UNIVERSIDAD DE LA PLATA",
         "uri": "http://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd",
         "drm_scheme": "clearkey",
@@ -801,27 +808,6 @@
     "name": "⚽ DAZN",
     "samples": [
       {
-        "name": "DAZN  1  UK",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-045/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "DAZN  1  DE",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "DAZN  2  DE",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
-      },
-      {
         "name": "DAZN  1  ES",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
         "drm_scheme": "clearkey",
@@ -849,13 +835,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
         "icono": "https://i.ibb.co/0Mh9Pt3/DAZN4.png"
       },
-      {
-        "name": "DAZN F1",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-      },
             {
                 "name": "DAZN  F1",
 "drm_scheme": "clearkey",
@@ -863,13 +842,6 @@
                 "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
             },
-      {
-        "name": "LA LIGA",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-043/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/TY7vtjy/dazn-laliga.png"
-      },
       {
         "name": "LALIGA",
         "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
@@ -1003,49 +975,49 @@
     "samples": [
       {
         "name": "DAZN  1  UK",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-045/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
         "name": "DAZN  1  DE",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
         "name": "DAZN  2  DE",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
       },
       {
         "name": "DAZN  1  ES",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
       {
         "name": "DAZN  2  ES",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
       },
       {
         "name": "DAZN F1",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
       },
       {
         "name": "LA LIGA",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-043/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "https://i.ibb.co/TY7vtjy/dazn-laliga.png"
@@ -3201,6 +3173,13 @@
       },
       {
         "name": "MTV 00s",
+        "uri": "https://tvup-live.akamaized.net/mtv00s/mtv00s.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350767",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+      },
+      {
+        "name": "MTV 00s",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
@@ -3308,6 +3287,11 @@
         "uri": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
         "icono": "https://i.ibb.co/ySxjmnL/teleritmo.png"
       },
+        "name": "HIT TV",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/hittv/MPEG-DASH_Scrambled_High/hittv.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dcfbabc6b33443f6a77c96be773ed924&key=3b7ccd9a25d4bfa95ef43946a45c5a06",
+        "icono": "https://i.ibb.co/gzngBsx/HIT-TV.png"
       {
         "name": "TELEHIT",
         "uri": "https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8",
@@ -4474,14 +4458,21 @@
     "name": "🇪🇸 ESPA\u00d1A",
     "samples": [
       {
-        "name": "LALIGA TV",
+        "name": "LALIGA  TV",
         "uri": "https://tvup-live.akamaized.net/laligatv/laligatv.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350713",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "TV BAR",
+        "name": "BAR  TV",
+        "uri": "https://24hll.ak.video.bartv.es/dash/live-ull/2031709/bartvch00_7pzpy4axosl19ulrqmd24rj9/bartv_ch00.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
+        "name": "LALIGA  TV  BAR",
         "uri": "https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
@@ -4491,6 +4482,20 @@
         "name": "LALIGA+",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
         "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
+      },
+      {
+        "name": "LALIGA+",
+        "uri": "https://occ03ll.ak.video.bartv.es/dash/live-ull/2031712-b/ligabares_ch03/ligabares_ch03.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4115c3c582454aeaaeb295d7da3c3525&key=f9ae488cd634de4603b62f02d9958711",
+        "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
+      },
+      {
+        "name": "DAZN  1  BAR",
+        "uri": "https://dnmupk2cxof0g.cloudfront.net/daznch01/daznch01.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee31eaf263643699899333fe65fa016&key=e780f17b10b1ae37c173793b1e009726",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
       },
        {
         "name": "24H",
@@ -4635,7 +4640,7 @@
         "uri": "http://mad02.cdn.avatel.tv/live/eds/ten/MPEG-DASH_Scrambled_High/ten.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e46d298bf034ba4a49bde1331b15530&key=01b82ae40607726b73ec479504e31263",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png"
+        "icono": "http://78.47.174.211/logos/ten.png"
       },
        {
         "name": "TODO NOVELAS",
@@ -4768,6 +4773,20 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
         "icono": "https://i.ibb.co/Zg7kJcg/COCINA.png"
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+        "uri": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e23699c196c68b7f3762a7273f880d83&key=0ce674718406d8cb6a4c8a171e8673eb",
+        "icono": "https://i.ibb.co/tmGdKgj/natgeo.png"
+      },
+       {
+        "name": "NATGEO WILD",
+        "uri": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_WILD_HD/__op/dash-wv/__f/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d5f78ecbcf044820032c966ade44b93&key=1c7f50183adee8b2f9a76511970a960f",
+        "icono": "http://78.47.174.211/logos/natgeowild.png"
       },
       {
         "name": "TCM",
@@ -4981,6 +5000,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b383c9207bf4e178200126b3e67df30&key=e42f4fc0a0250da87a36c0372d908904",
         "icono": "https://i.ibb.co/KN9K9xN/nickelodeon.png"
       },
+      {
+        "name": "NICK JR.",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/nickjr/MPEG-DASH_Scrambled_High/nickjr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d61f8919364e4559a4915de5425579c0&key=bed7388ec5a2637e40eadced144bf4ce",
+        "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp"
+      },
        {
         "name": "DUCK TV",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginPacket02/smil:196_HD.smil/manifest.mpd",
@@ -5029,6 +5055,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350767",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+      },
+      {
+        "name": "MTV 80s",
+        "uri": "http://ott.zapitv.com/live/eds_c2/MTV80_S/hls_ts_live_fta/MTV80_S.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png"
       },
       {
         "name": "MTV HITS",
