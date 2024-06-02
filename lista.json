@@ -4481,21 +4481,21 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "LALIGA  TV  2  BAR",
+        "name": "LALIGA  TV  BAR  2",
         "uri": "https://occ01ll.ak.video.bartv.es/dash/live-ull/2031710-b/ligabares_ch01/ligabares_ch01.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a052c2bf9ce24e35bb435f61489f1616&key=a647d88ea896f541761413a99ec4c0f9",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "LALIGA  TV  3  BAR",
+        "name": "LALIGA  TV  BAR  3",
         "uri": "https://occ02ll.ak.video.bartv.es/dash/live-ull/2031711-b/ligabares_ch02/ligabares_ch02.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3a97ec365e14cb5b317ea880006fb44&key=e4b3bf14bdd5792bd5622599edd7b480",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "LALIGA  TV  4  BAR",
+        "name": "LALIGA  TV  BAR  4",
         "uri": "https://occ04ll.ak.video.bartv.es/dash/live-ull/2031713-b/ligabares_ch04/ligabares_ch04.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48e821a26afc463b9115b0a68a063e34&key=b48327c05c376cf30799480122d27a7c",
