@@ -4496,9 +4496,9 @@
       },
       {
         "name": "LALIGA  TV  BAR  4",
-        "uri": "https://occ04ll.ak.video.bartv.es/dash/live-ull/2031713-b/ligabares_ch04/ligabares_ch04.mpd",
+        "uri": "https://mad02.cdn.avatel.tv/live/eds/laligatvmulti4/MPEG-DASH_Scrambled_High/laligatvmulti4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48e821a26afc463b9115b0a68a063e34&key=b48327c05c376cf30799480122d27a7c",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b829eae6fa3a445ba2989179bb567d67&key=cbe0b1292334f13e6c425a50e3c0ba85",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
