@@ -4481,6 +4481,27 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
+        "name": "LALIGA  TV  2  BAR",
+        "uri": "https://occ01ll.ak.video.bartv.es/dash/live-ull/2031710-b/ligabares_ch01/ligabares_ch01.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a052c2bf9ce24e35bb435f61489f1616&key=a647d88ea896f541761413a99ec4c0f9",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
+        "name": "LALIGA  TV  3  BAR",
+        "uri": "https://occ02ll.ak.video.bartv.es/dash/live-ull/2031711-b/ligabares_ch02/ligabares_ch02.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3a97ec365e14cb5b317ea880006fb44&key=e4b3bf14bdd5792bd5622599edd7b480",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
+        "name": "LALIGA  TV  4  BAR",
+        "uri": "https://occ04ll.ak.video.bartv.es/dash/live-ull/2031713-b/ligabares_ch04/ligabares_ch04.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48e821a26afc463b9115b0a68a063e34&key=b48327c05c376cf30799480122d27a7c",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
         "name": "LALIGA+",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
         "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
@@ -4511,6 +4532,13 @@
         "uri": "https://tvup-live.akamaized.net/la1-neutra/la1-neutra.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350736",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
+      },
+       {
+        "name": "LA 1",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/la1/MPEG-DASH_Scrambled_High/la1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b5e6af8d1f345828d9cfff8cbf903ee&key=99df7780551f38af550a637923bd4a31",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
       },
        {
