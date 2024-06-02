@@ -878,6 +878,13 @@
         "icono": "https://i.ibb.co/LRkDKyr/Hypermotion3.png"
       },
       {
+        "name": "LALIGA TV BAR 4",
+        "uri": "https://mad02.cdn.avatel.tv/live/eds/laligatvmulti4/MPEG-DASH_Scrambled_High/laligatvmulti4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b829eae6fa3a445ba2989179bb567d67&key=cbe0b1292334f13e6c425a50e3c0ba85",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
         "name": "ELEVEN  1  PT",
         "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
