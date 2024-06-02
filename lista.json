@@ -4509,6 +4509,18 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
+        "name": "LALIGA  TV  BAR  5",
+        "uri": "https://occ04ll.ak.video.bartv.es/dash/live-ull/2031713-b/ligabares_ch04/ligabares_ch04.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48e821a26afc463b9115b0a68a063e34&key=b48327c05c376cf30799480122d27a7c",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
+      },
+      {
+        "name": "LALIGA+",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
+        "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
+      },
+      {
         "name": "LALIGA+",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
         "icono": "https://i.ibb.co/0GNcPG0/Laliga-Plus.png"
