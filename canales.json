@@ -102,6 +102,26 @@
       "referer": ""
     },
     {
+      "name": "AMC en Español",
+      "link": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+      "web": "no",
+      "img": "62fa81ccd1a7e90007c1ada0",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 HbbTV/1.6.1 (+DRM; LGE; OLED55C37LA; WEBOS23 03.31.45; W23_O22N; DTV_W23O;)",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "AMC en Español 2",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "62fa81ccd1a7e90007c1ada0",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "América",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
       "web": "no",
@@ -182,12 +202,52 @@
       "referer": ""
     },
     {
+      "name": "AZ Clic",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
+      "web": "no",
+      "img": "azclic",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "AZ Corazón",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826",
+      "web": "no",
+      "img": "corazon",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Azteca Internacional",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828",
+      "web": "no",
+      "img": "azinternacional",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Azteca Uno",
       "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833",
       "web": "no",
       "img": "azuno",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Baby First",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5ebac49ce4dc8b00078b23bc",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -242,16 +302,6 @@
       "referer": ""
     },
     {
-      "name": "Bitme",
-      "link": "https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8",
-      "web": "no",
-      "img": "bitme",
-      "license": "no",
-      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
-      "origin": "",
-      "referer": ""
-    },
-   {
       "name": "Bloomberg",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
       "web": "no",
@@ -298,6 +348,16 @@
       "img": "canal5uy",
       "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal 6 MX",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6608",
+      "web": "no",
+      "img": "canal6",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -798,6 +858,16 @@
       "img": "eltrece",
       "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Electric Now",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6427",
+      "web": "no",
+      "img": "electricnow",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -1492,6 +1562,16 @@
       "referer": ""
     },
     {
+      "name": "Naturaleza 2",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5dd85eac039bba0009e86d1d",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Net TV",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
       "web": "no",
@@ -1542,10 +1622,60 @@
       "referer": ""
     },
     {
+      "name": "Nickelodeon Clásico",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5ddd7c348520b40009c347e2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nick Jr. Club",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5ddd7cb2cbb9010009b4fe32",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "NickTeen",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "5fab09a8749b1a00077d35d2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nosey Escándalos",
+      "link": "https://6890cf464cc14c12a603f0b5fa2a8a9d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_NoseyEscandalosSpanish/playlist.m3u8",
+      "web": "no",
+      "img": "5f9afb01816137000737f799",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Noticias Ahora",
       "link": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321",
       "web": "no",
       "img": "telemundoaho",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "N+",
+      "link": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
+      "web": "no",
+      "img": "nplus",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
@@ -1922,16 +2052,6 @@
       "referer": ""
     },
     {
-      "name": "Syfy",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "syfy",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "TCM",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
       "web": "no",
@@ -2058,6 +2178,16 @@
       "img": "telemundorom",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Telenovelas Clásicas",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "web": "no",
+      "img": "telemundonov",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
