@@ -247,7 +247,7 @@
       "web": "no",
       "img": "5ebac49ce4dc8b00078b23bc",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -827,6 +827,16 @@
       "web": "no",
       "img": "eldoce",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZTFkYTliNTZiMGIyMzhiY2IxNTQyM2I4NjA2NzFmNzg=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "El Doce Córdoba 2",
+      "link": "https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8",
+      "web": "no",
+      "img": "eldoce",
+      "license": "no",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -1502,6 +1512,16 @@
       "referer": ""
     },
     {
+      "name": "Milenio Televisión",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6594",
+      "web": "no",
+      "img": "milenio-tv",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "MTV",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
       "web": "no",
@@ -1557,7 +1577,7 @@
       "web": "no",
       "img": "5dd85eac039bba0009e86d1d",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1567,7 +1587,7 @@
       "web": "no",
       "img": "5dd85eac039bba0009e86d1d",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1627,7 +1647,7 @@
       "web": "no",
       "img": "5ddd7c348520b40009c347e2",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1637,7 +1657,7 @@
       "web": "no",
       "img": "5ddd7cb2cbb9010009b4fe32",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1647,7 +1667,7 @@
       "web": "no",
       "img": "5fab09a8749b1a00077d35d2",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1666,6 +1686,16 @@
       "link": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321",
       "web": "no",
       "img": "telemundoaho",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Noticias Caracol",
+      "link": "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
+      "web": "no",
+      "img": "noticias-caracol",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
@@ -1927,7 +1957,7 @@
       "web": "no",
       "img": "smithsonian",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -2187,7 +2217,7 @@
       "web": "no",
       "img": "telemundonov",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -2268,6 +2298,16 @@
       "img": "tntsports",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU=",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Todo Novelas",
+      "link": "https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8",
+      "web": "no",
+      "img": "e1ed1d2e115584e7282e9d925b131444",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -2358,6 +2398,16 @@
       "img": "tycs",
       "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports 2",
+      "link": "http://cdn.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8",
+      "web": "no",
+      "img": "tycsports2",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
