@@ -3128,9 +3128,9 @@
       },
       {
         "name": "NICKMUSIC",
-        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18",
         "icono": "https://i.ibb.co/c1h9ktm/Nick-Music.png"
       },
       {
@@ -4807,6 +4807,18 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
         "icono": "https://i.ibb.co/mFnMVzL/canal-cocina.png"
+      },
+      {
+        "name": "ODISEA 4K",
+        "uri": "http://ott.zapitv.com/live/eds_c2/odisea_hd/hls_ts_live_fta/odisea_hd.m3u8",
+        "icono": "https://i.ibb.co/bBwXr6d/odisea.png"
+      },
+      {
+        "name": "DECASA 4k",
+        "uri": "https://ott.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0909d9aaca5c6e6a0f1a4ad8e4459f65&key=eef835f4d956c3e0a794879e7dbe5bdd",
+        "icono": "http://78.47.174.211/logos/decasa.png"
       },
       {
         "name": "NATIONAL GEOGRAPHIC",
@@ -7086,9 +7098,9 @@
       },
       {
         "name": "NEW BRASIL",
-        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+        "uri": "http://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
         "icono": "https://i.ibb.co/5vSfGjj/new-brasil.png"
       },
       {
