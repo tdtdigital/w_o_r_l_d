@@ -122,6 +122,16 @@
       "referer": ""
     },
     {
+      "name": "América HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+      "web": "no",
+      "img": "america",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "América",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
       "web": "no",
@@ -302,6 +312,16 @@
       "referer": ""
     },
     {
+      "name": "Billboard",
+      "link": "http://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
+      "web": "no",
+      "img": "billboard",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Bloomberg",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
       "web": "no",
@@ -370,6 +390,16 @@
       "ua": "Firefox",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Canal 9 HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
+      "web": "no",
+      "img": "canal9",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Canal 9 AR",
@@ -450,6 +480,16 @@
       "ua": "Firefox",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Canal Infantil",
+      "link": "https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
+      "web": "no",
+      "img": "canalinfantil",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Canal Local Carlos Paz",
@@ -562,6 +602,36 @@
       "referer": ""
     },
     {
+      "name": "Cine Familiar",
+      "link": "https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
+      "web": "no",
+      "img": "cinefamiliar",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Cine Hispano",
+      "link": "https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
+      "web": "no",
+      "img": "cinehispano",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Cine Premium",
+      "link": "https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
+      "web": "no",
+      "img": "cinepremium",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Cinecanal",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_EXTRA/CinecanalHD.mpd",
       "web": "no",
@@ -650,6 +720,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "De Película",
+      "link": "https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
+      "web": "no",
+      "img": "depelicula",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "DeporTV",
@@ -792,6 +872,36 @@
       "referer": ""
     },
     {
+      "name": "Dsports",
+      "link": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777",
+      "web": "no",
+      "img": "dtv",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Dsports 2",
+      "link": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779",
+      "web": "no",
+      "img": "dtv2",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Dsports+",
+      "link": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781",
+      "web": "no",
+      "img": "dtv+",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Dreamworks",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
       "web": "no",
@@ -850,6 +960,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "El Trece HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
+      "web": "no",
+      "img": "eltrece",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5=",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "El Trece AR",
@@ -912,6 +1032,16 @@
       "referer": ""
     },
     {
+      "name": "ESPN",
+      "link": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+      "web": "no",
+      "img": "espn",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "ESPN UY",
       "link": "http://chromecast.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
       "web": "no",
@@ -930,6 +1060,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "ESPN 2",
+      "link": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+      "web": "no",
+      "img": "espn2",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "ESPN 2 UY",
@@ -952,6 +1092,16 @@
       "referer": ""
     },
     {
+      "name": "ESPN 3",
+      "link": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+      "web": "no",
+      "img": "espn3",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "ESPN 3 UY-PY",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
       "web": "no",
@@ -970,6 +1120,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "ESPN 4",
+      "link": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+      "web": "no",
+      "img": "espn4",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "ESPN 5",
@@ -1113,9 +1273,19 @@
     },
     {
       "name": "EWTN",
-      "link": "http://chromecast.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
+      "link": "https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd",
       "web": "no",
       "img": "ewtn",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+   {
+      "name": "Film & Arts",
+      "link": "http://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
+      "web": "no",
+      "img": "filmarts",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
       "origin": "",
@@ -1192,6 +1362,16 @@
       "referer": ""
     },
     {
+      "name": "Fox Sports HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+      "web": "no",
+      "img": "fsar",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Fox Sports 2",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
       "web": "no",
@@ -1202,6 +1382,16 @@
       "referer": ""
     },
     {
+      "name": "Fox Sports 2 HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
+      "web": "no",
+      "img": "fs2ar",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Fox Sports 3",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
       "web": "no",
@@ -1210,6 +1400,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Fox Sports 3 HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
+      "web": "no",
+      "img": "fs3ar",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "FX",
@@ -1260,6 +1460,16 @@
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Golden Edge",
+      "link": "https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
+      "web": "no",
+      "img": "goldene",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
 	{
       "name": "Golden Plus",
@@ -1492,6 +1702,16 @@
       "referer": ""
     },
     {
+      "name": "Love Nature 2",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+      "web": "no",
+      "img": "lovenature",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Más Chic",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd",
       "web": "no",
@@ -1512,6 +1732,46 @@
       "referer": ""
     },
     {
+      "name": "MiMusica Romantica",
+      "link": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+      "web": "no",
+      "img": "mimusicaromantica",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica Reggaeton",
+      "link": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+      "web": "no",
+      "img": "mimusicareggaeton",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica Hit",
+      "link": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
+      "web": "no",
+      "img": "mimusicahits",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica KPOP",
+      "link": "https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
+      "web": "no",
+      "img": "mimusicakpop",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Milenio Televisión",
       "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6594",
       "web": "no",
@@ -1520,6 +1780,16 @@
       "ua": "Firefox",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Mórbido TV",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd",
+      "web": "no",
+      "img": "morbido-tv",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "MTV",
@@ -1540,6 +1810,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "MTV Live",
+      "link": "https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
+      "web": "no",
+      "img": "mtvl",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "MTV 00s",
@@ -1680,6 +1960,16 @@
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Novelísima",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd",
+      "web": "no",
+      "img": "novelisima",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Noticias Ahora",
@@ -1870,6 +2160,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Radio María",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd",
+      "web": "no",
+      "img": "radiomaria",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Rai",
@@ -2082,14 +2382,24 @@
       "referer": ""
     },
     {
+      "name": "T5 Satelital",
+      "link": "http://cdn.sensa.com.ar/output/ARR3/T5SH/playlist.m3u8",
+      "web": "no",
+      "img": "t5sat",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "TCM",
-      "link": "http://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
+      "link": "https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd",
       "web": "no",
       "img": "tcm",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
       "origin": "",
-      "referer": ""
+      "referer": "https://player.sensa.com.ar"
     },    
     {
       "name": "Tecnópolis",
@@ -2102,6 +2412,16 @@
       "referer": ""
     },
     {
+      "name": "Telediario Televisión",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+      "web": "no",
+      "img": "td",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Teledoce UY",
       "link": "http://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
       "web": "no",
@@ -2110,6 +2430,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Telefe HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+      "web": "no",
+      "img": "telefe",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5=",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Telefe",
@@ -2150,6 +2480,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Telehit Música Plus",
+      "link": "https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd",
+      "web": "no",
+      "img": "telehit-plus",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Telemax",
@@ -2313,13 +2653,13 @@
     },
     {
       "name": "Tooncast",
-      "link": "http://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+      "link": "https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd",
       "web": "no",
       "img": "tooncast",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
       "origin": "",
-      "referer": ""
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "TV5 Monde",
@@ -2372,6 +2712,16 @@
       "referer": ""
     },
     {
+      "name": "TVP Argentina HD",
+      "link": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+      "web": "no",
+      "img": "tvp",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "TVP Argentina",
       "link": "http://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_EXTRA/Canal7.mpd",
       "web": "no",
@@ -2380,6 +2730,16 @@
       "ua": "Ktor client",
       "origin": "http://cdn.cvattv.com.ar",
       "referer": "http://cdn.cvattv.com.ar"
+    },
+    {
+      "name": "TyC Sports HD",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd",
+      "web": "no",
+      "img": "tycs",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5=",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "TyC Sports",
@@ -2602,14 +2962,24 @@
       "referer": ""
     },
     {
+      "name": "Ve Plus",
+      "link": "https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
+      "web": "no",
+      "img": "veplus",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Volver",
-      "link": "http://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
+      "link": "https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd",
       "web": "no",
       "img": "volver",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
       "origin": "",
-      "referer": ""
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Vorterix",
@@ -2660,6 +3030,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "ZooMoo",
+      "link": "https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd",
+      "web": "no",
+      "img": "zoomoo",
+      "license": "https://mrpw.pt.verspective.net?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     }
   ]
 }
