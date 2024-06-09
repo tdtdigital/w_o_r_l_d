@@ -1849,21 +1849,21 @@
       },
 {
                 "name": "DIRECTV SPORTS",
-                "uri": "http://gtechtecnologia.com/telelatino/play/21.m3u8",
+                "uri": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330777",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
             },
 {
                 "name": "DIRECTV SPORTS 2",
-                "uri": "http://gtechtecnologia.com/telelatino/play/296.m3u8",
+                "uri": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330779",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c44d52b11dce3875ad2765c9d469075b&key=af4ba31c1324eb92ac88463f7bd941d5"
             },
 {
                 "name": "DIRECTV SPORTS PLUS",
-                "uri": "http://gtechtecnologia.com/telelatino/play/296.m3u8",
+                "uri": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781",
                 "drm_scheme": "clearkey",
 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
                 "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png"
@@ -1882,24 +1882,12 @@
       },
 {
                 "name": "CLARO SPORTS",
-                "uri": "http://gtechtecnologia.com/dtv/434c41524f2053504f525453204844.mpd",
-                "drm_scheme": "clearkey",
-                "icono": "https://i.ibb.co/zRprMVm/clarosports.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a4a641e55339db75a2ba4804afee764b&key=436a5c8dcab3df91302c5e6779dc7016"
-            },
-{
-                "name": "CLARO SPORTS OP2",
                 "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
                 "icono": "https://i.ibb.co/zRprMVm/clarosports.png"
             },
       {
         "name": "CLARO SPORTS 2",
         "uri": "https://gtechtecnologia.com/telelatino/play/294.m3u8",
-        "icono": "https://i.ibb.co/DzPKGqf/clarosports-2.png"
-      },
-      {
-        "name": "CLARO SPORTS 2 OP2",
-        "uri": "http://138.59.177.34:8000/play/a01j/index.m3u8",
         "icono": "https://i.ibb.co/DzPKGqf/clarosports-2.png"
       },
         {
@@ -4464,45 +4452,10 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
-        "name": "BAR  TV",
-        "uri": "https://24hll.ak.video.bartv.es/dash/live-ull/2031709/bartvch00_7pzpy4axosl19ulrqmd24rj9/bartv_ch00.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
         "name": "LALIGA  TV  BAR",
         "uri": "https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af2a65794e574a7faefdc8937ba007be&key=8bbfb3c188c2b803b1f820d81267edab",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "LALIGA  TV  BAR  2",
-        "uri": "https://occ01ll.ak.video.bartv.es/dash/live-ull/2031710-b/ligabares_ch01/ligabares_ch01.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a052c2bf9ce24e35bb435f61489f1616&key=a647d88ea896f541761413a99ec4c0f9",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "LALIGA  TV  BAR  3",
-        "uri": "https://occ02ll.ak.video.bartv.es/dash/live-ull/2031711-b/ligabares_ch02/ligabares_ch02.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3a97ec365e14cb5b317ea880006fb44&key=e4b3bf14bdd5792bd5622599edd7b480",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "LALIGA  TV  BAR  4",
-        "uri": "https://mad02.cdn.avatel.tv/live/eds/laligatvmulti4/MPEG-DASH_Scrambled_High/laligatvmulti4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b829eae6fa3a445ba2989179bb567d67&key=cbe0b1292334f13e6c425a50e3c0ba85",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
-      },
-      {
-        "name": "LALIGA  TV  BAR  5",
-        "uri": "https://occ04ll.ak.video.bartv.es/dash/live-ull/2031713-b/ligabares_ch04/ligabares_ch04.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48e821a26afc463b9115b0a68a063e34&key=b48327c05c376cf30799480122d27a7c",
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
       {
@@ -4511,18 +4464,25 @@
         "icono": "https://i.ibb.co/4jJj9gW/Laliga-Plus.png"
       },
       {
-        "name": "LALIGA+",
-        "uri": "https://occ03ll.ak.video.bartv.es/dash/live-ull/2031712-b/ligabares_ch03/ligabares_ch03.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4115c3c582454aeaaeb295d7da3c3525&key=f9ae488cd634de4603b62f02d9958711",
-        "icono": "https://i.ibb.co/4jJj9gW/Laliga-Plus.png"
-      },
-      {
         "name": "DAZN  1  BAR",
         "uri": "https://dnmupk2cxof0g.cloudfront.net/daznch01/daznch01.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee31eaf263643699899333fe65fa016&key=e780f17b10b1ae37c173793b1e009726",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "DAZN  2  BAR",
+        "uri": "https://dmc5sdps1d8o6.cloudfront.net/daznch02/daznch02.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bbc32f405708472da87a4774b6641948&key=7679e661713e0700fe8670cf83c25213",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "DAZN  F1  BAR  ",
+        "uri": "https://d3nqic46bxtya.cloudfront.net/daznch00/daznch00.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7285d27f5d1d47b880c0b2bec7d195d2&key=4fdc8e0060e1824fef13d98c62f5e71a",
+        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png"
       },
        {
         "name": "24H",
