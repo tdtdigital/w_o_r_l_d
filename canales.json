@@ -973,16 +973,6 @@
     },
     {
       "name": "ESPN",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-      "web": "no",
-      "img": "espn",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "ESPN",
       "link": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
       "web": "no",
       "img": "espn",
@@ -992,21 +982,21 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN UY",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+      "name": "ESPN AR",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
       "web": "no",
       "img": "espn",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ESPN 2",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+      "name": "ESPN UY",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
       "web": "no",
-      "img": "espn2",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "img": "espn",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -1022,21 +1012,21 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN 2 UY",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+      "name": "ESPN 2 AR",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
       "web": "no",
       "img": "espn2",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ESPN 3",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+      "name": "ESPN 2 UY",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
       "web": "no",
-      "img": "espn3",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "img": "espn2",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
@@ -1050,6 +1040,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "ESPN 3 AR",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+      "web": "no",
+      "img": "espn3",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "ESPN 3 UY-PY",
