@@ -1063,16 +1063,6 @@
     },
     {
       "name": "ESPN 4",
-      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-      "web": "no",
-      "img": "espn4",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "ESPN 4",
       "link": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
       "web": "no",
       "img": "espn4",
@@ -1080,6 +1070,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "ESPN 4 AR",
+      "link": "http://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+      "web": "no",
+      "img": "espn4",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "ESPN 5",
