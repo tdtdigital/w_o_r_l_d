@@ -1221,16 +1221,6 @@
       "origin": "",
       "referer": "https://player.sensa.com.ar"
     },
-   {
-      "name": "Flow Music",
-      "link": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
-      "web": "no",
-      "img": "flow-music",
-      "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU=",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
   {
       "name": "Foro TV",
       "link": "https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8",
@@ -1516,6 +1506,16 @@
       "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
       "web": "no",
       "img": "la1",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "La 2 HD",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:2_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "la2",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
