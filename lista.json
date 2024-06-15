@@ -10,7 +10,7 @@
     ]
   },
   {
-    "name": "🏆 COPA AMÉRICA 2024",
+    "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
       {
         "name": "TV PUBLICA",
@@ -4457,6 +4457,13 @@
         "uri": "https://tvup01.edge.milloh-cs.com/la2/la2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350737",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png"
+      },
+       {
+        "name": "LA 2",
+        "uri": "http://mad02.cdn.avatel.tv/live/eds/la2/MPEG-DASH_Scrambled_High/la2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cde3ffa87534b1a9aeb906e17fde32f&key=b11fefc8c5ca9cf5798f588969cc9ba9",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png"
       },
        {
