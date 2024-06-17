@@ -952,6 +952,16 @@
       "referer": ""
     },
     {
+      "name": "ESPN *GLOBAL*",
+      "link": "https://SMT-USR-EDGE01.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+      "web": "no",
+      "img": "espn",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=ZmYwZDRjMWEtZDhlMy0zY2Y4LWI3YjEtZGMzNzRiYjc0YTAy",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "ESPN",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
       "web": "no",
@@ -1240,6 +1250,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Fox Sports HD *GLOBAL*",
+      "link": "https://SMT-USR-EDGE01.sensa.com.ar:443/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+      "web": "no",
+      "img": "fsar",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=ZmYwZDRjMWEtZDhlMy0zY2Y4LWI3YjEtZGMzNzRiYjc0YTAy",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Fox Sports",
