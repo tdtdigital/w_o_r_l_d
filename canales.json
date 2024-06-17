@@ -602,6 +602,16 @@
       "referer": ""
     },
     {
+      "name": "Clover Channel",
+      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "cloverchannel",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "CM",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
       "web": "no",
@@ -1472,6 +1482,26 @@
       "referer": ""
     },
     {
+      "name": "La 1 HD",
+      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "la1",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "La 2 HD",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:2_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "la2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "La Nación Argentina",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
       "web": "no",
@@ -2022,8 +2052,8 @@
       "referer": ""
     },
     {
-      "name": "Syfy",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
+      "name": "Syfy HD",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
       "web": "no",
       "img": "syfy",
       "license": "no",
@@ -2048,6 +2078,16 @@
       "img": "tcm",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },  
+    {
+      "name": "TDP HD",
+      "link": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "tdp",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },    
