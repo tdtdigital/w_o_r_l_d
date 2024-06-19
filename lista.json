@@ -460,6 +460,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png"
       },
       {
+        "name": "AMERICA TUCUMAN",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+        "icono": "https://i.ibb.co/fSw93ms/america-tucuman.png"
+      },
+      {
         "name": "ELONCE TV SALTA",
         "uri": "http://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd",
         "drm_scheme": "clearkey",
@@ -1803,23 +1810,23 @@
       },
 {
                 "name": "DIRECTV SPORTS",
-                "uri": "https://goo.su/WuPfD",
+                "uri": "https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
+"drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350791"
             },
 {
                 "name": "DIRECTV SPORTS 2",
-                "uri": "https://goo.su/NMqwyJ9",
+                "uri": "https://tvup-ccs-live.akamaized.net/directvsport2/directvsport2.mpd",
                 "drm_scheme": "clearkey",
                 "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c44d52b11dce3875ad2765c9d469075b&key=af4ba31c1324eb92ac88463f7bd941d5"
+"drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350792"
             },
 {
                 "name": "DIRECTV SPORTS PLUS",
-                "uri": "http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781",
+                "uri": "https://tvup-ccs-live.akamaized.net/directvsportplus/directvsportplus.mpd",
                 "drm_scheme": "clearkey",
-"drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=7400a9f905f172d5d74d7dc440724c8e",
+"drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350793",
                 "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png"
             },
       {
@@ -3508,6 +3515,13 @@
         "icono": "https://i.ibb.co/fN4bsYz/usa-network.png"
       },
       {
+        "name": "GOLDEN",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
+        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
+      },
+      {
         "name": "UNIVERSAL CHANNEL",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
         "drm_scheme": "clearkey",
@@ -3634,14 +3648,14 @@
         "icono": "https://i.ibb.co/kKhQh90/Paramount-Network-2024.png"
       },
       {
-        "name": "A3CINE",
+        "name": "ATRESCINE",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
       },
       {
-        "name": "A3SERIES",
+        "name": "ATRESERIES",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
@@ -3660,13 +3674,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
         "icono": "https://i.ibb.co/GM5tY4R/comedy-central.png"
-      },
-      {
-        "name": "GOLDEN",
-        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
       },
       {
         "name": "SONY CINE",
@@ -4665,7 +4672,7 @@
         "icono": "https://i.ibb.co/9rHVZ85/warner-tv.png"
       },
       {
-        "name": "A3SERIES",
+        "name": "ATRESERIES",
         "uri": "https://tvup-live.akamaized.net/atresseries/atresseries.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350750",
@@ -7034,8 +7041,8 @@
       {
         "name": "DNEWS",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_cenc/DNews.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
         "icono": "https://i.ibb.co/gJL91wN/DNews.png"
       }
     ]
