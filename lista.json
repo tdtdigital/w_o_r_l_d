@@ -13,6 +13,20 @@
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
       {
+        "name": "EVENTOS 116",
+        "uri": "http://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+        "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/350/0/60910208076515.png"
+      },
+      {
+        "name": "EVENTOS 119",
+        "uri": "http://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://wv-client.cvattv.com.ar?deviceId=MDc1YmM3NWRjYWRlMzVmMjlkYTRkYTc3OWU4MTdmOTM",
+        "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/350/0/60910208076515.png"
+      },
+      {
         "name": "TV PUBLICA",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
@@ -50,10 +64,17 @@
       },
       {
         "name": "AMERICA TV PE",
-        "uri": "https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd",
+        "uri": "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350714",
         "icono": "https://i.ibb.co/bPKWXGc/america.jpg"
+      },
+      {
+        "name": "LATINA PE",
+        "uri": "https://live-evg1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350714",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
       },
       {
         "name": "TYC SPORTS",
@@ -6263,7 +6284,7 @@
       },
       {
         "name": "TVS",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/tvsencpy/chunks.m3u8",
+        "uri": "https://glb.bozztv.com/glb/ssh101/tvsencpy/index.m3u8",
         "icono": "https://i.ibb.co/NCqC4h7/tvs.png"
       },
       {
@@ -6284,7 +6305,7 @@
       {
         "name": "ÑANDUTI TV",
         "uri": "https://copaco.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
-        "icono": "https://i.ibb.co/1zVZ9kX/anduti.png"
+        "icono": "https://i.ibb.co/BKynMkR/nanduti.png"
       },
       {
         "name": "ABC",
