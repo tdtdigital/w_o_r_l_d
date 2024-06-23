@@ -12,7 +12,7 @@
       "referer": ""
     },
    {
-      "name": "A24 Argentina",
+      "name": "A24",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
       "web": "no",
       "img": "a24",
@@ -303,7 +303,7 @@
     },
     {
       "name": "Billboard AR",
-      "link": "http://SMT-USR-EDGE01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/SMT1/BLBH/playlist.m3u8",
       "web": "no",
       "img": "billboard",
       "license": "no",
@@ -332,7 +332,7 @@
       "referer": ""
     },
     {
-      "name": "C5N AR",
+      "name": "C5N",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
       "web": "no",
       "img": "c5n",
@@ -392,7 +392,7 @@
       "referer": ""
     },
     {
-      "name": "Canal 26 AR",
+      "name": "Canal 26",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
       "web": "no",
       "img": "canal26",
@@ -462,7 +462,7 @@
       "referer": ""
     },
     {
-      "name": "Canal Rural AR",
+      "name": "Canal Rural",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
       "web": "no",
       "img": "rural",
@@ -542,7 +542,7 @@
       "referer": ""
     },
     {
-      "name": "Cine AR",
+      "name": "Cine.AR",
       "link": "http://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
       "web": "no",
       "img": "cinear",
@@ -892,7 +892,7 @@
       "referer": ""
     },
     {
-      "name": "El Nueve AR",
+      "name": "El Nueve",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
       "web": "no",
       "img": "canal9",
@@ -902,7 +902,7 @@
       "referer": ""
     },
     {
-      "name": "El Trece AR",
+      "name": "El Trece",
       "link": "http://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
       "web": "no",
       "img": "eltrece",
@@ -953,7 +953,7 @@
     },
     {
       "name": "ESPN *GLOBAL*",
-      "link": "https://SMT-USR-EDGE01.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
       "web": "no",
       "img": "espn",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=ZmYwZDRjMWEtZDhlMy0zY2Y4LWI3YjEtZGMzNzRiYjc0YTAy",
@@ -1253,7 +1253,7 @@
     },
     {
       "name": "Fox Sports HD *GLOBAL*",
-      "link": "https://SMT-USR-EDGE01.sensa.com.ar:443/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
       "web": "no",
       "img": "fsar",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=ZmYwZDRjMWEtZDhlMy0zY2Y4LWI3YjEtZGMzNzRiYjc0YTAy",
@@ -1313,7 +1313,7 @@
     },
   {
       "name": "Globo",
-      "link": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/playlist.m3u8",
+      "link": "https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index.m3u8",
       "web": "no",
       "img": "globo",
       "license": "no",
@@ -1328,6 +1328,16 @@
       "img": "golden",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Gol Play",
+      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "goles",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -1522,7 +1532,7 @@
       "referer": ""
     },
     {
-      "name": "La Nación Argentina",
+      "name": "La Nación Más",
       "link": "http://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
       "web": "no",
       "img": "lanacion",
@@ -1578,6 +1588,16 @@
       "img": "maschic",
       "license": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Mega",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "megaes",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -1932,6 +1952,16 @@
       "referer": ""
     },
     {
+      "name": "SBT",
+      "link": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+      "web": "no",
+      "img": "sbt",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Show Sports Cordoba",
       "link": "http://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
       "web": "no",
@@ -2083,7 +2113,7 @@
     },
     {
       "name": "T5 Satelital",
-      "link": "http://SMT-USR-EDGE01.sensa.com.ar/output/ARR3/T5SH/playlist.m3u8",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/ARR3/T5SH/playlist.m3u8",
       "web": "no",
       "img": "t5sat",
       "license": "no",
@@ -2123,7 +2153,7 @@
     },
     {
       "name": "Telediario Televisión",
-      "link": "https://stmvideo2.livecastv.com/telediario/telediario/chunklist.m3u8",
+      "link": "http://190.123.83.134:8080/hls/tdtv/index.m3u8",
       "web": "no",
       "img": "td",
       "license": "no",
@@ -2160,6 +2190,16 @@
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Telefe Santa Fe",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/COR/TSFD/output.mpd",
+      "web": "no",
+      "img": "telefe",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Telefe Hits",
@@ -2402,7 +2442,7 @@
       "referer": ""
     },
     {
-      "name": "TVP Argentina",
+      "name": "TVP",
       "link": "http://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_EXTRA/Canal7.mpd",
       "web": "no",
       "img": "tvp",
@@ -2433,7 +2473,7 @@
     },
     {
       "name": "TyC Sports 2",
-      "link": "http://SMT-USR-EDGE01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8",
+      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/ARR3/sensaeventosH/playlist.m3u8",
       "web": "no",
       "img": "tycsports2",
       "license": "no",
