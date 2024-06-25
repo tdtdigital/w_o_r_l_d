@@ -4484,7 +4484,7 @@
       },
        {
         "name": "LA 1",
-        "uri": "http://ch01-nixval01.avatel.tv/live/eds/la1/MPEG-DASH_Scrambled_High/la1.mpd",
+        "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b5e6af8d1f345828d9cfff8cbf903ee&key=99df7780551f38af550a637923bd4a31",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
