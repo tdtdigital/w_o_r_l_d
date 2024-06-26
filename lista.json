@@ -4504,6 +4504,11 @@
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png"
       },
        {
+        "name": "LA 2",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:2_HD.smil/manifest.mpd",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png"
+      },
+       {
         "name": "CLAN",
         "uri": "https://tvup-live.akamaized.net/clan/clan.mpd",
         "drm_scheme": "clearkey",
@@ -4527,6 +4532,11 @@
         "uri": "http://ch01-nixval01.avatel.tv/live/eds/tdp/MPEG-DASH_Scrambled_High/tdp.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=01b34ea5affe4d0782a203d51697301f&key=f6bb05fa475e9d2e47559ce42a0f9440",
+        "icono": "http://78.47.174.211/logos/teledeporte.png"
+      },
+       {
+        "name": "TDP",
+        "uri": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/teledeporte.png"
       },
        {
