@@ -231,9 +231,29 @@
       "origin": "",
       "referer": ""
     },
+  {
+      "name": "Band Sports HD",
+      "link": "http://cdn2.connectbr.com.br/Band-Sports/index.m3u8",
+      "web": "no",
+      "img": "bandsports",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
     {
-      "name": "Bein Sports Xtra Español",
+      "name": "Bein Sports Xtra ñ",
       "link": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
+      "web": "no",
+      "img": "beinexes",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Bein Sports Xtra",
+      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
       "web": "no",
       "img": "beinex",
       "license": "no",
@@ -241,6 +261,17 @@
       "origin": "",
       "referer": ""
     },
+    {
+      "name": "Bein Sports Xtra",
+      "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8",
+      "web": "no",
+      "img": "beinex",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+
     {
       "name": "Billboard AR",
       "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/SMT1/BLBH/playlist.m3u8",
@@ -2056,6 +2087,16 @@
       "link": "https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8",
       "web": "no",
       "img": "ucl",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "UFC",
+      "link": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/master.m3u8?ads.xumo_channelId=99951134",
+      "web": "no",
+      "img": "ufc",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
