@@ -732,6 +732,16 @@
       "referer": ""
     },
     {
+      "name": "Discovery Channel HD",
+      "link": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "discovery",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Discovery H&H",
       "link": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
       "web": "no",
@@ -862,7 +872,7 @@
       "referer": ""
     },
     {
-      "name": "El Doce HD",
+      "name": "El Doce Córdoba",
       "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
       "web": "no",
       "img": "eldoce",
@@ -2447,6 +2457,16 @@
       "web": "no",
       "img": "tycs",
       "license": "https://wv-client.cvattv.com.ar?deviceId=M2JkODllOGNmZjk1M2JjZjk5ODI5MDlhMGVhN2Y4YjY=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports US",
+      "link": "http://190.185.121.102:58092/play/a00p",
+      "web": "no",
+      "img": "tycs",
+      "license": "no",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
