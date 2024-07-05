@@ -55,6 +55,13 @@
         "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/350/0/60910208076515.png"
       },
       {
+        "name": "EVENTOS HD 605",
+        "uri": "http://edge-mix05-coe.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7",
+        "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/350/0/60910208076515.png"
+      },
+      {
         "name": "TV PUBLICA",
         "uri": "http://edge-mix05-coe.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
