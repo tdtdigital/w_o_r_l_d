@@ -23,7 +23,7 @@
     },
    {
       "name": "A24",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/A24/live_dash_cld/A24.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/A24/live_dash_cld/A24.mpd",
       "web": "no",
       "img": "a24",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -33,7 +33,7 @@
     },
     {
       "name": "A&E",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/AyE/live_dash_cld/AyE.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/AyE/live_dash_cld/AyE.mpd",
       "web": "no",
       "img": "ae",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Adult Swim",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TRUTV/live_dash_cld/TRUTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TRUTV/live_dash_cld/TRUTV.mpd",
       "web": "no",
       "img": "as",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -63,7 +63,7 @@
     },
     {
       "name": "AMC",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/AMC/live_dash_cld/AMC.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/AMC/live_dash_cld/AMC.mpd",
       "web": "no",
       "img": "amc",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -93,7 +93,7 @@
     },
     {
       "name": "América HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/America/live_dash_cld/America.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/America/live_dash_cld/America.mpd",
       "web": "no",
       "img": "america",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -103,7 +103,7 @@
     },
     {
       "name": "América Sports",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd",
       "web": "no",
       "img": "americas",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Animal Planet HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
       "web": "no",
       "img": "animal",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -143,7 +143,7 @@
     },
     {
       "name": "AXN",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/AXN/live_dash_cld/AXN.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/AXN/live_dash_cld/AXN.mpd",
       "web": "no",
       "img": "AXN",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -213,7 +213,7 @@
     },
     {
       "name": "Baby TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd",
       "web": "no",
       "img": "baby",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -274,7 +274,7 @@
 
     {
       "name": "Billboard AR",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/SMT1/BLBH/playlist.m3u8",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/output/SMT1/BLBH/playlist.m3u8",
       "web": "no",
       "img": "billboard",
       "license": "no",
@@ -284,7 +284,7 @@
     },
     {
       "name": "Bravo TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/BravoTV/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/BravoTV/default/index.mpd",
       "web": "no",
       "img": "bravotv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -294,7 +294,7 @@
     },
     {
       "name": "C5N",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/C5N/live_dash_cld/C5N.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/C5N/live_dash_cld/C5N.mpd",
       "web": "no",
       "img": "c5n",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -314,7 +314,7 @@
     },
     {
       "name": "Canal 10 de Córdoba",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Canal10cba/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Canal10cba/default/index.mpd",
       "web": "no",
       "img": "canal10",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -324,7 +324,7 @@
     },
     {
       "name": "Canal 26",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Canal26/live_dash_cld/Canal26.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Canal26/live_dash_cld/Canal26.mpd",
       "web": "no",
       "img": "canal26",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -334,7 +334,7 @@
     },
     {
       "name": "Canal E",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/CanalE/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/CanalE/default/index.mpd",
       "web": "no",
       "img": "canale",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -344,7 +344,7 @@
     },
     {
       "name": "Canal Infantil",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
       "web": "no",
       "img": "canalinfantil",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -354,7 +354,7 @@
     },
     {
       "name": "Canal LUZ",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd",
       "web": "no",
       "img": "luz",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -364,7 +364,7 @@
     },
     {
       "name": "Canal Rural",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CanalRural/live_dash_cld/CanalRural.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CanalRural/live_dash_cld/CanalRural.mpd",
       "web": "no",
       "img": "rural",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -374,7 +374,7 @@
     },
     {
       "name": "Cartoon Network",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
       "web": "no",
       "img": "cartoon",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -384,7 +384,7 @@
     },
     {
       "name": "Cartoonito",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Boomerang/live_dash_cld/Boomerang.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Boomerang/live_dash_cld/Boomerang.mpd",
       "web": "no",
       "img": "cartoonito",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -434,7 +434,7 @@
     },
     {
       "name": "Cine.AR",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CineAR/live_dash_cld/CineAR.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CineAR/live_dash_cld/CineAR.mpd",
       "web": "no",
       "img": "cinear",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -444,7 +444,7 @@
     },
     {
       "name": "Cine Familiar",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
       "web": "no",
       "img": "cinefamiliar",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -454,7 +454,7 @@
     },
     {
       "name": "Cine Hispano",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
       "web": "no",
       "img": "cinehispano",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -464,7 +464,7 @@
     },
     {
       "name": "Cine Premium",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
       "web": "no",
       "img": "cinepremium",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -474,7 +474,7 @@
     },
     {
       "name": "Cinecanal HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
       "web": "no",
       "img": "cinecanal",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -484,7 +484,7 @@
     },
     {
       "name": "Cinemax HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
       "web": "no",
       "img": "Cinemax",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -504,7 +504,7 @@
     },
     {
       "name": "Ciudad Magazine",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd",
       "web": "no",
       "img": "ciudadm",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -524,7 +524,7 @@
     },
     {
       "name": "Claro Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/claroSports/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/claroSports/default/index.mpd",
       "web": "no",
       "img": "clarosports",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -544,7 +544,7 @@
     },
     {
       "name": "CNN en Español",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
       "web": "no",
       "img": "cnne",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -554,7 +554,7 @@
     },
     {
       "name": "CNN Internacional",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
       "web": "no",
       "img": "cnn",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -564,7 +564,7 @@
     },
     {
       "name": "Comedy Central",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
       "web": "no",
       "img": "comedy",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -574,7 +574,7 @@
     },
     {
       "name": "Crónica TV HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Cronica/live_dash_cld/Cronica.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Cronica/live_dash_cld/Cronica.mpd",
       "web": "no",
       "img": "cronica",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -584,7 +584,7 @@
     },
     {
       "name": "De Película",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
       "web": "no",
       "img": "depelicula",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -594,7 +594,7 @@
     },
     {
       "name": "DeporTV HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Deportv/live_dash_cld/Deportv.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Deportv/live_dash_cld/Deportv.mpd",
       "web": "no",
       "img": "deportv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -604,7 +604,7 @@
     },
     {
       "name": "DHE",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DHE/live_dash_cld/DHE.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DHE/live_dash_cld/DHE.mpd",
       "web": "no",
       "img": "dhe",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -614,7 +614,7 @@
     },
     {
       "name": "Discovery Channel HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
       "web": "no",
       "img": "discovery",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -634,7 +634,7 @@
     },
     {
       "name": "Discovery H&H",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
       "web": "no",
       "img": "hh",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -644,7 +644,7 @@
     },
     {
       "name": "Discovery Kids",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd",
       "web": "no",
       "img": "dkids",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -654,7 +654,7 @@
     },
     {
       "name": "Discovery Science",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
       "web": "no",
       "img": "science",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -664,7 +664,7 @@
     },
     {
       "name": "Discovery TLC",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
       "web": "no",
       "img": "tlc",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -674,7 +674,7 @@
     },
     {
       "name": "Discovery Theater",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
       "web": "no",
       "img": "theater",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -684,7 +684,7 @@
     },
     {
       "name": "Discovery Turbo",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
       "web": "no",
       "img": "turbo",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -694,7 +694,7 @@
     },
     {
       "name": "Discovery World",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
       "web": "no",
       "img": "world",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -704,7 +704,7 @@
     },
     {
       "name": "Disney Channel",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
       "web": "no",
       "img": "disney",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -714,7 +714,7 @@
     },
     {
       "name": "Disney Junior",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd",
       "web": "no",
       "img": "junior",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -734,7 +734,7 @@
     },
     {
       "name": "DW",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/DWChannel/live_dash_cld/DWChannel.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/DWChannel/live_dash_cld/DWChannel.mpd",
       "web": "no",
       "img": "dw",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -744,7 +744,7 @@
     },
     {
       "name": "E!",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd",
       "web": "no",
       "img": "e",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -754,7 +754,7 @@
     },
     {
       "name": "El Doce Córdoba",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Canal12cba/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Canal12cba/default/index.mpd",
       "web": "no",
       "img": "eldoce",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -774,7 +774,7 @@
     },
     {
       "name": "El Gourmet",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd",
       "web": "no",
       "img": "gourmet",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -784,7 +784,7 @@
     },
     {
       "name": "El Nueve HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Canal9/live_dash_cld/Canal9.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Canal9/live_dash_cld/Canal9.mpd",
       "web": "no",
       "img": "canal9",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -794,7 +794,7 @@
     },
     {
       "name": "El Trece HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Canal13/live_dash_cld/Canal13.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Canal13/live_dash_cld/Canal13.mpd",
       "web": "no",
       "img": "eltrece",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -814,7 +814,7 @@
     },
     {
       "name": "Encuentro TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Encuentro/live_dash_cld/Encuentro.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Encuentro/live_dash_cld/Encuentro.mpd",
       "web": "no",
       "img": "encuentro",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -834,7 +834,7 @@
     },
     {
       "name": "ESPN",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
       "web": "no",
       "img": "espn",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -844,7 +844,7 @@
     },
     {
       "name": "ESPN 2",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
       "web": "no",
       "img": "espn2",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -854,7 +854,7 @@
     },
     {
       "name": "ESPN 3",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
       "web": "no",
       "img": "espn3",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -864,7 +864,7 @@
     },
     {
       "name": "ESPN 4",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
       "web": "no",
       "img": "espn4",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -874,7 +874,7 @@
     },
     {
       "name": "ESPN Premium HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/ESPNPremium/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/ESPNPremium/default/index.mpd",
       "web": "no",
       "img": "esp",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -884,7 +884,7 @@
     },
     {
       "name": "ESPN Premium HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
       "web": "no",
       "img": "esp",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -894,7 +894,7 @@
     },
     {
       "name": "Eurochannel",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Eurochannel/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Eurochannel/default/index.mpd",
       "web": "no",
       "img": "eurocha",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -914,7 +914,7 @@
     },
     {
       "name": "Europa Europa",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd",
       "web": "no",
       "img": "europaeu",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -924,7 +924,7 @@
     },
     {
       "name": "EWTN",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/EWTN/live_dash_cld/EWTN.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/EWTN/live_dash_cld/EWTN.mpd",
       "web": "no",
       "img": "ewtn",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -934,7 +934,7 @@
     },
    {
       "name": "Film & Arts",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FilmArts/live_dash_cld/FilmArts.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FilmArts/live_dash_cld/FilmArts.mpd",
       "web": "no",
       "img": "filmarts",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -954,7 +954,7 @@
     },
     {
       "name": "France 24 Español",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/France24/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/France24/default/index.mpd",
       "web": "no",
       "img": "france24_es",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -964,7 +964,7 @@
     },
     {
       "name": "Food Network",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
       "web": "no",
       "img": "food",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -974,7 +974,7 @@
     },
     {
       "name": "Fox Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
       "web": "no",
       "img": "fsar",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -984,7 +984,7 @@
     },
     {
       "name": "Fox Sports 2 HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
       "web": "no",
       "img": "fs2ar",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -994,7 +994,7 @@
     },
     {
       "name": "Fox Sports 3 HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
       "web": "no",
       "img": "fs3ar",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1004,7 +1004,7 @@
     },
     {
       "name": "FX",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FX/live_dash_cld/FX.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FX/live_dash_cld/FX.mpd",
       "web": "no",
       "img": "fx",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1014,7 +1014,7 @@
     },
     {
       "name": "Garage TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ElGarage/live_dash_cld/ElGarage.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ElGarage/live_dash_cld/ElGarage.mpd",
       "web": "no",
       "img": "garage",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1024,7 +1024,7 @@
     },
   {
       "name": "Globo",
-      "link": "https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index.m3u8",
+      "link": "https://live.fanherocdn.com/66846477d7b2e12a8c8fa089/primary_MS720.m3u8",
       "web": "no",
       "img": "globo",
       "license": "no",
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "Golden",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Golden/live_dash_cld/Golden.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Golden/live_dash_cld/Golden.mpd",
       "web": "no",
       "img": "golden",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1044,7 +1044,7 @@
     },
     {
       "name": "Golden Edge",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
       "web": "no",
       "img": "goldene",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1064,7 +1064,7 @@
     },
     {
       "name": "HBO HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HBO/live_dash_cld/HBO.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HBO/live_dash_cld/HBO.mpd",
       "web": "no",
       "img": "hbo",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1074,7 +1074,7 @@
     },
     {
       "name": "HBO 2 HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HBO2/live_dash_cld/HBO2.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HBO2/live_dash_cld/HBO2.mpd",
       "web": "no",
       "img": "hbo2",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1084,7 +1084,7 @@
     },
     {
       "name": "HBO Family",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
       "web": "no",
       "img": "hbof",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1094,7 +1094,7 @@
     },
     {
       "name": "HBO Mundi HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MAX/live_dash_cld/MAX.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MAX/live_dash_cld/MAX.mpd",
       "web": "no",
       "img": "hbomundi",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1104,7 +1104,7 @@
     },
     {
       "name": "HBO Plus HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
       "web": "no",
       "img": "hbop",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "HBO Pop HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MAXUP/live_dash_cld/MAXUP.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MAXUP/live_dash_cld/MAXUP.mpd",
       "web": "no",
       "img": "hbopop",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1124,7 +1124,7 @@
     },
     {
       "name": "HBO Signature",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
       "web": "no",
       "img": "hbos",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1134,7 +1134,7 @@
     },
     {
       "name": "HBO Xtreme",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd",
       "web": "no",
       "img": "hbox",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1144,7 +1144,7 @@
     },
     {
       "name": "HGTV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HGTV/live_dash_cld/HGTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HGTV/live_dash_cld/HGTV.mpd",
       "web": "no",
       "img": "hgtv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "History HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/History/live_dash_cld/History.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/History/live_dash_cld/History.mpd",
       "web": "no",
       "img": "history",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1164,7 +1164,7 @@
     },
     {
       "name": "History 2",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/History2/live_dash_cld/History2.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/History2/live_dash_cld/History2.mpd",
       "web": "no",
       "img": "h2",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1184,7 +1184,7 @@
     },
     {
       "name": "HTV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/HTV/live_dash_cld/HTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/HTV/live_dash_cld/HTV.mpd",
       "web": "no",
       "img": "htv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1194,7 +1194,7 @@
     },
     {
       "name": "Investigation Discovery",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/ID/live_dash_cld/ID.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/ID/live_dash_cld/ID.mpd",
       "web": "no",
       "img": "id",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1208,7 +1208,7 @@
       "web": "no",
       "img": "la1",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
       "origin": "",
       "referer": ""
     },
@@ -1224,7 +1224,7 @@
     },
     {
       "name": "La Nación Más",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
       "web": "no",
       "img": "lanacion",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1234,7 +1234,7 @@
     },
     {
       "name": "Las Estrellas",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Estrellas/live_dash_cld/Estrellas.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Estrellas/live_dash_cld/Estrellas.mpd",
       "web": "no",
       "img": "estrellas",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1244,7 +1244,7 @@
     },
     {
       "name": "Lifetime",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Lifetime/live_dash_cld/Lifetime.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Lifetime/live_dash_cld/Lifetime.mpd",
       "web": "no",
       "img": "lifetime",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1264,7 +1264,7 @@
     },
     {
       "name": "Love Nature 2",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/LoveNature/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/LoveNature/default/index.mpd",
       "web": "no",
       "img": "lovenature",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1274,7 +1274,7 @@
     },
     {
       "name": "Más Chic",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MasChic/live_dash_cld/MasChic.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MasChic/live_dash_cld/MasChic.mpd",
       "web": "no",
       "img": "maschic",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1294,7 +1294,7 @@
     },
     {
       "name": "MiMusica Romantica",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
       "web": "no",
       "img": "mimusicaromantica",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1304,7 +1304,7 @@
     },
     {
       "name": "MiMusica Reggaeton",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
       "web": "no",
       "img": "mimusicareggaeton",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1314,7 +1314,7 @@
     },
     {
       "name": "MiMusica Hits",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
       "web": "no",
       "img": "mimusicahits",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1324,7 +1324,7 @@
     },
     {
       "name": "MiMusica KPOP",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
       "web": "no",
       "img": "mimusicakpop",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1344,7 +1344,7 @@
     },
     {
       "name": "Mórbido TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Morbido/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Morbido/default/index.mpd",
       "web": "no",
       "img": "morbido-tv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1354,7 +1354,7 @@
     },
     {
       "name": "MTV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MTV/live_dash_cld/MTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MTV/live_dash_cld/MTV.mpd",
       "web": "no",
       "img": "mtv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1364,7 +1364,7 @@
     },
     {
       "name": "MTV Live",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
       "web": "no",
       "img": "mtvl",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1374,7 +1374,7 @@
     },
     {
       "name": "Multivisión",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Multivision/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Multivision/default/index.mpd",
       "web": "no",
       "img": "9multivision",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1384,7 +1384,7 @@
     },
     {
       "name": "Nat Geo HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/NatGeo/live_dash_cld/NatGeo.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/NatGeo/live_dash_cld/NatGeo.mpd",
       "web": "no",
       "img": "natgeo",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1414,7 +1414,7 @@
     },
     {
       "name": "Net TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/NETTV/live_dash_cld/NETTV.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/NETTV/live_dash_cld/NETTV.mpd",
       "web": "no",
       "img": "net",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1424,7 +1424,7 @@
     },
     {
       "name": "Nick",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
       "web": "no",
       "img": "nick",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1434,7 +1434,7 @@
     },
     {
       "name": "Nick JR",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd",
       "web": "no",
       "img": "nickjr",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1484,7 +1484,7 @@
     },
     {
       "name": "Novelísima",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Novelis/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Novelis/default/index.mpd",
       "web": "no",
       "img": "novelisima",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1514,7 +1514,7 @@
     },
     {
       "name": "Paka Paka",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd",
       "web": "no",
       "img": "paka",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1524,7 +1524,7 @@
     },
     {
       "name": "Paramount",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Paramount/live_dash_cld/Paramount.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Paramount/live_dash_cld/Paramount.mpd",
       "web": "no",
       "img": "paramount",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1534,7 +1534,7 @@
     },
     {
       "name": "PX Sports",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
       "web": "no",
       "img": "pxsports",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1544,7 +1544,7 @@
     },
     {
       "name": "Quiero TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd",
       "web": "no",
       "img": "quierotv",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1554,7 +1554,7 @@
     },
     {
       "name": "Radio María TV",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/RadioMaria/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/RadioMaria/default/index.mpd",
       "web": "no",
       "img": "radiomaria",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1564,7 +1564,7 @@
     },
     {
       "name": "Rai",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/RAI/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/RAI/default/index.mpd",
       "web": "no",
       "img": "rai",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1644,7 +1644,7 @@
     },
    {
       "name": "Sony",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Sony/live_dash_cld/Sony.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Sony/live_dash_cld/Sony.mpd",
       "web": "no",
       "img": "sonychannel",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1704,7 +1704,7 @@
     },
     {
       "name": "Space",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Space/live_dash_cld/Space.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Space/live_dash_cld/Space.mpd",
       "web": "no",
       "img": "space",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1714,7 +1714,7 @@
     },
     {
       "name": "Star Channel HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd",
       "web": "no",
       "img": "star",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1734,7 +1734,7 @@
     },
     {
       "name": "Studio Universal",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
       "web": "no",
       "img": "studio",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1744,7 +1744,7 @@
     },
     {
       "name": "Sun Channel",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/SUN/live_dash_cld/SUN.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/SUN/live_dash_cld/SUN.mpd",
       "web": "no",
       "img": "sun",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1774,7 +1774,7 @@
     },
     {
       "name": "T5 Satelital",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/ARR3/T5SH/playlist.m3u8",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/output/ARR3/T5SH/playlist.m3u8",
       "web": "no",
       "img": "t5sat",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1784,7 +1784,7 @@
     },
     {
       "name": "TCM",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TCM/live_dash_cld/TCM.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TCM/live_dash_cld/TCM.mpd",
       "web": "no",
       "img": "tcm",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1824,7 +1824,7 @@
     },
     {
       "name": "Telediario Televisión",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/TelediarioTelevision/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/TelediarioTelevision/default/index.mpd",
       "web": "no",
       "img": "td",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1834,7 +1834,7 @@
     },
     {
       "name": "Telefe HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd",
       "web": "no",
       "img": "telefe",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1844,7 +1844,7 @@
     },
     {
       "name": "Telefe Córdoba",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/Canal8cba/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/Canal8cba/default/index.mpd",
       "web": "no",
       "img": "telefe",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1864,7 +1864,7 @@
     },
     {
       "name": "Telefe Santa Fe",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/COR/TSFD/output.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/output/COR/TSFD/output.mpd",
       "web": "no",
       "img": "telefe",
       "license": "no",
@@ -1874,7 +1874,7 @@
     },
     {
       "name": "Telehit Música Plus",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Telehit/live_dash_cld/Telehit.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Telehit/live_dash_cld/Telehit.mpd",
       "web": "no",
       "img": "telehit-plus",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1914,7 +1914,7 @@
     },
     {
       "name": "Telemundo Internacional",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
       "web": "no",
       "img": "telemundo-int",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1944,7 +1944,7 @@
     },
     {
       "name": "TLnovelas",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd",
       "web": "no",
       "img": "tlnovelas",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -1954,7 +1954,7 @@
     },
     {
       "name": "TN Todo Noticias",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TN/live_dash_cld/TN.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TN/live_dash_cld/TN.mpd",
       "web": "no",
       "img": "tn",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1964,7 +1964,7 @@
     },
     {
       "name": "TNT",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TNT/live_dash_cld/TNT.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TNT/live_dash_cld/TNT.mpd",
       "web": "no",
       "img": "tnt",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1974,7 +1974,7 @@
     },
     {
       "name": "TNT Novelas",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TBS/live_dash_cld/TBS.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TBS/live_dash_cld/TBS.mpd",
       "web": "no",
       "img": "tntnovelas",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1984,7 +1984,7 @@
     },
     {
       "name": "TNT Series",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd",
       "web": "no",
       "img": "tnts",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -1994,7 +1994,7 @@
     },
     {
       "name": "TNT Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/TNTSports/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/TNTSports/default/index.mpd",
       "web": "no",
       "img": "tntsports",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2004,7 +2004,7 @@
     },
     {
       "name": "TNT Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
       "web": "no",
       "img": "tntsports",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2024,7 +2024,7 @@
     },
     {
       "name": "Tooncast",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Tooncast/live_dash_cld/Tooncast.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Tooncast/live_dash_cld/Tooncast.mpd",
       "web": "no",
       "img": "tooncast",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2034,7 +2034,7 @@
     },
     {
       "name": "TV Chile",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/TVChile/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/TVChile/default/index.mpd",
       "web": "no",
       "img": "tvchile",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2044,7 +2044,7 @@
     },
     {
       "name": "TV España",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TVE/live_dash_cld/TVE.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TVE/live_dash_cld/TVE.mpd",
       "web": "no",
       "img": "tves",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2064,7 +2064,7 @@
     },
     {
       "name": "TVP HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
       "web": "no",
       "img": "tvp",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2074,7 +2074,7 @@
     },
     {
       "name": "TyC Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
       "web": "no",
       "img": "tycs",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2084,7 +2084,7 @@
     },
     {
       "name": "TyC Sports HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
       "web": "no",
       "img": "tycs",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2104,7 +2104,7 @@
     },
     {
       "name": "TyC Sports 2",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/output/ARR3/sensaeventosD/output.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/output/ARR3/sensaeventosD/output.mpd",
       "web": "no",
       "img": "tycsports2",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2134,7 +2134,7 @@
     },
     {
       "name": "Universal Channel",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Universal/live_dash_cld/Universal.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Universal/live_dash_cld/Universal.mpd",
       "web": "no",
       "img": "universal",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2144,7 +2144,7 @@
     },
   {
       "name": "Universal Cinema",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/UniCin/live_dash_cld/UniCin.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/UniCin/live_dash_cld/UniCin.mpd",
       "web": "no",
       "img": "unicinema",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2154,7 +2154,7 @@
     },
    {
       "name": "Universal Comedy",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/UniCom/live_dash_cld/UniCom.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/UniCom/live_dash_cld/UniCom.mpd",
       "web": "no",
       "img": "unicomedy",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2164,7 +2164,7 @@
     },
   {
       "name": "Universal Crime",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/UniCri/live_dash_cld/UniCri.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/UniCri/live_dash_cld/UniCri.mpd",
       "web": "no",
       "img": "unicrime",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2174,7 +2174,7 @@
     },
   {
       "name": "Universal Premiere HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/UniPre/live_dash_cld/UniPre.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/UniPre/live_dash_cld/UniPre.mpd",
       "web": "no",
       "img": "unipremiere",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2184,7 +2184,7 @@
     },
   {
       "name": "Universal Reality",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/UniRea/live_dash_cld/UniRea.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/UniRea/live_dash_cld/UniRea.mpd",
       "web": "no",
       "img": "unireality",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2194,7 +2194,7 @@
     },
     {
       "name": "USA",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Syfy/live_dash_cld/Syfy.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Syfy/live_dash_cld/Syfy.mpd",
       "web": "no",
       "img": "usanet",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2204,7 +2204,7 @@
     },
     {
       "name": "Ve Plus",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/bpk-tv/VePlus/default/index.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/bpk-tv/VePlus/default/index.mpd",
       "web": "no",
       "img": "veplus",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2224,7 +2224,7 @@
     },
     {
       "name": "Volver HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Volver/live_dash_cld/Volver.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Volver/live_dash_cld/Volver.mpd",
       "web": "no",
       "img": "volver",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2234,7 +2234,7 @@
     },
     {
       "name": "Warner HD",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/eds/Warner/live_dash_cld/Warner.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/eds/Warner/live_dash_cld/Warner.mpd",
       "web": "no",
       "img": "warner",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
@@ -2244,7 +2244,7 @@
     },
     {
       "name": "ZooMoo",
-      "link": "https://SMT-USR-EDGE02.sensa.com.ar:443/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd",
+      "link": "https://SMT-USR-EDGE03.sensa.com.ar:443/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd",
       "web": "no",
       "img": "zoomoo",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
