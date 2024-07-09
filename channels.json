@@ -333,7 +333,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Bio Bio TV HD CL",
+      "name": "Bío Bío TV HD CL",
       "link": "https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
       "web": "no",
       "img": "biobiotv",
@@ -503,7 +503,7 @@
       "referer": ""
     },
     {
-      "name": "Chilevisión HD CL",
+      "name": "Chilevisión HD",
       "link": "http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "web": "no",
       "img": "chv",
@@ -833,7 +833,7 @@
       "referer": ""
     },
     {
-      "name": "DOCU HD CL",
+      "name": "Docu HD CL",
       "link": "http://live1.cl.cdn.lla.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "web": "no",
       "img": "docu",
