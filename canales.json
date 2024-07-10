@@ -2624,7 +2624,7 @@
   {
       "name": "Universal Cinema",
       "link": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicinema",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
@@ -2634,7 +2634,7 @@
    {
       "name": "Universal Comedy",
       "link": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicomedy",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
@@ -2644,7 +2644,7 @@
   {
       "name": "Universal Crime",
       "link": "https://chromecast.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicrime",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
@@ -2654,7 +2654,7 @@
   {
       "name": "Universal Premiere",
       "link": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unipremiere",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
@@ -2664,7 +2664,7 @@
   {
       "name": "Universal Reality",
       "link": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unireality",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
