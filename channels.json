@@ -192,6 +192,26 @@
       "referer": ""
     },
     {
+      "name": "ATV PE",
+      "link": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+      "web": "no",
+      "img": "atv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ATV Mas PE",
+      "link": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+      "web": "no",
+      "img": "atvp",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "AXN",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/AXN/live_dash_cld/AXN.mpd",
       "web": "no",
@@ -1052,6 +1072,16 @@
       "origin": "",
       "referer": "https://player.sensa.com.ar"
     },
+    {
+      "name": "Exitosa TV PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8",
+      "web": "no",
+      "img": "exitosa",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
    {
       "name": "Film & Arts",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/FilmArts/live_dash_cld/FilmArts.mpd",
@@ -1121,6 +1151,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Funbox PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8",
+      "web": "no",
+      "img": "funbox",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "FX",
@@ -1389,6 +1429,16 @@
       "img": "laredcl",
       "license": "no",
       "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Latina PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8",
+      "web": "no",
+      "img": "latina",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": ""
     },
@@ -1721,6 +1771,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Panamericana PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8",
+      "web": "no",
+      "img": "panamericana",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Paramount",
@@ -2273,6 +2333,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "Top Latino",
+      "link": "https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8",
+      "web": "no",
+      "img": "toplatino",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "TV Chile",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/TVChile/default/index.mpd",
       "web": "no",
@@ -2319,6 +2389,16 @@
       "img": "tvn",
       "license": "no",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV Perú",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8",
+      "web": "no",
+      "img": "tvperu",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": ""
     },
@@ -2373,6 +2453,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "Ucayali TV PE",
+      "link": "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/f9699826eb94721a3fedae7c5fbe0609/index.m3u8",
+      "web": "no",
+      "img": "ucayali",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "UCL",
       "link": "https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8",
       "web": "no",
@@ -2384,7 +2474,7 @@
     },
     {
       "name": "UCV TV",
-      "link": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/playlist.m3u8",
+      "link": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
       "web": "no",
       "img": "ucv",
       "license": "no",
@@ -2394,7 +2484,7 @@
     },
     {
       "name": "UCV 2",
-      "link": "https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/playlist.m3u8",
+      "link": "https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8",
       "web": "no",
       "img": "ucv2",
       "license": "no",
@@ -2541,6 +2631,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Willax PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8",
+      "web": "no",
+      "img": "willax",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Zona Latina HD CL",
