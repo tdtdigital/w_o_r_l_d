@@ -20,6 +20,11 @@
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
       },
       {
+        "name": "La1",
+        "uri": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
+      },
+      {
         "name": "La 2",
         "uri": "https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd",
         "drm_scheme": "clearkey",
@@ -179,11 +184,6 @@
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
-        "icono": "https://i.ibb.co/ZWkQJfH/el-nueve.png"
-      },
-      {
-        "name": "EL NUEVE OP2",
-        "uri": "https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8",
         "icono": "https://i.ibb.co/ZWkQJfH/el-nueve.png"
       },
       {
@@ -3607,6 +3607,13 @@
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
       },
       {
+        "name": "DISCOVERY CHANNEL ES",
+        "uri": "https://ott.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?key=7bae03ffb6f8a3539e8f93c0675e9c0a&keyid=d37f084ced3f48cd8e7ab2250f26030d",
+        "icono": "https://i.ibb.co/N2w45Cv/discovery.png"
+      },
+      {
         "name": "DISCOVERY H&H",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "clearkey",
@@ -3615,7 +3622,7 @@
       },
       {
         "name": "DKISS",
-        "uri": "https://tvup-live.akamaized.net/dkiss/dkiss.mpd",
+        "uri": "https://tvup-live.akamaized.net/dkissh/dkissh.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350760",
         "icono": "http://78.47.174.211/logos/dkiss.png"
@@ -4367,7 +4374,9 @@
       },
       {
         "name": "ODISEA 4K",
-        "uri": "http://ott.zapitv.com/live/eds_c2/odisea_hd/hls_ts_live_fta/odisea_hd.m3u8",
+        "uri": "https://ott.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a7837ebd0bfe0116ce5de21c7bc6158b&key=dd2decde9c929bddbee7e47bb68cfdca",
         "icono": "https://i.ibb.co/bBwXr6d/odisea.png"
       },
       {
@@ -4399,7 +4408,7 @@
         "icono": "http://78.47.174.211/logos/natgeowild.png"
       },
       {
-        "name": "DISCOVERY CHANNEL ES",
+        "name": "DISCOVERY CHANNEL",
         "uri": "http://ch01-nixval01.avatel.tv/live/eds/discovery/MPEG-DASH_Scrambled_High/discovery.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=501f70afc5fb453890c6c8019941ddbb&key=7746199d8bb1d5702f53d4e08758a298",
