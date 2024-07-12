@@ -1292,6 +1292,16 @@
       "referer": ""
     },
     {
+      "name": "GolTV",
+      "link": "http://45.232.176.17:8000/play/a00m",
+      "web": "no",
+      "img": "goltv",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "HBO HD",
       "link": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
       "web": "no",
