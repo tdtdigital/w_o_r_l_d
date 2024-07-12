@@ -202,7 +202,7 @@
       "referer": ""
     },
     {
-      "name": "ATV Mas PE",
+      "name": "ATV Más PE",
       "link": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
       "web": "no",
       "img": "atvp",
@@ -1184,7 +1184,7 @@
     },
   {
       "name": "Globo",
-      "link": "https://live.fanherocdn.com/66846477d7b2e12a8c8fa089/primary_MS720.m3u8",
+      "link": "https://abc.embedmax.site/globoSP/index.m3u8",
       "web": "no",
       "img": "globo",
       "license": "no",
@@ -1229,6 +1229,16 @@
       "img": "golf",
       "license": "no",
       "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "GolTV",
+      "link": "http://45.232.176.17:8000/play/a00m",
+      "web": "no",
+      "img": "goltv",
+      "license": "no",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -1413,7 +1423,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Las Estrellas 2",
+      "name": "Las Estrellas MX",
       "link": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
       "web": "no",
       "img": "estrellas",
@@ -1423,8 +1433,8 @@
       "referer": ""
     },
     {
-      "name": "La Red HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "La Red CL",
+      "link": "https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
       "web": "no",
       "img": "laredcl",
       "license": "no",
@@ -2333,7 +2343,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Top Latino",
+      "name": "Top Latino TV",
       "link": "https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8",
       "web": "no",
       "img": "toplatino",
