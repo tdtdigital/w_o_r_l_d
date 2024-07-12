@@ -60,7 +60,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
         "icono": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/350/0/60910208076515.png"
-      }
+      },
       {
         "name": "TYC SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
