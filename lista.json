@@ -910,7 +910,7 @@
         "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6",
-        "icono": "https://i.ibb.co/smXk8Pw/Hypermotion3.png"
+        "icono": "https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png"
       },
       {
         "name": "DAZN FAST+",
@@ -3649,6 +3649,13 @@
         "icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
+        "name": "DMAX",
+        "uri": "https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=73e55164b719d1210351f86093bc3ec3&key=792ffb4e6ebbe2aae394061f01948e40",
+        "icono": "http://78.47.174.211/logos/dmax.png"
+      },
+      {
         "name": "DISCOVERY TURBO",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
@@ -3751,6 +3758,13 @@
         "uri": "https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png"
       },
+       {
+        "name": "BUEN VIAJE",
+        "uri": "https://ott.zapitv.com/live/eds_c2/BUENVIAJE/dash_live_enc/BUENVIAJE.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a3b3b1d585f5d0472336a17824d5da22&key=05eeec445f9bcfaef03c36965fce16d7",
+        "icono": "https://i.ibb.co/C5KRxTw/buen-viaje.png"
+      },
       {
         "name": "INTI ORIGIN",
         "uri": "https://baktilp-intipacha-1-mx.tcl.wurl.tv/playlist.m3u8",
@@ -3768,7 +3782,7 @@
       },
       {
         "name": "LOVE NATURE",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8",
+        "uri": "https://amg00090-blueantllc-lovenature-lgus-t7q3q.amagi.tv/playlist/amg00090-blueantllc-lovenature-lgus/playlist.m3u8",
         "icono": "https://i.ibb.co/Xb3YMNy/lovenature.png"
       },
       {
@@ -4050,7 +4064,7 @@
       {
         "name": "LALIGA+",
         "uri": "https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8",
-        "icono": "https://i.ibb.co/sJYJwDp/Laliga-Plus.png"
+        "icono": "https://i.ibb.co/PNQ1dFZ/Laliga-Plus.png"
       },
        {
         "name": "24H",
@@ -4069,8 +4083,6 @@
        {
         "name": "LA 1",
         "uri": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0b5e6af8d1f345828d9cfff8cbf903ee&key=99df7780551f38af550a637923bd4a31",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
       },
        {
@@ -4135,7 +4147,7 @@
         "uri": "https://tvup-live.akamaized.net/cuatro/cuatro.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350740",
-        "icono": "https://i.ibb.co/0Mp7pgN/cuatro.png"
+        "icono": "http://78.47.174.211/logos/cuatro.png"
       },
       {
         "name": "TELECINCO",
@@ -4149,7 +4161,7 @@
         "uri": "https://tvup-live.akamaized.net/lasexta/lasexta.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350741",
-        "icono": "https://i.ibb.co/g3wGWf0/la-sexta.png"
+        "icono": "http://78.47.174.211/logos/lasexta.png"
       },
        {
         "name": "MEGA",
@@ -4303,6 +4315,13 @@
         "icono": "https://i.ibb.co/9rHVZ85/warner-tv.png"
       },
       {
+        "name": "ATRESCINE",
+        "uri": "http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
+        "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
+      },
+      {
         "name": "ATRESERIES",
         "uri": "https://tvup-live.akamaized.net/atresseries/atresseries.mpd",
         "drm_scheme": "clearkey",
@@ -4360,17 +4379,17 @@
       },
       {
         "name": "ENFAMILIA",
-        "uri": "http://ch01-nixval01.avatel.tv/live/eds/enfamilia/MPEG-DASH_Scrambled_High/enfamilia.mpd",
+        "uri": "https://tvup01.edge.milloh-cs.com/enfamilia/enfamilia.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1001a18733bc4430ae709bae18850030&key=72da020cb3510605e2fa822ce9ffb6d0",
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350802",
         "icono": "https://i.ibb.co/DYL6C4X/ENFAMILIA.webp"
       },
        {
-        "name": "CANAL COCINA 4K",
+        "name": "CANAL COCINA",
         "uri": "https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
-        "icono": "https://i.ibb.co/m8WYtsP/canal-cocina-4k.png"
+        "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
       },
       {
         "name": "ODISEA 4K",
