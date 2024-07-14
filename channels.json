@@ -82,6 +82,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "AGRO TV PE",
+      "link": "https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8",
+      "web": "no",
+      "img": "agrotv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "AMC",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/AMC/live_dash_cld/AMC.mpd",
       "web": "no",
@@ -626,8 +636,38 @@
       "name": "Claro Sports HD",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports/default/index.mpd",
       "web": "no",
-      "img": "clarosports",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "img": "clarosports1",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Claro Sports 2 HD",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports2/default/index.mpd",
+      "web": "no",
+      "img": "clarosports2",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Claro Sports 3 HD",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports3/default/index.mpd",
+      "web": "no",
+      "img": "clarosports3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Claro Sports 4 HD",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports4/default/index.mpd",
+      "web": "no",
+      "img": "clarosports4",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -639,6 +679,16 @@
       "img": "cloverchannel",
       "license": "no",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CNC TV",
+      "link": "https://vdo.grupolimalive.com/p/3237/live/cnctvlive.m3u8",
+      "web": "no",
+      "img": "cnctv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": ""
     },
@@ -691,6 +741,26 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "CTC PE",
+      "link": "http://live-evg20.tv360.bitel.com.pe/s-ctc-link/index.m3u8",
+      "web": "no",
+      "img": ctc",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CTV TV PE",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8",
+      "web": "no",
+      "img": ctvtv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "De Película",
@@ -1869,6 +1939,16 @@
       "img": "rectv",
       "license": "no",
       "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "RIBEREÑA PE",
+      "link": "https://live-evg9.tv360.bitel.com.pe/atmtv/index.m3u8",
+      "web": "no",
+      "img": riberena",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": ""
     },
