@@ -33,7 +33,7 @@
     },
   {
       "name": "24 Horas HD ES",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:12_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:12_HD.smil/manifest.mpd",
       "web": "no",
       "img": "24horases",
       "license": "no",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Atreseries",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd",
       "web": "no",
       "img": "a3series",
       "license": "no",
@@ -624,7 +624,7 @@
     },
   {
       "name": "Clan HD ES",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:6_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:6_HD.smil/manifest.mpd",
       "web": "no",
       "img": "clan",
       "license": "no",
@@ -674,7 +674,7 @@
     },
     {
       "name": "Clover Channel ES",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge6/smil:77_HD.smil/manifest.mpd",
       "web": "no",
       "img": "cloverchannel",
       "license": "no",
@@ -814,7 +814,7 @@
     },
     {
       "name": "Discovery HD España",
-      "link": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
+      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
       "web": "no",
       "img": "discovery",
       "license": "no",
@@ -1284,7 +1284,7 @@
     },
     {
       "name": "Gol Play ES",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
       "web": "no",
       "img": "goles",
       "license": "no",
@@ -1454,7 +1454,7 @@
     },
     {
       "name": "La 1 HD",
-      "link": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
       "web": "no",
       "img": "la1",
       "license": "no",
@@ -1464,7 +1464,7 @@
     },
     {
       "name": "La 2 HD",
-      "link": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:2_HD.smil/manifest.mpd",
       "web": "no",
       "img": "la2",
       "license": "no",
@@ -2164,7 +2164,7 @@
     },    
     {
       "name": "TCM HD ES",
-      "link": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:70_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:70_HD.smil/manifest.mpd",
       "web": "no",
       "img": "tcmes",
       "license": "no",
@@ -2174,7 +2174,7 @@
     },  
     {
       "name": "TDP HD ES",
-      "link": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
+      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
       "web": "no",
       "img": "tdp",
       "license": "no",
@@ -2454,7 +2454,7 @@
     },
     {
       "name": "TV Galicia HD ES",
-      "link": "https://spa--hb-p004.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
+      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
       "web": "no",
       "img": "tv-galicia",
       "license": "no",
