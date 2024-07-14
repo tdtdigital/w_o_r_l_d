@@ -193,7 +193,7 @@
     },
     {
       "name": "Atreseries",
-      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd",
       "web": "no",
       "img": "a3series",
       "license": "no",
@@ -814,7 +814,7 @@
     },
     {
       "name": "Discovery HD España",
-      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.mpd",
       "web": "no",
       "img": "discovery",
       "license": "no",
@@ -2174,7 +2174,7 @@
     },  
     {
       "name": "TDP HD ES",
-      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
       "web": "no",
       "img": "tdp",
       "license": "no",
@@ -2454,7 +2454,7 @@
     },
     {
       "name": "TV Galicia HD ES",
-      "link": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
       "web": "no",
       "img": "tv-galicia",
       "license": "no",
