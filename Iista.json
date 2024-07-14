@@ -14,7 +14,14 @@
     "samples": [
       {
         "name": "ESPN",
-        "uri": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+        "icono": "http://78.47.174.211/logos/espn.png"
+      },
+      {
+        "name": "ESPN",
+        "uri": "https://SMT-USR-EDGE02.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
         "icono": "http://78.47.174.211/logos/espn.png"
       },
       {
