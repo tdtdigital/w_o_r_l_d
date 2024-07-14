@@ -2525,7 +2525,7 @@
   {
       "name": "Universal Cinema",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCin/live_dash_cld/UniCin.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicinema",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
@@ -2535,7 +2535,7 @@
    {
       "name": "Universal Comedy",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCom/live_dash_cld/UniCom.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicomedy",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
@@ -2545,7 +2545,7 @@
   {
       "name": "Universal Crime",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCri/live_dash_cld/UniCri.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unicrime",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
@@ -2555,7 +2555,7 @@
   {
       "name": "Universal Premiere HD",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniPre/live_dash_cld/UniPre.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unipremiere",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
@@ -2565,7 +2565,7 @@
   {
       "name": "Universal Reality",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniRea/live_dash_cld/UniRea.mpd",
-      "web": "no",
+      "web": "non",
       "img": "unireality",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
