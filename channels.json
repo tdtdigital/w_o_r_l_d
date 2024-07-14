@@ -82,7 +82,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "AGRO TV PE",
+      "name": "Agro TV PE",
       "link": "https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8",
       "web": "no",
       "img": "agrotv",
@@ -637,7 +637,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports/default/index.mpd",
       "web": "no",
       "img": "clarosports1",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -647,7 +647,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports2/default/index.mpd",
       "web": "no",
       "img": "clarosports2",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -657,7 +657,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports3/default/index.mpd",
       "web": "no",
       "img": "clarosports3",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -667,7 +667,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/claroSports4/default/index.mpd",
       "web": "no",
       "img": "clarosports4",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -683,7 +683,7 @@
       "referer": ""
     },
     {
-      "name": "CNC TV",
+      "name": "CNC TV PE",
       "link": "https://vdo.grupolimalive.com/p/3237/live/cnctvlive.m3u8",
       "web": "no",
       "img": "cnctv",
@@ -1943,7 +1943,7 @@
       "referer": ""
     },
     {
-      "name": "RIBEREÑA PE",
+      "name": "Ribereña PE",
       "link": "https://live-evg9.tv360.bitel.com.pe/atmtv/index.m3u8",
       "web": "no",
       "img": "riberena",
