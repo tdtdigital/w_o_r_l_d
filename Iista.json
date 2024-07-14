@@ -13,6 +13,13 @@
     "name": "🏆 EVENTOS",
     "samples": [
       {
+        "name": "ESPN",
+        "uri": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrpw.pt.verspective.net:443?deviceId=MDBmZGIwYTUtMGNjMS0zZDQ0LWE3ZWEtZWYyMmRmNzM1NTY3=",
+        "icono": "http://78.47.174.211/logos/espn.png"
+      },
+      {
         "name": "La 1",
         "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
         "drm_scheme": "clearkey",
