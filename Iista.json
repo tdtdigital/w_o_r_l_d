@@ -13,18 +13,6 @@
     "name": "🏆 EVENTOS",
     "samples": [
       {
-        "name": "ESPN",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "icono": "http://78.47.174.211/logos/espn.png"
-      },
-      {
-        "name": "ESPN",
-        "uri": "https://SMT-USR-EDGE02.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
-        "icono": "http://78.47.174.211/logos/espn.png"
-      },
-      {
         "name": "La 1",
         "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
         "drm_scheme": "clearkey",
@@ -125,11 +113,11 @@
         "uri": "https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd",
         "drm_scheme": "clearkey",
         "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=3e1c0dd8d951335d9d8c534d29277c91&key=978f073eee32606a3f2544306fb1a7b3"
+        "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350791"
       },
       {
         "name": "CARACOL TELEVISIÓN",
-        "uri": "https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/89ac411933cd444e876a7b03bd758ca5/playlist.m3u8",
+        "uri": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8",
         "icono": "https://i.ibb.co/C99TsMs/caracol.png"
       },
       {
@@ -4144,7 +4132,7 @@
       },
        {
         "name": "TDP",
-        "uri": "https://spa--hb-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
         "icono": "http://78.47.174.211/logos/teledeporte.png"
       },
        {
@@ -4666,9 +4654,9 @@
       },
       {
         "name": "NICK JR.",
-        "uri": "http://ch01-nixval01.avatel.tv/live/eds/nickjr/MPEG-DASH_Scrambled_High/nickjr.mpd",
+        "uri": "https://ott.zapitv.com/live/eds_c2/nick_jr/dash_live_enc/nick_jr.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d61f8919364e4559a4915de5425579c0&key=bed7388ec5a2637e40eadced144bf4ce",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9288b676a6758b2f90b6b38f4b47f122&key=9f777abf518d699f4f5992dd9db8b1fa",
         "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp"
       },
        {
