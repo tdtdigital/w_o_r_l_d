@@ -22,8 +22,8 @@
       "referer": ""
     },
   {
-      "name": "24 Horas HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "24 Horas CL",
+      "link": "http://45.232.176.17:8000/play/a01w",
       "web": "no",
       "img": "24h",
       "license": "no",
@@ -414,11 +414,11 @@
     },
     {
       "name": "Canal 13 HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a004",
       "web": "no",
       "img": "13",
       "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -534,7 +534,7 @@
     },
     {
       "name": "Chilevisión HD",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a00v",
       "web": "no",
       "img": "chv",
       "license": "no",
@@ -743,7 +743,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "CTC PE",
+      "name": "CTC TV PE",
       "link": "http://live-evg20.tv360.bitel.com.pe/s-ctc-link/index.m3u8",
       "web": "no",
       "img": "ctc",
@@ -803,8 +803,8 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Discovery HD Chile",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Discovery Chile",
+      "link": "http://45.232.176.17:8000/play/a02m",
       "web": "no",
       "img": "discovery",
       "license": "no",
@@ -1043,6 +1043,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "ESPN HD CL",
+      "link": "http://45.232.176.17:8000/play/a01a",
+      "web": "no",
+      "img": "espn",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "ESPN 2",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
       "web": "no",
@@ -1071,6 +1081,36 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "ESPN 5",
+      "link": "http://45.232.176.17:8000/play/a028",
+      "web": "no",
+      "img": "espn5",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 6 HD",
+      "link": "http://45.232.176.17:8000/play/a00a",
+      "web": "no",
+      "img": "espn6",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 7 HD",
+      "link": "http://45.232.176.17:8000/play/a009",
+      "web": "no",
+      "img": "espn7",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "ESPN Premium HD",
@@ -1282,6 +1322,16 @@
       "origin": "",
       "referer": "https://player.sensa.com.ar"
     },
+	{
+      "name": "Golden Plus HD",
+      "link": "http://45.232.176.17:8000/play/a00n",
+      "web": "no",
+      "img": "goldenp",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
     {
       "name": "Gol Play ES",
       "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.mpd",
@@ -1303,7 +1353,7 @@
       "referer": ""
     },
     {
-      "name": "GolTV",
+      "name": "GolTV HD",
       "link": "http://45.232.176.17:8000/play/a00m",
       "web": "no",
       "img": "goltv",
@@ -1429,6 +1479,16 @@
       "img": "holaplay",
       "license": "no",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Hola TV HD",
+      "link": "http://45.232.176.17:8000/play/a020",
+      "web": "no",
+      "img": "hola",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -1574,7 +1634,7 @@
     },
     {
       "name": "Mega HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a00u",
       "web": "no",
       "img": "megacl",
       "license": "no",
@@ -1681,6 +1741,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Multipremier",
+      "link": "http://45.232.176.17:8000/play/a014",
+      "web": "no",
+      "img": "multipremier",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Multivisión",
@@ -1833,8 +1903,8 @@
       "referer": ""
     },
     {
-      "name": "NTV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "NTV CL",
+      "link": "http://45.232.176.17:8000/play/a01s",
       "web": "no",
       "img": "ntv",
       "license": "no",
@@ -2343,7 +2413,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "TN Todo Noticias",
+      "name": "TN Todo Noticias HD",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/TN/live_dash_cld/TN.mpd",
       "web": "no",
       "img": "tn",
@@ -2401,6 +2471,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "TNT Sports Premium HD",
+      "link": "http://45.232.176.17:8000/play/a01z",
+      "web": "no",
+      "img": "tntsportspr",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Todo Novelas, más Pasiones",
@@ -2474,7 +2554,7 @@
     },
     {
       "name": "TVN HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a00t",
       "web": "no",
       "img": "tvn",
       "license": "no",
@@ -2504,7 +2584,7 @@
     },
     {
       "name": "TyC Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
       "web": "no",
       "img": "tycs",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
@@ -2514,13 +2594,33 @@
     },
     {
       "name": "TyC Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
       "web": "no",
       "img": "tycs",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "TyC Sports Internacional HD",
+      "link": "http://45.232.176.17:8000/play/a02g",
+      "web": "no",
+      "img": "tycs",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports Internacional HD",
+      "link": "http://45.232.176.17:8000/play/a008",
+      "web": "no",
+      "img": "tycs",
+      "license": "no",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "TyC Sports US",
@@ -2651,6 +2751,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+{
+      "name": "Univision HD",
+      "link": "http://45.232.176.17:8000/play/a02y",
+      "web": "no",
+      "img": "univision",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "USA",
