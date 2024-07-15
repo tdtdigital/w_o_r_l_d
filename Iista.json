@@ -134,7 +134,7 @@
       },
       {
         "name": "AMERICA TV PE",
-        "uri": "https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
+        "uri": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350714",
         "icono": "https://i.ibb.co/bPKWXGc/america.jpg"
