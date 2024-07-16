@@ -592,12 +592,42 @@
       "referer": ""
     },
     {
-      "name": "Claro Sports",
-      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "name": "Claro Sports HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8",
       "web": "no",
-      "img": "clarosports",
+      "img": "clarosports1",
       "license": "no",
-      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 2 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8",
+      "web": "no",
+      "img": "clarosports2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 3 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8",
+      "web": "no",
+      "img": "clarosports3",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 4 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8",
+      "web": "no",
+      "img": "clarosports4",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
