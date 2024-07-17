@@ -2749,6 +2749,13 @@
     "name": "🎬 CINE y SERIES",
     "samples": [
       {
+        "name": "ADULT SWIM",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
+        "icono": "https://i.ibb.co/jZxhrBD/adult-swim.png"
+      },
+      {
         "name": "WARNER CHANNEL",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "drm_scheme": "clearkey",
@@ -3406,13 +3413,6 @@
   {
     "name": "🙍🏻‍♀️ NOVELAS y VARIEDADES",
     "samples": [
-      {
-        "name": "ADULT WIN",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
-        "icono": "https://i.ibb.co/jZxhrBD/adult-swim.png"
-      },
       {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
