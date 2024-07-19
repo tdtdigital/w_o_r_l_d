@@ -163,9 +163,9 @@
     },
     {
       "name": "Antena 3 HD",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:7_HD.smil/manifest.mpd",
       "web": "no",
-      "img": "antena3-int",
+      "img": "antena3",
       "license": "no",
       "ua": "Ktor client",
       "origin": "",
@@ -433,6 +433,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "CanalCOOP",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/output/COR/CaroyaCoopH/playlist.m3u8",
+      "web": "no",
+      "img": "canalcoop",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "Canal E",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/CanalE/default/index.mpd",
       "web": "no",
@@ -451,6 +461,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Canal Local Morteros",
+      "link": "https://online.coopmorteros.coop/canal50_dash/vivo.mpd",
+      "web": "no",
+      "img": "c50",
+      "license": "",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Canal LUZ",
@@ -603,16 +623,6 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Cinemax HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "Cinemax",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
       "name": "Ciudad Magazine",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd",
       "web": "no",
@@ -727,6 +737,36 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
       "web": "no",
       "img": "comedy",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "COONET",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/output/SMT4/BRKD/output.mpd",
+      "web": "no",
+      "img": "coonet",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "COOP de Porteña",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/output/SMT1/PORD/output.mpd",
+      "web": "no",
+      "img": "cooplustv",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "COOP de Tacural",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/output/ARR2/TacuralD/output.mpd",
+      "web": "no",
+      "img": "c3",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
@@ -2263,8 +2303,8 @@
       "referer": ""
     },
     {
-      "name": "Telecanal CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Telecanal HD CL",
+      "link": "https://eu1.servers10.com:8081/8194/index.m3u8",
       "web": "no",
       "img": "telecanal",
       "license": "no",
