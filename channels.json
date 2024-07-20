@@ -182,16 +182,6 @@
       "referer": ""
     },
     {
-      "name": "Atrescine",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "a3cine",
-      "license": "no",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Atreseries",
       "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd",
       "web": "no",
@@ -2745,9 +2735,9 @@
   {
       "name": "Universal Cinema",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCin/live_dash_cld/UniCin.mpd",
-      "web": "non",
+      "web": "no",
       "img": "unicinema",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2755,9 +2745,9 @@
    {
       "name": "Universal Comedy",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCom/live_dash_cld/UniCom.mpd",
-      "web": "non",
+      "web": "no",
       "img": "unicomedy",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2765,9 +2755,9 @@
   {
       "name": "Universal Crime",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniCri/live_dash_cld/UniCri.mpd",
-      "web": "non",
+      "web": "no",
       "img": "unicrime",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2775,9 +2765,9 @@
   {
       "name": "Universal Premiere HD",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniPre/live_dash_cld/UniPre.mpd",
-      "web": "non",
+      "web": "no",
       "img": "unipremiere",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2785,9 +2775,9 @@
   {
       "name": "Universal Reality",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/UniRea/live_dash_cld/UniRea.mpd",
-      "web": "non",
+      "web": "no",
       "img": "unireality",
-      "license": "https://mrpw.pt.verspective.net:443?deviceId=YTJmN2FiNWQtNThmYi0zODZlLTk3OGItNjI2ZjdhMWNjNjA3",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
