@@ -252,6 +252,16 @@
       "referer": ""
     },
     {
+      "name": "Azteca Deportes Premium",
+      "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus",
+      "web": "no",
+      "img": "aztecadeportes",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Azteca Internacional",
       "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828",
       "web": "no",
@@ -964,9 +974,19 @@
     },
     {
       "name": "Dsports",
-      "link": "http://177.53.155.236:8000/play/a0co",
+      "link": "http://45.179.164.30:8000/play/a0fk",
       "web": "no",
       "img": "dtv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Dsports 2",
+      "link": "http://45.179.164.30:8000/play/a0fl",
+      "web": "no",
+      "img": "dtv2",
       "license": "no",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
       "origin": "",
@@ -1211,6 +1231,16 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Evento",
+      "link": "http://177.53.155.236:8000/play/a0co",
+      "web": "no",
+      "img": "l1max",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "EWTN",
