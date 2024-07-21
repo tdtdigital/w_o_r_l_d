@@ -963,6 +963,16 @@
       "referer": ""
     },
     {
+      "name": "Dsports",
+      "link": "http://177.53.155.236:8000/play/a0co",
+      "web": "no",
+      "img": "dtv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "DW",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/DWChannel/live_dash_cld/DWChannel.mpd",
       "web": "no",
