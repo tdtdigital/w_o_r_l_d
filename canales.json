@@ -832,6 +832,16 @@
       "referer": ""
     },
     {
+      "name": "Dsports",
+      "link": "http://177.53.155.236:8000/play/a0co",
+      "web": "no",
+      "img": "dtv",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "DW",
       "link": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
       "web": "no",
@@ -1303,9 +1313,19 @@
     },
   {
       "name": "Golden Edge",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/goldenedgesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a00c",
       "web": "no",
       "img": "goldene",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+	{
+      "name": "Golden Plus HD",
+      "link": "http://45.232.176.17:8000/play/a00n",
+      "web": "no",
+      "img": "goldenp",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
