@@ -704,7 +704,7 @@
     },
     {
       "name": "CNN Chile HD",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "link": "http://45.232.176.17:8000/play/a01v",
       "web": "no",
       "img": "cnncl",
       "license": "no",
@@ -1231,6 +1231,26 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "Eurosport 1",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "Eurosport",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eurosport 2",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "Eurosport_2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Evento",
@@ -2013,6 +2033,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "Pasiones HD",
+      "link": "http://45.232.176.17:8000/play/a02x",
+      "web": "no",
+      "img": "pasiones",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "PX Sports",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
       "web": "no",
@@ -2547,6 +2577,16 @@
       "link": "http://45.232.176.17:8000/play/a01z",
       "web": "no",
       "img": "tntsportspr",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Todo Novelas",
+      "link": "https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8",
+      "web": "no",
+      "img": "todonovelas",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
