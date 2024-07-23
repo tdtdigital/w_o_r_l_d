@@ -1122,6 +1122,26 @@
       "referer": ""
     },
     {
+      "name": "Eurosport 1",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "Eurosport",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eurosport 2",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "Eurosport_2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Eventos 1 AR",
       "link": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
       "web": "no",
@@ -2448,6 +2468,16 @@
       "img": "tntsports",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Todo Novelas",
+      "link": "https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8",
+      "web": "no",
+      "img": "todonovelas",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
