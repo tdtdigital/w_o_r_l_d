@@ -3987,14 +3987,14 @@
       },
        {
         "name": "EUROSPORT 1",
-        "uri": "https://ch01-nixval01.cdn.avatel.tv/live/eds/eurosport/MPEG-DASH_Scrambled_High/eurosport.mpd",
+        "uri": "https://ch01-nixval01.avatel.tv/live/eds/eurosport/MPEG-DASH_Scrambled_High/eurosport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b829eae6fa3a445ba2989179bb567d67&key=cbe0b1292334f13e6c425a50e3c0ba85",
         "icono": "https://i.ibb.co/2K4s7Vg/eurosport1.png"
       },
        {
         "name": "EUROSPORT 2",
-        "uri": "https://ch01-nixval01.cdn.avatel.tv/live/eds/eurosport2/MPEG-DASH_Scrambled_High/eurosport2.mpd",
+        "uri": "https://ch01-nixval01.avatel.tv/live/eds/eurosport2/MPEG-DASH_Scrambled_High/eurosport2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=ca6ca509e51a4f469e06858ae7c7ab3c&key=ae68bcb89b471c12fa4ab63504e725c4",
         "icono": "https://i.ibb.co/mhZxPXZ/eurosport2.png"
