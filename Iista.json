@@ -1509,11 +1509,46 @@
         "icono": "https://i.ibb.co/fN4bsYz/usa-network.png"
       },
        {
+        "name": "USA NETWORK WEST US",
+        "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=252a671825ba31ec8433f978c32ccf6d&key=ee560759ecc8d2274df2e63fcef56915",
+        "icono": "https://i.ibb.co/fN4bsYz/usa-network.png"
+      },
+       {
         "name": "NBC SPORTS",
         "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/640px-NBC_Sports_2023.svg.png"
+      },
+       {
+        "name": "NBC LOS ANGELES",
+        "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0045a118e231f1326bcdb45350b1ceaa&key=8c13afbfa54ea37a368b8b859021f6e3",
+        "icono": "https://i.ibb.co/ZdhGKSh/nbc.png"
+      },
+       {
+        "name": "NBC GOLF CHANNEL",
+        "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d5c9203447ab38c5bf5b407cdd9de5e8&key=501464dfa2ac437098c35e1c4f16bb6b",
+        "icono": "https://i.ibb.co/PN7c3nL/golf-channel.png"
+      },
+      {
+        "name": "NFL  NETWORK",
+        "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=002007110c69a23803173b50eab05f23&key=590d6e8f4ca81319f9bb29104f571990",
+        "icono": "http://78.47.174.211/logos/nflnetwork.png"
+      },
+       {
+        "name": "WWE",
+        "uri": "https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=00208c93f4358213b52220898b962385&key=8ae6063167228e350dd132d4a1573102",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/510px-WWE_official_logo.svg.png"
       },
        {
         "name": "COURT SPORTS NETWORK",
@@ -1894,11 +1929,6 @@
         "icono": "https://i.ibb.co/zhKNWdq/CCTV-5.png"
       },
       {
-        "name": "CCTV-GOLF",
-        "uri": "https://edge2.laotv.la/live/CCTVGolf/index.m3u8",
-        "icono": "https://i.ibb.co/g7JZnss/cctv-golf.png"
-      },
-      {
         "name": "ARENA  1  PREMIUM",
         "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
         "drm_scheme": "clearkey",
@@ -1988,41 +2018,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
         "icono": "https://i.ibb.co/F6N3Bh4/arena-fight.png"
-      },
-       {
-        "name": "TRUE  SPORTS  1",
-        "uri": "https://edge2.laotv.la/live/TrueSport6/index.m3u8",
-        "icono": "https://i.ibb.co/7VbMKHq/True-Sports-1.png"
-      },
-       {
-        "name": "TRUE  SPORTS  2",
-        "uri": "https://edge2.laotv.la/live/TrueSport2/index.m3u8",
-        "icono": "https://i.ibb.co/qgQhQtw/True-Sports-2.png"
-      },
-       {
-        "name": "TRUE  SPORTS  3",
-        "uri": "https://edge2.laotv.la/live/TrueSport3/index.m3u8",
-        "icono": "https://i.ibb.co/94mM6G8/True-Sports-3.png"
-      },
-       {
-        "name": "TRUE  PREMIER  FOOTBALL  1",
-        "uri": "https://edge1.laotv.la/live/TSport1/index.m3u8",
-        "icono": "https://i.ibb.co/wpyh86s/True-Premier-Football-1.webp"
-      },
-       {
-        "name": "TRUE  PREMIER  FOOTBALL  2",
-        "uri": "https://edge1.laotv.la/live/TSport2/index.m3u8",
-        "icono": "https://i.ibb.co/WGSvk6y/True-Premier-Football-2.png"
-      },
-       {
-        "name": "WWE",
-        "uri": "https://edge2.laotv.la/live/WWE/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/510px-WWE_official_logo.svg.png"
-      },
-       {
-        "name": "BOSI  GOLF  CLUB  1",
-        "uri": "https://edge2.laotv.la/live/BosiGolf/index.m3u8",
-        "icono": "https://i.ibb.co/RP8GgPw/image.png"
       },
        {
         "name": "ACC DIGITAL NETWORK",
