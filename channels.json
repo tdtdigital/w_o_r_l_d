@@ -92,6 +92,16 @@
       "referer": ""
     },
     {
+      "name": "Allegro HD",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/Allegro/default/index.mpd",
+      "web": "no",
+      "img": "allegro",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "AMC",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/live/eds/AMC/live_dash_cld/AMC.mpd",
       "web": "no",
@@ -1863,16 +1873,6 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Nat Geo HD Panregional",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "natgeo",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Naturaleza",
       "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "web": "no",
@@ -2714,21 +2714,11 @@
     },
     {
       "name": "TyC Sports Internacional HD",
-      "link": "http://45.232.176.17:8000/play/a02g",
-      "web": "no",
-      "img": "tycs",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "TyC Sports Internacional HD",
       "link": "http://45.232.176.17:8000/play/a008",
       "web": "no",
       "img": "tycs",
       "license": "no",
-      "ua": "Ktor client",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -2747,6 +2737,16 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/output/ARR3/sensaeventosD/output.mpd",
       "web": "no",
       "img": "tycsports2",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "TyC Sports 3",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar:443/bpk-tv/SensaEventos1/default/index.mpd",
+      "web": "no",
+      "img": "tycsports3",
       "license": "https://mrpw.pt.verspective.net:443?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
