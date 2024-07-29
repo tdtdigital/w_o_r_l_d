@@ -1596,7 +1596,7 @@
 "drm_scheme": "clearkey",
 "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=60c0d9b41475e01db4ffb91ed557fbcc&key=36ee40e58948ca15e3caba8d47b8f34b",
                 "uri": "http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
-                "icono": "https://i.ibb.co/sQCPhC4/tnt5.png"
+                "icono": "https://i.ibb.co/gyzGJ7f/tnt5.png"
             },
       {
         "name": "SSC  1",
@@ -1926,21 +1926,21 @@
         "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
-        "icono": "https://i.postimg.cc/QxGqy6q8/arena1.jpg"
+        "icono": "https://i.ibb.co/dpyHFpv/arena-sport-1-premium.png"
       },
       {
         "name": "ARENA  2  PREMIUM",
         "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
-        "icono": "https://i.ibb.co/XFwwGcL/tv-station-rs-arena-premium-2-2697.png"
+        "icono": "https://i.ibb.co/h7Fh5FQ/arena-sport-2-premium.png"
       },
       {
         "name": "ARENA  3  PREMIUM",
         "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
-        "icono": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png"
+        "icono": "https://i.ibb.co/4p5tKS9/arena-sport-3-premium.png"
       },
       {
         "name": "ARENA  SPORT  1",
@@ -2019,7 +2019,7 @@
       },
        {
         "name": "PAC 12 INSIDER",
-        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99991143/hls/playlist.m3u8?ads.xumo_channelId=99991143",
+        "uri": "https://pac12-vizio.amagi.tv/playlist.m3u8",
         "icono": "https://image.xumo.com/v1/channels/channel/99991143/600x337.webp?type=color_onBlack"
       },
        {
@@ -2174,7 +2174,7 @@
       },
        {
         "name": "OUTDOOR AMERICA",
-        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991374/hls/master.m3u8?ads.xumo_channelId=99991374",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991374/hls/playlist.m3u8?ads.xumo_channelId=99991374",
         "icono": "https://image.xumo.com/v1/channels/channel/99991374/600x337.webp?type=color_onBlack"
       },
        {
