@@ -12,16 +12,6 @@
       "referer": "https://player.sensa.com.ar"
     },
   {
-      "name": "13C HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "13c",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-  {
       "name": "24 Horas CL",
       "link": "http://45.232.176.17:8000/play/a01w",
       "web": "no",
@@ -654,7 +644,7 @@
     },
     {
       "name": "Claro Sports HD",
-      "link": "https://SMT-USR-EDGE01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
       "web": "no",
       "img": "clarosports1",
       "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
@@ -713,7 +703,7 @@
       "referer": ""
     },
     {
-      "name": "CNN Chile HD",
+      "name": "CNN Chile",
       "link": "http://45.232.176.17:8000/play/a01v",
       "web": "no",
       "img": "cnncl",
@@ -1615,6 +1605,26 @@
       "referer": ""
     },
     {
+      "name": "LaLiga Hypermotion",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:270_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "LaLigaHypermotion",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "LaLiga+",
+      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:272_HD.smil/manifest.mpd",
+      "web": "no",
+      "img": "LaLigaPlus",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "La Nación Más",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
       "web": "no",
@@ -1895,7 +1905,7 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Nick JR",
+      "name": "Nick Jr.",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd",
       "web": "no",
       "img": "nickjr.",
@@ -2176,7 +2186,7 @@
     },
     {
       "name": "Sony Cine",
-      "link": "https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
+      "link": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
       "web": "no",
       "img": "sonycine",
       "license": "no",
@@ -2196,7 +2206,7 @@
     },
     {
       "name": "Sony Competencias",
-      "link": "https://spt-competencias-1-us.samsung.wurl.tv:443/playlist.m3u8",
+      "link": "https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8",
       "web": "no",
       "img": "sonyone",
       "license": "no",
@@ -2206,7 +2216,7 @@
     },
     {
       "name": "Sony Novelas",
-      "link": "https://spt-novelas-1-us.samsung.wurl.tv:443/playlist.m3u8",
+      "link": "https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8",
       "web": "no",
       "img": "sonyone",
       "license": "no",
@@ -2391,16 +2401,6 @@
       "img": "5de91cf02fc07c0009910465",
       "license": "no",
       "ua": "Mozilla/5.0 (Linux; U; Android 10; Nokia 6.1 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Telefe Internacional HD",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/telefehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "telefe",
-      "license": "no",
-      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2746,7 +2746,7 @@
     },
     {
       "name": "UCL",
-      "link": "https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8",
+      "link": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
       "web": "no",
       "img": "ucl",
       "license": "no",
