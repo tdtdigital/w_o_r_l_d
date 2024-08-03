@@ -493,6 +493,16 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
+      "name": "Caras TV HD",
+      "link": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+      "web": "no",
+      "img": "carastv",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
+      "origin": "https://rudo.video",
+      "referer": "https://rudo.video/"
+    },
+    {
       "name": "Cartoon Network",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
       "web": "no",
@@ -1245,13 +1255,13 @@
     },
     {
       "name": "Evento",
-      "link": "http://177.53.155.236:8000/play/a0co",
+      "link": "https://r7hjwmp6uqvzkt24yx5egf.cdnexpertise.net:8443/hls/jmqa6qqmyye4x3.m3u8?s=qpOb6Lt4rxksvx3c8M-kGg&e=1722746204",
       "web": "no",
       "img": "l1max",
       "license": "no",
       "ua": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
       "origin": "",
-      "referer": ""
+      "referer": "https://forgepattern.net/"
     },
     {
       "name": "EWTN",
