@@ -159,6 +159,13 @@
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
       },
       {
+        "name": "EVENTOS UY",
+        "uri": "https://live-akc-sa-east-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/04/Nacional_vs_Pearol_Final_20240804_1722783612036/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://romanticooo.duckdns.org:8000/chupa_disney/",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
+      },
+      {
         "name": "DIRECTV",
         "uri": "http://177.53.155.236:8000/play/a0co",
         "drm_scheme": "clearkey",
