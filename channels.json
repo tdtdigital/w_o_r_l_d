@@ -2,54 +2,34 @@
   "worldtv2": [
 
   {
-      "name": "SparkTV2 v4.1 GRATIS",
+      "name": "SparkTV 4.1 GRATIS",
       "link": "https://0.0.0.0",
       "web": "non",
       "img": "android",
       "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-  {
-      "name": "24 Horas CL",
-      "link": "http://45.232.176.17:8000/play/a01w",
-      "web": "no",
-      "img": "24h",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-  {
-      "name": "24 Horas HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:12_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "24horases",
-      "license": "no",
-      "ua": "Firefox",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
    {
       "name": "A24",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
       "web": "no",
       "img": "a24",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "A&E",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
       "web": "no",
       "img": "ae",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "ADN40",
@@ -63,43 +43,43 @@
     },
     {
       "name": "Adult Swim",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TRUTV/live_dash_cld/TRUTV.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
       "web": "no",
       "img": "as",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Agro TV PE",
-      "link": "https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8",
+      "name": "Al Jazeera",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd",
       "web": "no",
-      "img": "agrotv",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "aljazeera",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Allegro HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Allegro/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_EXTRA/AllegroHD.mpd",
       "web": "no",
       "img": "allegro",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
     },
     {
       "name": "AMC",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
       "web": "no",
       "img": "amc",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "AMC en Español",
@@ -113,7 +93,7 @@
     },
     {
       "name": "AMC en Español 2",
-      "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "link": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "web": "no",
       "img": "62fa81ccd1a7e90007c1ada0",
       "license": "no",
@@ -122,104 +102,94 @@
       "referer": ""
     },
     {
-      "name": "América HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
+      "name": "América",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
       "web": "no",
       "img": "america",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "América Sports",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd",
-      "web": "no",
-      "img": "americas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "América TV PE",
-      "link": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
-      "web": "no",
-      "img": "americap",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Animal Planet HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
-      "web": "no",
-      "img": "animalplanet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Antena 3 HD",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:7_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "antena3",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ARTV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "América Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
       "web": "no",
-      "img": "artv",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "americas",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Animal Planet",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+      "web": "no",
+      "img": "animalplanet",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Antena 3",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
+      "web": "no",
+      "img": "antena3-int",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Argentinísima Satelital",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+      "web": "no",
+      "img": "argentinisima",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Arirang",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mpd",
+      "web": "no",
+      "img": "arirang",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Atrescine",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
+      "web": "no",
+      "img": "a3cine",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Atreseries",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
       "web": "no",
       "img": "a3series",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ATV PE",
-      "link": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-      "web": "no",
-      "img": "atv",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "ATV Más PE",
-      "link": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
-      "web": "no",
-      "img": "atvp",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "AXN",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
       "web": "no",
       "img": "AXN",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "AZ Cinema",
@@ -293,13 +263,13 @@
     },
     {
       "name": "Baby TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
       "web": "no",
       "img": "baby",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Band",
@@ -322,8 +292,18 @@
       "referer": ""
     },
     {
+      "name": "BBC News",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
+      "web": "no",
+      "img": "bbc-news",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Bein Sports Xtra ñ",
-      "link": "https://beinxtraespanol-distro.amagi.tv/playlist.m3u8",
+      "link": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
       "web": "no",
       "img": "beinexes",
       "license": "no",
@@ -351,46 +331,55 @@
       "origin": "",
       "referer": ""
     },
-
     {
-      "name": "Billboard AR",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
+      "name": "Bloomberg",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
       "web": "no",
-      "img": "billboard",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Bío Bío TV HD CL",
-      "link": "https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-      "web": "no",
-      "img": "biobiotv",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "bloomberg",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Bravo TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
       "web": "no",
       "img": "bravotv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "C5N",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
       "web": "no",
       "img": "c5n",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "Canal 4 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
+      "web": "no",
+      "img": "canal4uy",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal 5 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
+      "web": "no",
+      "img": "canal5uy",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Canal 6 MX",
@@ -404,131 +393,141 @@
     },
     {
       "name": "Canal 10 de Córdoba",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
       "web": "no",
       "img": "canal10",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Canal 13 HD CL",
-      "link": "http://45.232.176.17:8000/play/a004",
+      "name": "Canal 10 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
       "web": "no",
-      "img": "13",
+      "img": "canal10uy",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal 26",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+      "web": "no",
+      "img": "canal26",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal á",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd",
+      "web": "no",
+      "img": "canala",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal C Arg",
+      "link": "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd",
+      "web": "no",
+      "img": "canalc",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal de la Ciudad",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd",
+      "web": "no",
+      "img": "canal-ciudad",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal E",
+      "link": "https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+      "web": "no",
+      "img": "canale",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Canal 26",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
+      "name": "Canal Local Carlos Paz",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd",
       "web": "no",
-      "img": "canal26",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "CanalCOOP",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8",
-      "web": "no",
-      "img": "canalcoop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Canal E",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/CanalE/default/index.mpd",
-      "web": "no",
-      "img": "canale",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Canal Infantil",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
-      "web": "no",
-      "img": "canalinfantil",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Canal Local Morteros",
-      "link": "https://online.coopmorteros.coop/canal50_dash/vivo.mpd",
-      "web": "no",
-      "img": "c50",
-      "license": "",
+      "img": "nextcba",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Canal LUZ",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
       "web": "no",
       "img": "luz",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Canal Rural",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
       "web": "no",
       "img": "rural",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Caras TV HD",
-      "link": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+      "name": "Canal Universidad",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd",
       "web": "no",
-      "img": "carastv",
-      "license": "no",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
-      "origin": "https://rudo.video",
-      "referer": "https://rudo.video/"
+      "img": "tvuni",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Cartoon Network",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
       "web": "no",
       "img": "cartoon",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Cartoonito",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
       "web": "no",
       "img": "cartoonito",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "CBA 24N",
-      "link": "https://stream.arcast.live/canalu/canalu/playlist.m3u8",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_cenc/CBA24.mpd",
       "web": "no",
       "img": "canalu",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -544,11 +543,11 @@
     },
     {
       "name": "Chacra TV",
-      "link": "https://s8.stweb.tv/chacra/live/playlist.m3u8",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Chacra_TV/SA_Live_dash_enc/Chacra_TV.mpd",
       "web": "no",
       "img": "chacratv",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -563,413 +562,282 @@
       "referer": ""
     },
     {
-      "name": "Chilevisión HD",
-      "link": "http://45.232.176.17:8000/play/a00v",
-      "web": "no",
-      "img": "chv",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Cine.AR",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
       "web": "no",
       "img": "cinear",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Cine Familiar",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
-      "web": "no",
-      "img": "cinefamiliar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Cine Hispano",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
-      "web": "no",
-      "img": "cinehispano",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Cine Premium",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
-      "web": "no",
-      "img": "cinepremium",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Cinecanal HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
-      "web": "no",
-      "img": "cinecanal",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Cinemax HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
-      "web": "no",
-      "img": "Cinemax",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Ciudad Magazine",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd",
-      "web": "no",
-      "img": "ciudadm",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-  {
-      "name": "Clan HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:6_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "clan",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Claro Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
-      "web": "no",
-      "img": "clarosports1",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Claro Sports 2 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports2/default/index.mpd",
-      "web": "no",
-      "img": "clarosports2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Claro Sports 3 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports3/default/index.mpd",
-      "web": "no",
-      "img": "clarosports3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Claro Sports 4 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports4/default/index.mpd",
-      "web": "no",
-      "img": "clarosports4",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Clover Channel ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:77_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "cloverchannel",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "CNC TV PE",
-      "link": "https://vdo.grupolimalive.com/p/3237/live/cnctvlive.m3u8",
+      "name": "Cinecanal",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_EXTRA/CinecanalHD.mpd",
       "web": "no",
-      "img": "cnctv",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "cinecanal",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
+    },
+    {
+      "name": "Cinemax",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+      "web": "no",
+      "img": "Cinemax",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "CNN Chile",
-      "link": "http://45.232.176.17:8000/play/a01v",
+      "name": "Ciudad Magazine",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
       "web": "no",
-      "img": "cnncl",
+      "img": "ciudadm",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8",
+      "web": "no",
+      "img": "clarosports1",
       "license": "no",
       "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 2 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8",
+      "web": "no",
+      "img": "clarosports2",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 3 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8",
+      "web": "no",
+      "img": "clarosports3",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Claro Sports 4 HD",
+      "link": "https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8",
+      "web": "no",
+      "img": "clarosports4",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CM",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+      "web": "no",
+      "img": "canal-de-la-musica",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "CNN en Español",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
       "web": "no",
       "img": "cnne",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "CNN Internacional",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd",
       "web": "no",
       "img": "cnn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Comedy Central",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
       "web": "no",
       "img": "comedy",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "COONET",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/SMT4/BRKD/output.mpd",
-      "web": "no",
-      "img": "coonet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "COOP de Porteña",
-      "link": "http://CSC-NOD-EDGE01.sensa.com.ar:80/output/SMT5/PORD/output.mpd",
-      "web": "no",
-      "img": "cooplustv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "COOP de Tacural",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR2/TacuralD/output.mpd",
-      "web": "no",
-      "img": "c3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Crónica TV HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
+      "name": "Crónica TV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
       "web": "no",
       "img": "cronica",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "CTC TV PE",
-      "link": "http://live-evg20.tv360.bitel.com.pe/s-ctc-link/index.m3u8",
-      "web": "no",
-      "img": "ctc",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "CTV TV PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8",
-      "web": "no",
-      "img": "ctvtv",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "De Película",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
-      "web": "no",
-      "img": "depelicula",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "DeporTV HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd",
+      "name": "DeporTV",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
       "web": "no",
       "img": "deportv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "DHE",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
       "web": "no",
       "img": "dhe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery Channel HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
-      "web": "no",
-      "img": "discovery",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery Chile",
-      "link": "http://45.232.176.17:8000/play/a02m",
-      "web": "no",
-      "img": "discovery",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
-
+    {
+      "name": "Diputados TV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd",
+      "web": "no",
+      "img": "diputados",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
+      "web": "no",
+      "img": "discovery",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
     {
       "name": "Discovery H&H",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
       "web": "no",
       "img": "hh",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Discovery Kids",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
       "web": "no",
       "img": "dkids",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery Science",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
-      "web": "no",
-      "img": "science",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery TLC",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
-      "web": "no",
-      "img": "tlc",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery Theater",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
-      "web": "no",
-      "img": "theater",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery Turbo",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
-      "web": "no",
-      "img": "turbo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Discovery World",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
-      "web": "no",
-      "img": "world",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Disney Channel",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
-      "web": "no",
-      "img": "disney",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Disney Junior",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd",
-      "web": "no",
-      "img": "junior",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "DMAX",
-      "link": "http://ott.zapitv.com/live/eds_c2/dmax/hls_ts_live_fta/dmax.m3u8",
-      "web": "no",
-      "img": "dmax",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Docu HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Discovery Science",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
       "web": "no",
-      "img": "docu",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "science",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery TLC",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
+      "web": "no",
+      "img": "tlc",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Theater",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
+      "web": "no",
+      "img": "theater",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Turbo",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
+      "web": "no",
+      "img": "turbo",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery World",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+      "web": "no",
+      "img": "world",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Disney Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+      "web": "no",
+      "img": "disney",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Disney Junior",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+      "web": "no",
+      "img": "junior",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "DNews",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_cenc/DNews.mpd",
+      "web": "no",
+      "img": "dnews",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Dreamworks",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
+      "web": "no",
+      "img": "dreamworks",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -995,33 +863,33 @@
     },
     {
       "name": "DW",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
       "web": "no",
       "img": "dw",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "E!",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
       "web": "no",
       "img": "e",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "El Doce Córdoba",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
       "web": "no",
       "img": "eldoce",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "El Doce Córdoba 2",
@@ -1029,39 +897,49 @@
       "web": "no",
       "img": "eldoce",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "El Gourmet",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
       "web": "no",
       "img": "gourmet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "El Nueve HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
+      "name": "El Nueve",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
       "web": "no",
       "img": "canal9",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "El Trece HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
+      "name": "El Trece",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
       "web": "no",
       "img": "eltrece",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "El Trece Internacional",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+      "web": "no",
+      "img": "eltrece",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Electric Now",
@@ -1075,13 +953,13 @@
     },
     {
       "name": "Encuentro TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
       "web": "no",
       "img": "encuentro",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Enlace",
@@ -1095,203 +973,243 @@
     },
     {
       "name": "ESPN",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
       "web": "no",
       "img": "espn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "ESPN HD CL",
-      "link": "http://45.232.176.17:8000/play/a01a",
+      "name": "ESPN UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
       "web": "no",
       "img": "espn",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "ESPN 2",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
       "web": "no",
       "img": "espn2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "ESPN 2 CL",
-      "link": "http://45.232.176.17:8000/play/a02i",
+      "name": "ESPN 2 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
       "web": "no",
       "img": "espn2",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "ESPN 3",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
       "web": "no",
       "img": "espn3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "ESPN 3 HD CL",
-      "link": "http://45.232.176.17:8000/play/a01y",
+      "name": "ESPN 3 UY-PY",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
       "web": "no",
       "img": "espn3",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "ESPN 4",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
       "web": "no",
       "img": "espn4",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "ESPN 5",
-      "link": "http://45.232.176.17:8000/play/a028",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
       "web": "no",
       "img": "espn5",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ESPN 6 HD",
-      "link": "http://45.232.176.17:8000/play/a00a",
+      "name": "ESPN 6",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
       "web": "no",
       "img": "espn6",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ESPN 7 HD",
-      "link": "http://45.232.176.17:8000/play/a009",
+      "name": "ESPN 7",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
       "web": "no",
       "img": "espn7",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "ESPN Premium HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_EXTRA/Fox_Sports_Premiun_HD.mpd",
       "web": "no",
       "img": "esp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
     },
     {
-      "name": "ESPN Premium HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
+      "name": "ESPN Premium",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
       "web": "no",
       "img": "esp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "ETC TV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "etc",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Eurochannel",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd",
       "web": "no",
       "img": "eurocha",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Euronews",
-      "link": "https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
       "web": "no",
       "img": "euronews",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Europa Europa",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
       "web": "no",
       "img": "europaeu",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Evento",
-      "link": "https://r7hjwmp6uqvzkt24yx5egf.cdnexpertise.net:8443/hls/jmqa6qqmyye4x3.m3u8?s=qpOb6Lt4rxksvx3c8M-kGg&e=1722746204",
+      "name": "Eventos 1 AR",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
       "web": "no",
-      "img": "l1max",
-      "license": "no",
-      "ua": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://forgepattern.net/"
+      "referer": ""
+    },
+    {
+      "name": "Eventos 2 AR",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+      "web": "no",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eventos 3 AR",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
+      "web": "no",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eventos 1 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd",
+      "web": "no",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eventos 2 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc/Eventos_2_UY.mpd",
+      "web": "no",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eventos 3 UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc/Eventos3_UY.mpd",
+      "web": "no",
+      "img": "eventos-1",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "EWTN",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
       "web": "no",
       "img": "ewtn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Exitosa TV PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8",
-      "web": "no",
-      "img": "exitosa",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
    {
       "name": "Film & Arts",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
       "web": "no",
       "img": "filmarts",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+   {
+      "name": "Flow Music",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+      "web": "no",
+      "img": "flow-music",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
   {
       "name": "Foro TV",
@@ -1304,84 +1222,94 @@
       "referer": ""
     },
     {
+      "name": "France 24",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd",
+      "web": "no",
+      "img": "france24",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "France 24 Español",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/France24/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
       "web": "no",
       "img": "france24_es",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Food Network",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
       "web": "no",
       "img": "food",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Fox Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+      "name": "Fox News",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd",
+      "web": "no",
+      "img": "fox-news",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
       "web": "no",
       "img": "fsar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Fox Sports 2 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
+      "name": "Fox Sports 2",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
       "web": "no",
       "img": "fs2ar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Fox Sports 3 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
+      "name": "Fox Sports 3",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
       "web": "no",
       "img": "fs3ar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Funbox PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8",
-      "web": "no",
-      "img": "funbox",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "FX",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
       "web": "no",
       "img": "fx",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Garage TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd",
       "web": "no",
       "img": "garage",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
       "name": "Globo",
@@ -1395,23 +1323,23 @@
     },
     {
       "name": "Golden",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
       "web": "no",
       "img": "golden",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
-    {
+  {
       "name": "Golden Edge",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
+      "link": "http://45.232.176.17:8000/play/a00c",
       "web": "no",
       "img": "goldene",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
 	{
       "name": "Golden Plus HD",
@@ -1423,19 +1351,18 @@
       "origin": "",
       "referer": ""
     },
-
     {
-      "name": "Golf Channel HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd",
+      "name": "Golf Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
       "web": "no",
       "img": "golf",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "GolTV HD",
+      "name": "GolTV",
       "link": "http://45.232.176.17:8000/play/a00m",
       "web": "no",
       "img": "goltv",
@@ -1446,167 +1373,177 @@
     },
     {
       "name": "HBO HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
       "web": "no",
       "img": "hbo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO 2 HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
-      "web": "no",
-      "img": "hbo2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Family",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
-      "web": "no",
-      "img": "hbof",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Mundi HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAX/live_dash_cld/MAX.mpd",
-      "web": "no",
-      "img": "hbomundi",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Plus HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
-      "web": "no",
-      "img": "hbop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Pop HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAXUP/live_dash_cld/MAXUP.mpd",
-      "web": "no",
-      "img": "hbopop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Signature",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
-      "web": "no",
-      "img": "hbos",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HBO Xtreme",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd",
-      "web": "no",
-      "img": "hbox",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "HGTV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd",
-      "web": "no",
-      "img": "hgtv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "History HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd",
-      "web": "no",
-      "img": "history",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "History 2",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd",
-      "web": "no",
-      "img": "h2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Hola Play",
-      "link": "https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8",
-      "web": "no",
-      "img": "holaplay",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Hola TV HD",
-      "link": "http://45.232.176.17:8000/play/a020",
+      "name": "HBO 2",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+      "web": "no",
+      "img": "hbo2",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Family",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+      "web": "no",
+      "img": "hbof",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Mundi",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+      "web": "no",
+      "img": "hbomundi",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Plus",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+      "web": "no",
+      "img": "hbop",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Pop",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+      "web": "no",
+      "img": "hbopop",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Signature",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+      "web": "no",
+      "img": "hbos",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Xtreme",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+      "web": "no",
+      "img": "hbox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HGTV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
+      "web": "no",
+      "img": "hgtv",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "History",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+      "web": "no",
+      "img": "history",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "History 2",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
+      "web": "no",
+      "img": "h2",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Hola TV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
       "web": "no",
       "img": "hola",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HTV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
+      "web": "no",
+      "img": "htv",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Investigation Discovery",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
+      "web": "no",
+      "img": "id",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "IP Noticias",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
+      "web": "no",
+      "img": "ip",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "KZO Entertainment",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
+      "web": "no",
+      "img": "kzo",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "La 1 HD",
+      "link": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+      "web": "no",
+      "img": "la1",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "HTV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd",
-      "web": "no",
-      "img": "htv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Investigation Discovery",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd",
-      "web": "no",
-      "img": "id",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "La 1 HD",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "la1",
-      "license": "no",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "La 2 HD",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:2_HD.smil/manifest.mpd",
+      "link": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
       "web": "no",
       "img": "la2",
       "license": "no",
@@ -1615,44 +1552,24 @@
       "referer": ""
     },
     {
-      "name": "LaLiga Hypermotion",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:270_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "LaLigaHypermotion",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "LaLiga+",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:272_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "LaLigaPlus",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "La Nación Más",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
       "web": "no",
       "img": "lanacion",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Las Estrellas",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
       "web": "no",
       "img": "estrellas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Las Estrellas MX",
@@ -1665,44 +1582,24 @@
       "referer": ""
     },
     {
-      "name": "La Red CL",
-      "link": "https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
-      "web": "no",
-      "img": "laredcl",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Latina PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8",
-      "web": "no",
-      "img": "latina",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Lifetime",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
       "web": "no",
       "img": "lifetime",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Love Nature",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+      "name": "Love Nature HD",
+      "link": "http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "web": "no",
       "img": "lovenature",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "no",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Love Nature HD US",
@@ -1716,93 +1613,23 @@
     },
     {
       "name": "Más Chic",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd",
       "web": "no",
       "img": "maschic",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Mega 2 HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "megacl2",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Mega HD CL",
-      "link": "http://45.232.176.17:8000/play/a00u",
+      "name": "Metro",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
       "web": "no",
-      "img": "megacl",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "metro",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
-    },
-    {
-      "name": "Mega HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "megaes",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Mega Ficción HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "megaficcion",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "MiMusica Romantica",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
-      "web": "no",
-      "img": "mimusicaromantica",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "MiMusica Reggaeton",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
-      "web": "no",
-      "img": "mimusicareggaeton",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "MiMusica Hits",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
-      "web": "no",
-      "img": "mimusicahits",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "MiMusica KPOP",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
-      "web": "no",
-      "img": "mimusicakpop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Milenio Televisión",
@@ -1815,64 +1642,64 @@
       "referer": ""
     },
     {
-      "name": "Mórbido TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Morbido/default/index.mpd",
-      "web": "no",
-      "img": "morbido-tv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
       "name": "MTV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
       "web": "no",
       "img": "mtv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "MTV Live",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
+      "name": "MTV Hits",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
       "web": "no",
-      "img": "mtvl",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "mtvh",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Multipremier",
-      "link": "http://45.232.176.17:8000/play/a014",
+      "name": "MTV 00s",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
       "web": "no",
-      "img": "multipremier",
+      "img": "mtv00",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Multivisión",
+      "link": "http://panel.dattalive.com:1935/8250/8250/.m3u8",
+      "web": "no",
+      "img": "9multivision",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Multivisión",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Multivision/default/index.mpd",
+      "name": "NBA TV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
       "web": "no",
-      "img": "9multivision",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "nba",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Nat Geo HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd",
+      "name": "Nat Geo",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
       "web": "no",
       "img": "natgeo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Naturaleza",
@@ -1896,33 +1723,53 @@
     },
     {
       "name": "Net TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
       "web": "no",
       "img": "net",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "New Brasil",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+      "web": "no",
+      "img": "band-int",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Nickelodeon",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
       "web": "no",
       "img": "nickelodeon",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Nick Jr.",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
       "web": "no",
       "img": "nickjr.",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "Nickmusic",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd",
+      "web": "no",
+      "img": "nickmusic",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Nickelodeon Clásico",
@@ -1966,13 +1813,13 @@
     },
     {
       "name": "Novelísima",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Novelis/default/index.mpd",
+      "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
       "web": "no",
       "img": "novelisima",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "no",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Noticias Ahora",
@@ -1995,94 +1842,84 @@
       "referer": ""
     },
     {
-      "name": "NTV CL",
-      "link": "http://45.232.176.17:8000/play/a01s",
+      "name": "Orbe 21",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
       "web": "no",
-      "img": "ntv",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "orbe21",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Paka Paka",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
       "web": "no",
       "img": "paka",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Panamericana PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8",
-      "web": "no",
-      "img": "panamericana",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "Paramount",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
       "web": "no",
       "img": "paramount",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Pasiones HD",
-      "link": "http://45.232.176.17:8000/play/a02x",
+      "name": "Pasiones",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
       "web": "no",
       "img": "pasiones",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Plim Plim TV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+      "web": "no",
+      "img": "plimplim",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "PX Sports",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
       "web": "no",
       "img": "px_sports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Quiero TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
       "web": "no",
       "img": "quierotv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Radio María TV",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd",
-      "web": "no",
-      "img": "radiomaria",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Rai Italia",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/RAI/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
       "web": "no",
       "img": "rai",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
       "name": "RCN Más",
@@ -2105,22 +1942,12 @@
       "referer": ""
     },
     {
-      "name": "Rec TV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Record",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_enc_2A/Rede_Record.mpd",
       "web": "no",
-      "img": "rectv",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Ribereña PE",
-      "link": "https://live-evg9.tv360.bitel.com.pe/atmtv/index.m3u8",
-      "web": "no",
-      "img": "riberena",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "recordtv",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2145,12 +1972,12 @@
       "referer": ""
     },
     {
-      "name": "SENPAI TV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Santa María",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
       "web": "no",
-      "img": "senpai",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "santa-maria",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2175,6 +2002,16 @@
       "referer": ""
     },
     {
+      "name": "Show Sports Cordoba",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+      "web": "no",
+      "img": "shows",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Smithsonian Channel",
       "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "web": "no",
@@ -2185,18 +2022,108 @@
       "referer": ""
     },
    {
+      "name": "Somos",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
+      "web": "no",
+      "img": "somosarg",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos El Valle",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd",
+      "web": "no",
+      "img": "somoselv",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos La Plata",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
+      "web": "no",
+      "img": "somoslap",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos Mar del Plata",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
+      "web": "no",
+      "img": "somosmar",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos Rafaela",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd",
+      "web": "no",
+      "img": "somosraf",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos Rosario",
+      "link": "https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd",
+      "web": "no",
+      "img": "somosros",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos Salta-Jujuy",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd",
+      "web": "no",
+      "img": "somossal",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Somos Santa Fe",
+      "link": "https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd",
+      "web": "no",
+      "img": "somossan",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+   {
       "name": "Sony",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
       "web": "no",
       "img": "sonychannel",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "Sony Movies",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
+      "web": "no",
+      "img": "sonymovies",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Sony Cine",
-      "link": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
+      "link": "https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
       "web": "no",
       "img": "sonycine",
       "license": "no",
@@ -2216,7 +2143,7 @@
     },
     {
       "name": "Sony Competencias",
-      "link": "https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8",
+      "link": "https://spt-competencias-1-us.samsung.wurl.tv:443/playlist.m3u8",
       "web": "no",
       "img": "sonyone",
       "license": "no",
@@ -2226,7 +2153,7 @@
     },
     {
       "name": "Sony Novelas",
-      "link": "https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8",
+      "link": "https://spt-novelas-1-us.samsung.wurl.tv:443/playlist.m3u8",
       "web": "no",
       "img": "sonyone",
       "license": "no",
@@ -2246,23 +2173,23 @@
     },
     {
       "name": "Space",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
       "web": "no",
       "img": "space",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Star Channel HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd",
+      "name": "Star Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
       "web": "no",
       "img": "star",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Star TVE",
@@ -2276,81 +2203,31 @@
     },
     {
       "name": "Studio Universal",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
       "web": "no",
       "img": "studio",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Sun Channel",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
       "web": "no",
       "img": "sun",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Surf Channel HD",
-      "link": "https://c6dfe1590bb2448fb01256858718aa6b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/OrangeTV-es_SurfChannel/playlist.m3u8",
-      "web": "no",
-      "img": "Surf-Channel",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
-    },
-    {
-      "name": "Syfy HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "syfy",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "T5 Satelital",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR3/T5SH/playlist.m3u8",
-      "web": "no",
-      "img": "t5sat",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "TCM",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
       "web": "no",
       "img": "tcm",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },    
-    {
-      "name": "TCM HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:70_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "tcmes",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },  
-    {
-      "name": "TDP HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:4_HD.smil/manifest.mpd",
-      "web": "no",
-      "img": "tdp",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },  
@@ -2365,44 +2242,44 @@
       "referer": ""
     },
     {
-      "name": "Telecanal HD CL",
-      "link": "https://eu1.servers10.com:8081/8194/index.m3u8",
+      "name": "Telediario Televisión",
+      "link": "http://190.123.83.134:8080/hls/tdtv/index.m3u8",
       "web": "no",
-      "img": "telecanal",
+      "img": "td",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g32 Build/T2SNS33.73-22-3-3)",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Telediario Televisión",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+      "name": "Teledoce UY",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
       "web": "no",
-      "img": "td",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "teledoce",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Telefe HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+      "name": "Telefe",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Telefe Córdoba",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NzE5NDRjNDZhZDlkMzdhZWE3OWE5OTQwZjBkYmI0Yjk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Telefe Hits",
@@ -2415,24 +2292,24 @@
       "referer": ""
     },
     {
-      "name": "Telefe Santa Fe",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/COR/TSFD/output.mpd",
+      "name": "Telefe Internacional",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Telehit Música Plus",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd",
+      "name": "Telemax",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd",
       "web": "no",
-      "img": "telehit-plus",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "telemax",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Telemundo",
@@ -2466,13 +2343,13 @@
     },
     {
       "name": "Telemundo Internacional",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
       "web": "no",
       "img": "telemundo-int",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "Telemundo Romance",
@@ -2495,82 +2372,82 @@
       "referer": ""
     },
     {
-      "name": "TLnovelas",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd",
+      "name": "Telesur",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd",
       "web": "no",
-      "img": "tlnovelas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "telesur",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "TN Todo Noticias HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
+      "name": "TLnovelas",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
+      "web": "no",
+      "img": "tlnovelas",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TN Todo Noticias",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
       "web": "no",
       "img": "tn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "TNT",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
       "web": "no",
       "img": "tnt",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "TNT Novelas",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TBS/live_dash_cld/TBS.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
       "web": "no",
       "img": "tntnovelas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "TNT Series",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
       "web": "no",
       "img": "tnts",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
       "name": "TNT Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_EXTRA/TNT_Sports_HD.mpd",
       "web": "no",
       "img": "tntsports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
     },
     {
-      "name": "TNT Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
+      "name": "TNT Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
       "web": "no",
       "img": "tntsports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "TNT Sports Premium HD",
-      "link": "http://45.232.176.17:8000/play/a01z",
-      "web": "no",
-      "img": "tntsportspr",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2596,121 +2473,91 @@
     },
     {
       "name": "Tooncast",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
       "web": "no",
       "img": "tooncast",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "Top Latino TV",
-      "link": "https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8",
+      "name": "TV5 Monde",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd",
       "web": "no",
-      "img": "toplatino",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "tv5monde",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "TV Chile",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TVChile/default/index.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd",
       "web": "no",
       "img": "tvchile",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "TV Ciudad UY",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
+      "web": "no",
+      "img": "tvciudad",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "TV España",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd",
       "web": "no",
       "img": "tves",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
     {
-      "name": "TV Galicia HD ES",
-      "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
+      "name": "TV Galicia",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd",
       "web": "no",
       "img": "tv-galicia",
-      "license": "no",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "TV Más HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "tvmas",
-      "license": "no",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "TVN HD CL",
-      "link": "http://45.232.176.17:8000/play/a00t",
-      "web": "no",
-      "img": "tvn",
-      "license": "no",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "TV Perú",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8",
-      "web": "no",
-      "img": "tvperu",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "TVP HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+      "name": "TVP",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_EXTRA/Canal7.mpd",
       "web": "no",
       "img": "tvp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
     },
     {
-      "name": "TyC Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
+      "name": "TyC Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_EXTRA/TyCSport.mpd",
       "web": "no",
       "img": "tycs",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
     },
     {
-      "name": "TyC Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+      "name": "TyC Sports Internacional",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
       "web": "no",
       "img": "tycs",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "TyC Sports Internacional HD",
-      "link": "http://45.232.176.17:8000/play/a008",
-      "web": "no",
-      "img": "tycs",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2725,60 +2572,110 @@
       "referer": ""
     },
     {
-      "name": "TyC Sports 2",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd",
+      "name": "TyC Sports (Play 1)",
+      "link": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
       "web": "no",
-      "img": "tycsports2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "TyC Sports 3",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/SensaEventos1/default/index.mpd",
-      "web": "no",
-      "img": "tycsports3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Ucayali TV PE",
-      "link": "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/f9699826eb94721a3fedae7c5fbe0609/index.m3u8",
-      "web": "no",
-      "img": "ucayali",
+      "img": "tycplay",
       "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 2)",
+      "link": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 3)",
+      "link": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 4)",
+      "link": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 5)",
+      "link": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 6)",
+      "link": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 7)",
+      "link": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 8)",
+      "link": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 9)",
+      "link": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports (Play 10)",
+      "link": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
+      "web": "no",
+      "img": "tycplay",
+      "license": "no",
+      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
     {
       "name": "UCL",
-      "link": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+      "link": "https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8",
       "web": "no",
       "img": "ucl",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "UCV TV",
-      "link": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
-      "web": "no",
-      "img": "ucv",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "UCV 2",
-      "link": "https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8",
-      "web": "no",
-      "img": "ucv2",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
@@ -2796,111 +2693,71 @@
     },
     {
       "name": "Universal Channel",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
       "web": "no",
       "img": "universal",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
       "name": "Universal Cinema",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
       "web": "no",
       "img": "unicinema",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OTJmZmM4YzUxZDVkMzgwMmI3Mjc3YThlZmQ0MGFmZDk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
    {
       "name": "Universal Comedy",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
       "web": "no",
       "img": "unicomedy",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OTJmZmM4YzUxZDVkMzgwMmI3Mjc3YThlZmQ0MGFmZDk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
       "name": "Universal Crime",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
       "web": "no",
       "img": "unicrime",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OTJmZmM4YzUxZDVkMzgwMmI3Mjc3YThlZmQ0MGFmZDk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
-      "name": "Universal Premiere HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd",
+      "name": "Universal Premiere",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
       "web": "no",
       "img": "unipremiere",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OTJmZmM4YzUxZDVkMzgwMmI3Mjc3YThlZmQ0MGFmZDk=",
+      "ua": "Ktor client",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
     },
   {
       "name": "Universal Reality",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
       "web": "no",
       "img": "unireality",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-{
-      "name": "Univision HD",
-      "link": "http://45.232.176.17:8000/play/a02y",
-      "web": "no",
-      "img": "univision",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=OTJmZmM4YzUxZDVkMzgwMmI3Mjc3YThlZmQ0MGFmZDk=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
       "name": "USA",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Syfy/live_dash_cld/Syfy.mpd",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd",
       "web": "no",
       "img": "usanet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Ve Plus",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
-      "web": "no",
-      "img": "veplus",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Vía X HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "viax",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Vive HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "vivecl",
-      "license": "no",
-      "ua": "Firefox",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -2915,54 +2772,64 @@
       "referer": ""
     },
     {
-      "name": "Volver HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd",
+      "name": "Volver",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
       "web": "no",
       "img": "volver",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Warner HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd",
-      "web": "no",
-      "img": "warner",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "Willax PE",
-      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8",
-      "web": "no",
-      "img": "willax",
-      "license": "no",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "Zona Latina HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "name": "Vorterix",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
       "web": "no",
-      "img": "zonalatina",
-      "license": "no",
+      "img": "vorterix",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "VTV",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd",
+      "web": "no",
+      "img": "vtv",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
       "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
     {
-      "name": "ZooMoo",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd",
+      "name": "VTV Plus",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
       "web": "no",
-      "img": "zoomoo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=YjIxNjg0MDAtYjcwMS0zMzNlLTljOTgtODNkOGI4NTU5NGNl",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "img": "vtvplus",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=YmQyNDJmNTNmNTMxMzFkNTljZjAzODEwZWNhMjExMDc=",
+      "ua": "Firefox",
       "origin": "",
-      "referer": "https://player.sensa.com.ar"
+      "referer": ""
+    },
+    {
+      "name": "Warner",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
+      "web": "no",
+      "img": "warner",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Wobi",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd",
+      "web": "no",
+      "img": "wobi",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
+      "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
     }
   ]
 }
