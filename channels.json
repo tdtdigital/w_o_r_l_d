@@ -1142,22 +1142,22 @@
       "referer": ""
     },
     {
-      "name": "Evento",
-      "link": "https://live-akc-sa-east-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/04/Nacional_vs_Pearol_Final_20240804_1722783612036/ctr-all-complete.m3u8",
-      "web": "no",
-      "img": "l1max",
-      "license": "http://romanticooo.duckdns.org:8000/chupa_disney/",
-      "ua": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Eventos 3 AR",
       "link": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
       "web": "no",
       "img": "eventos-1",
       "license": "https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=",
       "ua": "Ktor client",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Evento",
+      "link": "https://live-akc-sa-east-2.media.dssott.com/gru1/va01/disneyplus/event/2024/08/04/Nacional_vs_Pearol_Final_20240804_1722783612036/ctr-all-complete.m3u8",
+      "web": "no",
+      "img": "l1max",
+      "license": "http://romanticooo.duckdns.org:8000/chupa_disney/",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
       "origin": "",
       "referer": ""
     },
