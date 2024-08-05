@@ -2552,6 +2552,16 @@
       "referer": "https://cdn.cvattv.com.ar"
     },
     {
+      "name": "TVP Internacional",
+      "link": "https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc_EXTRA/TV_Publica_Internacional.mpd",
+      "web": "no",
+      "img": "tvp",
+      "license": "https://wv-client.cvattv.com.ar?deviceId=NTUyM2YwNmQ1NzNkMzA1NmI5YjM4ZmYwNTcyNTcyMjc=",
+      "ua": "Ktor client",
+      "origin": "https://cdn.cvattv.com.ar",
+      "referer": "https://cdn.cvattv.com.ar"
+    },
+    {
       "name": "TyC Sports",
       "link": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_EXTRA/TyCSport.mpd",
       "web": "no",
