@@ -2,7 +2,7 @@
   "worIdtv2": [
 
   {
-      "name": "SparkTV2 v3.1 GRATIS",
+      "name": "SparkTV v3.1 GRATIS",
       "link": "https://0.0.0.0",
       "web": "non",
       "img": "android",
@@ -36,7 +36,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
       "web": "no",
       "img": "a24",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -46,7 +46,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd",
       "web": "no",
       "img": "ae",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -66,7 +66,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TRUTV/live_dash_cld/TRUTV.mpd",
       "web": "no",
       "img": "as",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -86,7 +86,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Allegro/default/index.mpd",
       "web": "no",
       "img": "allegro",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -96,7 +96,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd",
       "web": "no",
       "img": "amc",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -126,7 +126,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
       "web": "no",
       "img": "america",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -136,7 +136,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd",
       "web": "no",
       "img": "americas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -156,7 +156,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
       "web": "no",
       "img": "animalplanet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -216,7 +216,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd",
       "web": "no",
       "img": "AXN",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -296,7 +296,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd",
       "web": "no",
       "img": "baby",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -377,7 +377,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd",
       "web": "no",
       "img": "bravotv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -387,7 +387,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
       "web": "no",
       "img": "c5n",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -407,7 +407,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd",
       "web": "no",
       "img": "canal10",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -427,7 +427,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
       "web": "no",
       "img": "canal26",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -437,7 +437,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8",
       "web": "no",
       "img": "canalcoop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -447,7 +447,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/CanalE/default/index.mpd",
       "web": "no",
       "img": "canale",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -457,7 +457,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
       "web": "no",
       "img": "canalinfantil",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -477,7 +477,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd",
       "web": "no",
       "img": "luz",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -487,7 +487,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd",
       "web": "no",
       "img": "rural",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -507,7 +507,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd",
       "web": "no",
       "img": "cartoon",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -517,7 +517,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd",
       "web": "no",
       "img": "cartoonito",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -577,7 +577,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd",
       "web": "no",
       "img": "cinear",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -587,7 +587,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
       "web": "no",
       "img": "cinefamiliar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -597,7 +597,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
       "web": "no",
       "img": "cinehispano",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -607,7 +607,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
       "web": "no",
       "img": "cinepremium",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -617,7 +617,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
       "web": "no",
       "img": "cinecanal",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -627,7 +627,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
       "web": "no",
       "img": "Cinemax",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -637,7 +637,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd",
       "web": "no",
       "img": "ciudadm",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -657,7 +657,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
       "web": "no",
       "img": "clarosports1",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -667,7 +667,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports2/default/index.mpd",
       "web": "no",
       "img": "clarosports2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -677,7 +677,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports3/default/index.mpd",
       "web": "no",
       "img": "clarosports3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -687,7 +687,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/claroSports4/default/index.mpd",
       "web": "no",
       "img": "clarosports4",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -727,7 +727,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
       "web": "no",
       "img": "cnne",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -737,7 +737,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
       "web": "no",
       "img": "cnn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -747,7 +747,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
       "web": "no",
       "img": "comedy",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -757,7 +757,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/SMT4/BRKD/output.mpd",
       "web": "no",
       "img": "coonet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -767,7 +767,7 @@
       "link": "http://CSC-NOD-EDGE01.sensa.com.ar:80/output/SMT5/PORD/output.mpd",
       "web": "no",
       "img": "cooplustv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -777,7 +777,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR2/TacuralD/output.mpd",
       "web": "no",
       "img": "c3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -787,7 +787,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
       "web": "no",
       "img": "cronica",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -817,7 +817,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
       "web": "no",
       "img": "depelicula",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -827,7 +827,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd",
       "web": "no",
       "img": "deportv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -837,7 +837,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd",
       "web": "no",
       "img": "dhe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -847,7 +847,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
       "web": "no",
       "img": "discovery",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -868,7 +868,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd",
       "web": "no",
       "img": "hh",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -878,7 +878,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd",
       "web": "no",
       "img": "dkids",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -888,7 +888,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
       "web": "no",
       "img": "science",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -898,7 +898,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
       "web": "no",
       "img": "tlc",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -908,7 +908,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd",
       "web": "no",
       "img": "theater",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -918,7 +918,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd",
       "web": "no",
       "img": "turbo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -928,7 +928,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd",
       "web": "no",
       "img": "world",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -938,7 +938,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
       "web": "no",
       "img": "disney",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -948,7 +948,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd",
       "web": "no",
       "img": "junior",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -998,7 +998,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd",
       "web": "no",
       "img": "dw",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1008,7 +1008,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd",
       "web": "no",
       "img": "e",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1018,7 +1018,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd",
       "web": "no",
       "img": "eldoce",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1038,7 +1038,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd",
       "web": "no",
       "img": "gourmet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1048,7 +1048,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd",
       "web": "no",
       "img": "canal9",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1058,7 +1058,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd",
       "web": "no",
       "img": "eltrece",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1078,7 +1078,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd",
       "web": "no",
       "img": "encuentro",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1098,7 +1098,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
       "web": "no",
       "img": "espn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1118,7 +1118,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
       "web": "no",
       "img": "espn2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1138,7 +1138,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
       "web": "no",
       "img": "espn3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1158,7 +1158,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
       "web": "no",
       "img": "espn4",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1198,7 +1198,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
       "web": "no",
       "img": "esp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1208,7 +1208,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
       "web": "no",
       "img": "esp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1228,7 +1228,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd",
       "web": "no",
       "img": "eurocha",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1248,7 +1248,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd",
       "web": "no",
       "img": "europaeu",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1268,7 +1268,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd",
       "web": "no",
       "img": "ewtn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1288,7 +1288,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd",
       "web": "no",
       "img": "filmarts",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1308,7 +1308,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/France24/default/index.mpd",
       "web": "no",
       "img": "france24_es",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1318,7 +1318,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
       "web": "no",
       "img": "food",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1328,7 +1328,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
       "web": "no",
       "img": "fsar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1338,7 +1338,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
       "web": "no",
       "img": "fs2ar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1348,7 +1348,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
       "web": "no",
       "img": "fs3ar",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1368,7 +1368,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd",
       "web": "no",
       "img": "fx",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1378,7 +1378,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd",
       "web": "no",
       "img": "garage",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1398,7 +1398,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd",
       "web": "no",
       "img": "golden",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1408,7 +1408,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
       "web": "no",
       "img": "goldene",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1429,7 +1429,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd",
       "web": "no",
       "img": "golf",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1449,7 +1449,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
       "web": "no",
       "img": "hbo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1459,7 +1459,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
       "web": "no",
       "img": "hbo2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1469,7 +1469,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
       "web": "no",
       "img": "hbof",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1479,7 +1479,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAX/live_dash_cld/MAX.mpd",
       "web": "no",
       "img": "hbomundi",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1489,7 +1489,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
       "web": "no",
       "img": "hbop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1499,7 +1499,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAXUP/live_dash_cld/MAXUP.mpd",
       "web": "no",
       "img": "hbopop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1509,7 +1509,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
       "web": "no",
       "img": "hbos",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1519,7 +1519,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd",
       "web": "no",
       "img": "hbox",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1529,7 +1529,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd",
       "web": "no",
       "img": "hgtv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1539,7 +1539,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd",
       "web": "no",
       "img": "history",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1549,7 +1549,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd",
       "web": "no",
       "img": "h2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1579,7 +1579,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd",
       "web": "no",
       "img": "htv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1589,7 +1589,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd",
       "web": "no",
       "img": "id",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1639,7 +1639,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd",
       "web": "no",
       "img": "lanacion",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1649,7 +1649,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd",
       "web": "no",
       "img": "estrellas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1689,7 +1689,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd",
       "web": "no",
       "img": "lifetime",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1699,7 +1699,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
       "web": "no",
       "img": "lovenature",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1719,7 +1719,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd",
       "web": "no",
       "img": "maschic",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1769,7 +1769,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
       "web": "no",
       "img": "mimusicaromantica",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1779,7 +1779,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
       "web": "no",
       "img": "mimusicareggaeton",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1789,7 +1789,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
       "web": "no",
       "img": "mimusicahits",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1799,7 +1799,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
       "web": "no",
       "img": "mimusicakpop",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1819,7 +1819,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Morbido/default/index.mpd",
       "web": "no",
       "img": "morbido-tv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1829,7 +1829,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd",
       "web": "no",
       "img": "mtv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1839,7 +1839,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
       "web": "no",
       "img": "mtvl",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1859,7 +1859,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Multivision/default/index.mpd",
       "web": "no",
       "img": "9multivision",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1869,7 +1869,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd",
       "web": "no",
       "img": "natgeo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1899,7 +1899,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd",
       "web": "no",
       "img": "net",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1909,7 +1909,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
       "web": "no",
       "img": "nickelodeon",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1919,7 +1919,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd",
       "web": "no",
       "img": "nickjr.",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -1969,7 +1969,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Novelis/default/index.mpd",
       "web": "no",
       "img": "novelisima",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2009,7 +2009,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd",
       "web": "no",
       "img": "paka",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2029,7 +2029,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
       "web": "no",
       "img": "paramount",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2049,7 +2049,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
       "web": "no",
       "img": "px_sports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2059,7 +2059,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd",
       "web": "no",
       "img": "quierotv",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2069,7 +2069,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd",
       "web": "no",
       "img": "radiomaria",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2079,7 +2079,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/RAI/default/index.mpd",
       "web": "no",
       "img": "rai",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2189,7 +2189,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd",
       "web": "no",
       "img": "sonychannel",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2249,7 +2249,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd",
       "web": "no",
       "img": "space",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2259,7 +2259,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd",
       "web": "no",
       "img": "star",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2279,7 +2279,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
       "web": "no",
       "img": "studio",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2289,7 +2289,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd",
       "web": "no",
       "img": "sun",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2319,7 +2319,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR3/T5SH/playlist.m3u8",
       "web": "no",
       "img": "t5sat",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2329,7 +2329,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd",
       "web": "no",
       "img": "tcm",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2379,7 +2379,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
       "web": "no",
       "img": "td",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2389,7 +2389,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2399,7 +2399,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd",
       "web": "no",
       "img": "telefe",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2429,7 +2429,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd",
       "web": "no",
       "img": "telehit-plus",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2469,7 +2469,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
       "web": "no",
       "img": "telemundo-int",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2499,7 +2499,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd",
       "web": "no",
       "img": "tlnovelas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2509,7 +2509,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
       "web": "no",
       "img": "tn",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2519,7 +2519,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd",
       "web": "no",
       "img": "tnt",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2529,7 +2529,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TBS/live_dash_cld/TBS.mpd",
       "web": "no",
       "img": "tntnovelas",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2539,7 +2539,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd",
       "web": "no",
       "img": "tnts",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2549,7 +2549,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
       "web": "no",
       "img": "tntsports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2559,7 +2559,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
       "web": "no",
       "img": "tntsports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2599,7 +2599,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd",
       "web": "no",
       "img": "tooncast",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2619,7 +2619,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TVChile/default/index.mpd",
       "web": "no",
       "img": "tvchile",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2629,7 +2629,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd",
       "web": "no",
       "img": "tves",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2679,7 +2679,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
       "web": "no",
       "img": "tvp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2689,7 +2689,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
       "web": "no",
       "img": "tycs",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2699,7 +2699,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
       "web": "no",
       "img": "tycs",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2729,7 +2729,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd",
       "web": "no",
       "img": "tycsports2",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2739,7 +2739,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/SensaEventos1/default/index.mpd",
       "web": "no",
       "img": "tycsports3",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2799,7 +2799,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd",
       "web": "no",
       "img": "universal",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2809,7 +2809,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd",
       "web": "no",
       "img": "unicinema",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2819,7 +2819,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd",
       "web": "no",
       "img": "unicomedy",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2829,7 +2829,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd",
       "web": "no",
       "img": "unicrime",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2839,7 +2839,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd",
       "web": "no",
       "img": "unipremiere",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2849,7 +2849,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd",
       "web": "no",
       "img": "unireality",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2869,7 +2869,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Syfy/live_dash_cld/Syfy.mpd",
       "web": "no",
       "img": "usanet",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2879,7 +2879,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
       "web": "no",
       "img": "veplus",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2919,7 +2919,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd",
       "web": "no",
       "img": "volver",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2929,7 +2929,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd",
       "web": "no",
       "img": "warner",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
@@ -2959,7 +2959,7 @@
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd",
       "web": "no",
       "img": "zoomoo",
-      "license": "https://mrpw.pt.verspective.net?deviceId=MmE4NDczMmYtMjI4OC0zZWE2LWE0M2UtOGQ5ZDQ3MDJjOTZj",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
