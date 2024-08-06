@@ -1114,12 +1114,12 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN 5 HD",
-      "link": "http://45.189.108.146:1935/cdnrji/espn5/playlist.m3u8",
+      "name": "ESPN 5",
+      "link": "http://45.232.176.17:8000/play/a028",
       "web": "no",
       "img": "espn5",
       "license": "no",
-      "ua": "Bantel tv+/2.53 (Linux;Android 13) ExoPlayerLib/2.12.0",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -1154,12 +1154,12 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN Premium HD CL",
-      "link": "http://45.189.108.146:1935/cdnrji/espnpremium/playlist.m3u8",
+      "name": "ESPN Premium CL",
+      "link": "http://45.232.176.17:8000/play/a02r",
       "web": "no",
       "img": "esp",
       "license": "no",
-      "ua": "Bantel tv+/2.53 (Linux;Android 13) ExoPlayerLib/2.12.0",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
