@@ -1154,12 +1154,12 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN Premium CL",
-      "link": "http://45.232.176.17:8000/play/a02r",
+      "name": "ESPN Premium HD CL",
+      "link": "http://45.189.108.146:1935/cdn3/espnpremium.stream/playlist.m3u8",
       "web": "no",
       "img": "esp",
       "license": "no",
-      "ua": "Ktor client",
+      "ua": "ATV-0",
       "origin": "",
       "referer": ""
     },
