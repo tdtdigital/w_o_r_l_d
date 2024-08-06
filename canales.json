@@ -12,16 +12,6 @@
       "referer": "https://player.sensa.com.ar"
     },
   {
-      "name": "24 Horas CL",
-      "link": "http://45.232.176.17:8000/play/a01w",
-      "web": "no",
-      "img": "24h",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-  {
       "name": "24 Horas HD ES",
       "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:12_HD.smil/manifest.mpd",
       "web": "no",
@@ -168,16 +158,6 @@
       "img": "antena3",
       "license": "no",
       "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "ARTV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "artv",
-      "license": "no",
-      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -413,14 +393,14 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Canal 13 HD CL",
-      "link": "http://45.232.176.17:8000/play/a004",
+      "name": "Canal 12 Posadas",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/COR/C12PosD/output.mpd",
       "web": "no",
-      "img": "13",
-      "license": "no",
-      "ua": "Firefox",
+      "img": "docetv",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
-      "referer": ""
+      "referer": "https://player.sensa.com.ar"
     },
     {
       "name": "Canal 26",
@@ -533,6 +513,16 @@
       "referer": ""
     },
     {
+      "name": "CCA",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/output/LVR/CCAH/playlist.m3u8",
+      "web": "no",
+      "img": "cca",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
       "name": "CGTN Español",
       "link": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
       "web": "no",
@@ -557,16 +547,6 @@
       "link": "https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8",
       "web": "no",
       "img": "charrua",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Chilevisión HD",
-      "link": "http://45.232.176.17:8000/play/a00v",
-      "web": "no",
-      "img": "chv",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
@@ -709,16 +689,6 @@
       "img": "cnctv",
       "license": "no",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "CNN Chile",
-      "link": "http://45.232.176.17:8000/play/a01v",
-      "web": "no",
-      "img": "cnncl",
-      "license": "no",
-      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
@@ -954,26 +924,6 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "DMAX",
-      "link": "http://ott.zapitv.com/live/eds_c2/dmax/hls_ts_live_fta/dmax.m3u8",
-      "web": "no",
-      "img": "dmax",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Docu HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "docu",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "DSports",
       "link": "http://45.179.164.30:8000/play/a0fk",
       "web": "no",
@@ -1164,8 +1114,8 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN 5",
-      "link": "http://45.232.176.17:8000/play/a028",
+      "name": "ESPN 5 HD",
+      "link": "http://45.189.108.146:1935/cdnrji/espn5/playlist.m3u8",
       "web": "no",
       "img": "espn5",
       "license": "no",
@@ -1204,22 +1154,12 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN Premium HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd",
+      "name": "ESPN Premium HD CL",
+      "link": "http://45.189.108.146:1935/cdnrji/espnpremium/playlist.m3u8",
       "web": "no",
       "img": "esp",
-      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "ETC TV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "etc",
       "license": "no",
-      "ua": "Firefox",
+      "ua": "Ktor client",
       "origin": "",
       "referer": ""
     },
@@ -1725,40 +1665,10 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Mega 2 HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "megacl2",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Mega HD CL",
-      "link": "http://45.232.176.17:8000/play/a00u",
-      "web": "no",
-      "img": "megacl",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Mega HD ES",
       "link": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/manifest.mpd",
       "web": "no",
       "img": "megaes",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Mega Ficción HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "megaficcion",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
@@ -2139,16 +2049,6 @@
       "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8",
       "web": "no",
       "img": "sabermas",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "SENPAI TV HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "senpai",
       "license": "no",
       "ua": "Firefox",
       "origin": "",
@@ -2555,16 +2455,6 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "TNT Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
-      "web": "no",
-      "img": "tntsports",
-      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
       "name": "TNT Sports Premium HD",
       "link": "http://45.232.176.17:8000/play/a01z",
       "web": "no",
@@ -2645,26 +2535,6 @@
       "referer": ""
     },
     {
-      "name": "TV Más HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "tvmas",
-      "license": "no",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "TVN HD CL",
-      "link": "http://45.232.176.17:8000/play/a00t",
-      "web": "no",
-      "img": "tvn",
-      "license": "no",
-      "ua": "Ktor client",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "TV Perú",
       "link": "https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8",
       "web": "no",
@@ -2687,16 +2557,6 @@
     {
       "name": "TyC Sports HD",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/TyCSport/default/index.mpd",
-      "web": "no",
-      "img": "tycs",
-      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "TyC Sports HD",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
       "web": "no",
       "img": "tycs",
       "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
@@ -2885,26 +2745,6 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "Vía X HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "viax",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Vive HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "vivecl",
-      "license": "no",
-      "ua": "Firefox",
-      "origin": "",
-      "referer": ""
-    },
-    {
       "name": "Vive Kanal D Drama HD",
       "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
       "web": "no",
@@ -2941,16 +2781,6 @@
       "img": "willax",
       "license": "no",
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Zona Latina HD CL",
-      "link": "http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-      "web": "no",
-      "img": "zonalatina",
-      "license": "no",
-      "ua": "Firefox",
       "origin": "",
       "referer": ""
     },
