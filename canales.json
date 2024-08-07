@@ -1119,7 +1119,7 @@
       "web": "no",
       "img": "espn5",
       "license": "no",
-      "ua": "ATV-0",
+      "ua": "Dart/2.19 (dart:io)",
       "origin": "",
       "referer": ""
     },
@@ -1159,7 +1159,7 @@
       "web": "no",
       "img": "esp",
       "license": "no",
-      "ua": "ATV-0",
+      "ua": "Dart/2.19 (dart:io)",
       "origin": "",
       "referer": ""
     },
@@ -1700,7 +1700,7 @@
       "web": "no",
       "img": "mimusicaperu",
       "license": "no",
-      "ua": "ATV-0",
+      "ua": "Dart/2.19 (dart:io)",
       "origin": "",
       "referer": ""
     },
@@ -1730,7 +1730,7 @@
       "web": "no",
       "img": "mimusicasalsa",
       "license": "no",
-      "ua": "ATV-0",
+      "ua": "Dart/2.19 (dart:io)",
       "origin": "",
       "referer": ""
     },
