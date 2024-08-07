@@ -1164,6 +1164,16 @@
       "referer": ""
     },
     {
+      "name": "ESPN Premium HD CL",
+      "link": "http://45.189.108.146:1935/cdn3/espnpremium.stream/playlist.m3u8",
+      "web": "no",
+      "img": "esp",
+      "license": "no",
+      "ua": "ATV-0",
+      "origin": "",
+      "referer": ""
+    },
+    {
       "name": "Eurochannel",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd",
       "web": "no",
