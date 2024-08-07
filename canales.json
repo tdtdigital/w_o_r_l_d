@@ -133,7 +133,7 @@
     },
     {
       "name": "América TV PE",
-      "link": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
+      "link": "https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
       "web": "no",
       "img": "americap",
       "license": "no",
@@ -1114,12 +1114,12 @@
       "referer": "https://player.sensa.com.ar"
     },
     {
-      "name": "ESPN 5",
-      "link": "http://45.232.176.17:8000/play/a028",
+      "name": "ESPN 5 HD",
+      "link": "http://45.189.108.146:1935/cdn3/ESPN5.stream/playlist.m3u8",
       "web": "no",
       "img": "espn5",
       "license": "no",
-      "ua": "Ktor client",
+      "ua": "ATV-0",
       "origin": "",
       "referer": ""
     },
@@ -1675,26 +1675,6 @@
       "referer": ""
     },
     {
-      "name": "MiMusica Romantica",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
-      "web": "no",
-      "img": "mimusicaromantica",
-      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
-      "name": "MiMusica Reggaeton",
-      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
-      "web": "no",
-      "img": "mimusicareggaeton",
-      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
-      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
-      "origin": "",
-      "referer": "https://player.sensa.com.ar"
-    },
-    {
       "name": "MiMusica Hits",
       "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
       "web": "no",
@@ -1713,6 +1693,46 @@
       "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
       "origin": "",
       "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica Perú",
+      "link": "http://45.189.108.146:1935/cdnmsl/mimusicaperu/playlist.m3u8",
+      "web": "no",
+      "img": "mimusicaperu",
+      "license": "no",
+      "ua": "ATV-0",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "MiMusica Reggaeton",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+      "web": "no",
+      "img": "mimusicareggaeton",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica Romantica",
+      "link": "https://CSC-NOD-EDGE01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+      "web": "no",
+      "img": "mimusicaromantica",
+      "license": "https://mrpw.pt.verspective.net?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
+      "ua": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-5)",
+      "origin": "",
+      "referer": "https://player.sensa.com.ar"
+    },
+    {
+      "name": "MiMusica Salsa",
+      "link": "http://45.189.108.146:1935/cdnmsl/mimusicasalsa/playlist.m3u8",
+      "web": "no",
+      "img": "mimusicasalsa",
+      "license": "no",
+      "ua": "ATV-0",
+      "origin": "",
+      "referer": ""
     },
     {
       "name": "Milenio Televisión",
